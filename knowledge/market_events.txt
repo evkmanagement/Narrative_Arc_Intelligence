@@ -1,0 +1,198 @@
+[YEAR:2020] [ID:SIG-UNK-2020] [CAT:Unknown]
+# Market Event Bank — EVForward Period 1 (Jan–Sep 2019, U.S. Light-Duty BEVs/PHEVs)
+---
+[YEAR:2020] [ID:SIG-POL-2019-001] [CAT:Policy]
+Federal EV tax credit phase-outs begin for early market leaders The federal plug‑in EV tax credit for Tesla vehicles was reduced from $7,500 to $3,750 on January 1, 2019 and to $1,875 on July 1, 2019 after Tesla exceeded 200,000 qualifying EV sales. The federal EV tax credit for GM vehicles began phasing down on April 1, 2019, with eligible models such as the Chevrolet Bolt EV receiving $3,750 instead of $7,500 through September 30, 2019 before dropping to $1,875 for the next phase.
+---
+[YEAR:2020] [ID:SIG-OEM-2019-002] [CAT:OEM]
+Hyundai delivers first Kona Electric in the U.S. Hyundai made its first U.S. delivery of the Kona Electric, a compact crossover BEV rated around 258 miles of range, with U.S. pricing starting at $36,450 before incentives and initial availability focused on California and other ZEV states.
+---
+[YEAR:2020] [ID:SIG-OEM-2019-003] [CAT:OEM]
+Tesla launches $35,000 Model 3 Standard Range and Standard Range Plus Tesla introduced the Model 3 Standard Range at a base price of $35,000 plus destination and launched the Standard Range Plus variant offering roughly 240 miles of range and upgraded interior and performance at a modest price premium.
+---
+[YEAR:2020] [ID:SIG-OEM-2019-004] [CAT:OEM]
+Nissan introduces Leaf Plus long‑range variant for U.S. market Nissan launched the 2019 Leaf Plus with a 62 kWh battery and EPA‑estimated range up to 226 miles for the S Plus trim, at a starting U.S. price around $37,445, roughly $6,500 above the standard 40 kWh Leaf.
+---
+[YEAR:2020] [ID:SIG-OEM-2019-005] [CAT:OEM]
+Kia Niro EV goes on sale in the United States Kia began U.S. sales of the Niro EV, a compact crossover BEV, with the EX trim priced at $39,495 before incentives and configured as a practical, non‑luxury long‑range EV.
+---
+[YEAR:2020] [ID:SIG-OEM-2019-006] [CAT:OEM]
+Audi e-tron electric SUV deliveries begin for U.S. reservation holders Audi’s e‑tron midsize SUV BEV entered U.S. sale and delivery, with Audi indicating that deliveries to reservation holders would begin in May 2019 at a starting MSRP of $74,800, eligible for the $7,500 federal tax credit.
+---
+[YEAR:2020] [ID:SIG-TECH-2019-007] [CAT:Charging]
+Tesla unveils V3 Supercharger with 250 kW fast charging capability Tesla introduced its V3 Supercharger technology with peak charging rates of up to 250 kW per vehicle, using 1 MW power cabinets and liquid‑cooled cables, enabling a Long Range Model 3 to add up to about 75 miles of range in roughly five minutes under stated conditions.
+---
+[YEAR:2020] [ID:SIG-INFRA-2019-008] [CAT:Infrastructure]
+Electrify America and Walmart complete over 120 ultra-fast charging stations across 34 states Electrify America and Walmart announced that more than 120 ultra‑fast EV charging stations, using 150 kW and 350 kW DC fast chargers, were operational at Walmart stores in 34 U.S. states, as part of a broader plan for hundreds of locations and roughly 2,000 chargers.
+---
+[YEAR:2020] [ID:SIG-ECO-2019-009] [CAT:Economy]
+U.S. retail gasoline prices in 2019 slightly lower than in 2018 The U.S. Energy Information Administration reported that average regular retail gasoline prices in 2019 were about 2.60 dollars per gallon, approximately 11 cents per gallon (4%) lower than in 2018, with projected summer 2019 prices around 2.76 dollars per gallon, about 3% below summer 2018.
+---
+[YEAR:2020] [ID:SIG-ECO-2019-010] [CAT:Economy]
+U.S. plug-in vehicle sales grow but remain a small share of new light-duty sales EEI reported that EV market share grew to 1.8% of U.S. new car sales in March 2019, up from 1.6% a year earlier, with about 61,000 EVs sold in Q1 2019 and cumulative EVs on U.S. roads exceeding 1.18 million as of March 31, 2019. EV Volumes and DOE data indicated that plug‑ins accounted for around 1.8–1.9% of light‑vehicle sales in 2019 and about 1.8% of sales in the first half of 2019.
+---
+[YEAR:2021] [ID:SIG-UNK-2021] [CAT:Unknown]
+# Market Event Bank — EVForward Period 2 (Jan 2020–Jan 2021, U.S. Light-Duty BEVs/PHEVs)
+---
+[YEAR:2021] [ID:SIG-POL-2020-001] [CAT:Policy]
+California sets 2035 goal for 100% zero-emission new light-duty vehicle sales California Governor Gavin Newsom issued Executive Order N‑79‑20 setting a goal that by 2035, 100% of in‑state sales of new passenger cars and trucks will be zero‑emission vehicles. The order directed the California Air Resources Board to develop regulations to implement the 2035 sales requirement and called for expansion of ZEV fueling and charging infrastructure statewide.
+---
+[YEAR:2021] [ID:SIG-TECH-2020-002] [CAT:Technology]
+GM reveals Ultium battery system and flexible global EV platform General Motors revealed its Ultium battery system and third‑generation global EV platform, capable of 50–200 kWh packs, up to an estimated 400 miles of range, and 400 V and 800 V configurations supporting up to 350 kW fast charging on certain truck platforms. GM stated that the Ultium platform would support a wide range of vehicles across Chevrolet, Cadillac, GMC, and Buick, including upcoming models such as an updated Bolt, Bolt EUV, GMC Hummer EV, and Cadillac Lyriq.
+---
+[YEAR:2021] [ID:SIG-OEM-2020-003] [CAT:OEM]
+Tesla begins U.S. deliveries of Model Y crossover Tesla began delivering the Model Y crossover to U.S. customers in March 2020, with first customer deliveries documented around March 13 after Tesla confirmed production ramp‑up earlier in the year. The Model Y launched as a crossover built on the Model 3 platform with up to about 300 miles of range, entering the compact SUV segment.
+---
+[YEAR:2021] [ID:SIG-OEM-2020-004] [CAT:OEM]
+Ford makes first U.S. customer deliveries of Mustang Mach-E Ford delivered its first Mustang Mach‑E electric SUVs to U.S. customers at the end of December 2020, with reports indicating three customer handovers before year‑end and broader deliveries following in early 2021. The Mach‑E entered the market as a battery‑electric SUV positioned under the Mustang brand, with U.S. availability starting from late 2020.
+---
+[YEAR:2021] [ID:SIG-INFRA-2020-005] [CAT:Infrastructure]
+Electrify America network surpasses 500 fast-charging stations across the U.S. Electrify America announced it had opened more than 500 public fast‑charging stations in the United States, hosting over 2,200 individual DC fast chargers and forming what it described as the largest open DC fast‑charging network in the country. The company reported completion of its first cross‑country routes and outlined plans to reach approximately 800 stations and about 3,500 DC fast chargers by the end of 2021.
+---
+[YEAR:2021] [ID:SIG-ECO-2020-006] [CAT:Economy]
+U.S. average gasoline prices in 2020 fall to multiyear lows The U.S. Energy Information Administration reported that regular retail gasoline prices averaged about 2.17 dollars per gallon in 2020, 44 cents per gallon (17%) lower than in 2019 and the lowest annual average since 2016. Weekly U.S. gasoline prices fell from above 2.50 dollars per gallon at the start of the year to around 1.77 dollars per gallon in late April 2020 as travel and demand dropped during the COVID‑19 pandemic.
+---
+[YEAR:2021] [ID:SIG-SUP-2020-007] [CAT:Supply Chain]
+COVID-19 leads to temporary shutdowns of major auto and EV production plants In March 2020, major U.S. automakers temporarily shut down manufacturing plants in response to COVID‑19, including an agreement by Ford, GM, and FCA to suspend production at U.S. facilities and a county order requiring Tesla to stop vehicle assembly at its Fremont, California factory. Industry analyses later noted that over 90% of U.S. automotive production was halted for a period in early 2020 due to these factory shutdowns and related supply chain disruptions.
+---
+[YEAR:2021] [ID:SIG-ECO-2020-008] [CAT:Economy]
+Cumulative U.S. plug-in vehicle sales reach 1.6 million units The U.S. Department of Energy reported that cumulative U.S. plug‑in vehicle sales reached 1.6 million units by August 2020, including about one million battery electric vehicles and 600,000 plug‑in hybrids. DOE noted that since mid‑2015, BEV sales had consistently outpaced PHEV sales and had accounted for 60% or more of plug‑in sales for the preceding year.
+---
+[YEAR:2021] [ID:SIG-OEM-2020-009] [CAT:OEM]
+GM and Honda agree to jointly develop Honda EVs using GM’s Ultium platform General Motors and Honda announced an agreement on April 3, 2020 to jointly develop two all‑new Honda electric vehicles for the U.S. and Canadian markets using GM’s global EV platform and Ultium batteries, with Honda responsible for exterior and interior design. The companies stated that the vehicles would be manufactured at GM plants in North America and targeted for the 2024 model year, building on prior collaborations in batteries and fuel cells.
+---
+[YEAR:2021] [ID:SIG-ECO-2020-010] [CAT:Economy]
+U.S. plug-in vehicle sales grow to an estimated 2–3% share in a down auto market Analyses based on EV Volumes data estimated that U.S. plug‑in vehicle sales totaled roughly 328,000 units in 2020, about 4% higher than 2019 while the overall light‑duty auto market declined by about 15%. These estimates placed 2020 U.S. plug‑in market share in the 2–3% range of total light‑duty vehicle sales.
+---
+[YEAR:2022] [ID:SIG-UNK-2022] [CAT:Unknown]
+# Market Event Bank — EVForward Period 3 (Jan 2021–Dec 2021, U.S. Light-Duty BEVs/PHEVs)
+---
+[YEAR:2022] [ID:SIG-POL-2021-001] [CAT:Policy]
+Biden sets nonbinding goal for 50% of new U.S. vehicle sales to be zero-emission by 2030 On August 5, 2021, President Biden signed an Executive Order setting a nonbinding target that 50% of all new passenger cars and light trucks sold in 2030 be zero‑emissions vehicles, including battery electric, plug‑in hybrid, and fuel cell electric vehicles. The order also directed EPA and NHTSA to develop strengthened fuel economy and greenhouse gas standards for light‑duty vehicles through at least model year 2030, reversing prior rollbacks.
+---
+[YEAR:2022] [ID:SIG-POL-2021-002] [CAT:Policy]
+Infrastructure Investment and Jobs Act allocates $7.5 billion for a national EV charging network President Biden signed the Infrastructure Investment and Jobs Act in November 2021, which included $7.5 billion over five years dedicated to electric vehicle charging infrastructure. Of this amount, $5 billion was allocated to states under the National Electric Vehicle Infrastructure (NEVI) Formula Program and $2.5 billion to competitive Charging and Fueling Infrastructure grants to support publicly accessible charging corridors and community charging.
+---
+[YEAR:2022] [ID:SIG-INFRA-2021-003] [CAT:Infrastructure]
+Electrify America announces “Boost Plan” to more than double fast-charging network by 2025 Electrify America announced a “Boost Plan” to more than double its existing fast‑charging network in the U.S. and Canada to over 1,800 stations and 10,000 individual DC fast chargers by the end of 2025, up from a plan for about 800 stations and 3,500 chargers by the end of 2021. The company indicated the expansion would extend its presence to 49 U.S. states and add new corridors, including an upper Midwest highway route.
+---
+[YEAR:2022] [ID:SIG-ECO-2021-004] [CAT:Economy]
+U.S. average retail gasoline prices in 2021 rise to highest level since 2014 The U.S. Energy Information Administration reported that the average U.S. retail price for regular gasoline in 2021 was 3.01 dollars per gallon, the highest nominal annual average since 2014 and up 0.84 dollars per gallon from 2020. Prices began 2021 at about 2.25 dollars per gallon, surpassed 3.00 dollars per gallon in May after the Colonial Pipeline disruption, and peaked around 3.41 dollars per gallon in early November before ending the year near 3.28 dollars per gallon.
+---
+[YEAR:2022] [ID:SIG-SUP-2021-005] [CAT:Supply Chain]
+Global semiconductor shortage substantially constrains U.S. vehicle production Industry analyses and news reports documented that a global semiconductor shortage in 2021 forced major automakers to idle plants and significantly cut U.S. production, with consulting firm AlixPartners estimating the auto industry would lose about 7.7 million vehicles of production and roughly 210 billion dollars of revenue globally in 2021. Central bank and media commentary noted that insufficient chip supplies and other material shortages, rather than weak demand, became a primary constraint on new vehicle availability, leading to lower inventories and higher prices.
+---
+[YEAR:2022] [ID:SIG-SUP-2021-006] [CAT:Supply Chain]
+GM expands Chevrolet Bolt EV/EUV battery recall and halts new Bolt production General Motors expanded its Chevrolet Bolt EV and Bolt EUV battery recall on August 20, 2021 to cover all approximately 141,000 vehicles produced since 2017 due to rare battery manufacturing defects that could cause fires, and halted production of new Bolts at its Orion Assembly plant to prioritize battery module replacements. GM subsequently extended the production pause at Orion Assembly through the end of February 2022 and placed a hold on retail sales of new Bolts while recall repairs proceeded.
+---
+[YEAR:2022] [ID:SIG-OEM-2021-007] [CAT:OEM]
+Ford unveils F-150 Lightning electric pickup and rapidly accumulates reservations Ford unveiled the F‑150 Light
+---
+[YEAR:2023] [ID:SIG-UNK-2023] [CAT:Unknown]
+# Market Event Bank — EVForward Period 4 (Jan 2022–Feb 2023, U.S. Light-Duty BEVs/PHEVs)
+---
+[YEAR:2023] [ID:SIG-POL-2022-001] [CAT:Policy]
+Inflation Reduction Act overhauls federal EV tax credit and adds North America final assembly requirement On August 16, 2022, the Inflation Reduction Act was signed into law, renaming the existing plug‑in vehicle credit as the “clean vehicle credit,” extending it through 2032, eliminating the 200,000‑vehicle manufacturer cap, and introducing new income and MSRP caps and battery/critical mineral sourcing requirements that phase in starting in 2023. Effective for vehicles purchased after August 16, 2022 and before year‑end 2022, the Act required final assembly in North America for a vehicle to qualify for the credit, while other pre‑existing rules remained in effect for that period.
+---
+[YEAR:2023] [ID:SIG-INFRA-2022-002] [CAT:Infrastructure]
+USDOT approves first wave of state NEVI plans to deploy national highway fast-charging network The U.S. Department of Transportation announced on September 14, 2022 that it had approved National Electric Vehicle Infrastructure (NEVI) Formula Program plans from 35 states, the District of Columbia, and Puerto Rico, allowing those jurisdictions to begin accessing their shares of the $5 billion in formula funding for EV fast‑charging along designated corridors. DOT indicated it expected to review and act on the remaining state plans by September 30, 2022, completing approval of initial nationwide NEVI deployment strategies.
+---
+[YEAR:2023] [ID:SIG-ECO-2022-003] [CAT:Economy]
+U.S. average retail gasoline prices in 2022 peak above $5 per gallon and average $3.95 The U.S. Energy Information Administration reported that the average U.S. retail price for regular gasoline in 2022 was 3.95 dollars per gallon, with prices reaching a 2022 high of 5.01 dollars per gallon in June before declining to about 3.09 dollars per gallon at year‑end. EIA noted that although prices rose sharply in the first half of 2022 due to higher crude prices and recovering travel demand, they ended the year 0.19 dollars per gallon lower than in the first week of January.
+---
+[YEAR:2023] [ID:SIG-ECO-2022-004] [CAT:Economy]
+U.S. plug-in vehicle sales rise to about 931,000 units in 2022 U.S. Department of Energy data based on Argonne National Laboratory’s sales updates show that U.S. plug‑in vehicle sales totaled about 931,000 units in 2022, up from roughly 636,000 in 2021. DOE later reported that plug‑in vehicles (EVs and PHEVs combined) accounted for about 6.8% of all new light‑duty vehicle sales in 2022.
+---
+[YEAR:2023] [ID:SIG-ECO-2022-005] [CAT:Economy]
+Monthly plug-in EV share in U.S. reaches 7.4% of new light-duty vehicle sales for first time DOE’s Fact of the Week #1275 reported that plug‑in electric vehicles (EVs and PHEVs combined) reached 7.4% of all new light‑duty vehicle sales in the United States in September 2022, the first time the monthly share exceeded 7%. Of this total, 6.2% of new light‑duty sales were battery electric vehicles and 1.2% were plug‑in hybrids.
+---
+[YEAR:2023] [ID:SIG-OEM-2022-006] [CAT:OEM]
+Ford begins U.S. customer deliveries of F-150 Lightning electric pickup Ford started customer deliveries of the F‑150 Lightning electric pickup truck in late May 2022, with reports of the first retail customer taking delivery of a Platinum trim F‑150 Lightning on May 26 in Michigan. Ford began shipping completed F‑150 Lightning trucks to U.S. dealers from its Rouge Electric Vehicle Center in mid‑May 2022 as part of the model’s initial rollout.
+---
+[YEAR:2023] [ID:SIG-OEM-2022-007] [CAT:OEM]
+Kia EV6 makes U.S. debut with over 2,000 units sold in first full month Kia reported that it sold 2,125 EV6 units in the United States in February 2022, the model’s first full month on the U.S. market. The EV6, a dedicated battery‑electric crossover based on Hyundai Motor Group’s E‑GMP platform, joined the U.S. market in early 2022 as Kia’s first next‑generation BEV offering.
+---
+[YEAR:2023] [ID:SIG-OEM-2022-008] [CAT:OEM]
+GM unveils Chevrolet Equinox EV with target starting price around $30,000 General Motors revealed the Chevrolet Equinox EV compact SUV on September 8, 2022 and said the base 1LT model was expected to start at around 30,000 dollars in the U.S. when it enters production, positioning it as one of the lowest‑priced compact electric SUVs. GM indicated that the Equinox EV would share a nameplate with the gasoline Equinox but be built on the Ultium platform, with the first RS edition planned to launch in fall 2023 at a price above 30,000 dollars before the lower‑priced base model follows.
+---
+[YEAR:2023] [ID:SIG-TECH-2022-009] [CAT:Technology]
+Number of U.S. light-duty all-electric vehicle models nearly doubles from MY 2021 to MY 2022 DOE’s Fact of the Week #1282 reported that the number of light‑duty all‑electric vehicle models available to U.S. consumers nearly doubled from model year 2021 to model year 2022, increasing from 20 to 38 models. For the first time since 2014, the number of available BEV models in model year 2022 exceeded the number of plug‑in hybrid models.
+---
+[YEAR:2023] [ID:SIG-OEM-2023-010] [CAT:OEM]
+Tesla reduces U.S. EV prices by 6–20% across key Model 3 and Model Y variants On January 13, 2023, Tesla cut U.S. prices for its Model 3 sedan and Model Y crossover by approximately 6–20%, with the base Model Y price reduced from about 65,990 dollars to 52,990 dollars before incentives, according to company pricing and Reuters calculations. Media analyses noted that after factoring in the newly available 7,500‑dollar federal clean vehicle credit, effective discounts on some Model Y configurations could exceed 30% compared with prior pricing.
+---
+[YEAR:2024] [ID:SIG-UNK-2024] [CAT:Unknown]
+# Market Event Bank — EVForward Period 5 (Mar 2023–Nov 2023, U.S. Light-Duty BEVs/PHEVs)
+---
+[YEAR:2024] [ID:SIG-POL-2023-001] [CAT:Policy]
+Treasury issues proposed guidance implementing IRA critical mineral and battery component rules for EV tax credits On March 30, 2023, the U.S. Treasury and IRS released proposed guidance on new clean vehicle tax credit provisions, detailing how manufacturers must calculate compliance with Inflation Reduction Act critical mineral and battery component sourcing requirements. Treasury stated that beginning with vehicles placed in service on or after April 18, 2023, the $7,500 clean vehicle credit is split into a $3,750 portion for meeting escalating critical mineral sourcing thresholds and a $3,750 portion for meeting escalating North American battery component manufacturing or assembly thresholds.
+---
+[YEAR:2024] [ID:SIG-POL-2023-002] [CAT:Policy]
+EPA proposes strongest-ever light- and medium-duty vehicle emissions standards for model years 2027–2032 On April 11, 2023, EPA proposed new greenhouse gas and multi‑pollutant emissions standards for light‑ and medium‑duty vehicles for model years 2027 and later, projecting that the model year 2032 light‑duty standards would reduce fleet‑average greenhouse gas emissions by about 56% compared with the 2026 standards. EPA analysis indicated that automaker compliance pathways under the proposal could result in electric vehicles comprising up to roughly 60–67% of new light‑duty vehicle sales by 2032.
+---
+[YEAR:2024] [ID:SIG-CHA-2023-003] [CAT:Charging]
+Ford reaches agreement for Ford EVs to access Tesla Supercharger network and adopt NACS from 2025 On May 25, 2023, Ford announced an agreement with Tesla that will allow Mustang Mach‑E, F‑150 Lightning, and E‑Transit customers to access more than 12,000 Tesla V3 Superchargers in the U.S. and Canada starting in early 2024 via an adapter and software integration. Ford stated that beginning in 2025, its next‑generation EVs in North America will be built with the North American Charging Standard (NACS) connector, enabling direct use of Tesla Superchargers without an adapter.
+---
+[YEAR:2024] [ID:SIG-CHA-2023-004] [CAT:Charging]
+GM announces plan to adopt NACS and provide GM EV drivers access to Tesla Supercharger network On June 8, 2023, General Motors announced it would integrate the North American Charging Standard connector into its EVs beginning in 2025 and provide GM EV drivers access to more than 12,000 Tesla Superchargers across North America starting in 2024 via an adapter. GM indicated that this collaboration complements its Ultium Charge 360 initiative, which already provided GM EV drivers access to over 134,000 chargers through aggregated networks and mobile apps.
+---
+[YEAR:2024] [ID:SIG-INFRA-2023-005] [CAT:Infrastructure]
+Ohio breaks ground on first NEVI-funded fast-charging station under U.S. national network program The Joint Office of Energy and Transportation reported that on October 18, 2023, Ohio became the first state to break ground on a National Electric Vehicle Infrastructure (NEVI) Formula Program fast‑charging station, located west of Columbus. The site, at a Pilot Flying J location in London, Ohio, later opened on December 13, 2023 as the first operational NEVI‑funded DC fast‑charging station in the United States.
+---
+[YEAR:2024] [ID:SIG-ECO-2023-006] [CAT:Economy]
+U.S. plug-in vehicle share peaks around 9.9% of monthly light-duty sales in September 2023 Analysis of Argonne National Laboratory data summarized by InsideEVs indicated that plug‑in electric vehicles reached a record monthly U.S. market share of about 9.9% of light‑duty vehicle sales in September 2023, the highest share up to that point. The same summary reported that plug‑in vehicles accounted for at least 8% of U.S. light‑duty sales in every month of 2023 through year‑end.
+---
+[YEAR:2025] [ID:SIG-UNK-2025] [CAT:Unknown]
+# Market Event Bank — EVForward Period 6 (Dec 2023–Nov 2024, U.S. Light-Duty BEVs/PHEVs)
+---
+[YEAR:2025] [ID:SIG-INFRA-2023-011] [CAT:Infrastructure]
+First NEVI-funded DC fast-charging station opens in London, Ohio The Ohio Department of Transportation and Pilot Flying J opened a DC fast‑charging station in London, Ohio on December 13, 2023 that state officials identified as the first site built using National Electric Vehicle Infrastructure (NEVI) Formula Program funds. The station includes 350 kW DC fast chargers that can deliver up to 175 kW per vehicle when both sides of a pylon are in use and is located along an interstate corridor west of Columbus.
+---
+[YEAR:2025] [ID:SIG-ECO-2024-001] [CAT:Economy]
+Cumulative U.S. plug-in light-duty vehicle sales reach 4.7 million since 2010 DOE’s Transportation Fact of the Week #1326 reported that cumulative U.S. sales of new light‑duty plug‑in electric vehicles (battery electric and plug‑in hybrid combined) reached 4.7 million units by the end of 2023. The fact sheet noted that it took about eight years to reach the first 1 million plug‑in sales, but only about nine months to grow cumulative sales from 4 million to 4.7 million.
+---
+[YEAR:2025] [ID:SIG-ECO-2024-002] [CAT:Economy]
+EV and hybrid share of U.S. light-duty sales declines slightly in Q1 2024 as BEV share slips The U.S. Energy Information Administration, citing Wards Intelligence estimates, reported that hybrid, plug‑in hybrid, and battery electric vehicles collectively accounted for 18.0% of new light‑duty vehicle sales in Q1 2024, down from 18.8% in Q4 2023, with BEV share falling from 8.1% to 7.0% over the same period. Independent analysis summarizing EIA data similarly noted that combined EV and hybrid share slipped in Q1 2024 even though EV sales volumes were about 7% higher than in Q1 2023.
+---
+[YEAR:2025] [ID:SIG-ECO-2024-003] [CAT:Economy]
+U.S. light-duty EV share remains at about 9% of new sales in 2024 H1, unchanged from 2023 H1 The International Council on Clean Transportation’s global EV market monitor reported that in 2024 H1, electric vehicles accounted for about 9% of new light‑duty vehicle sales in the United States, the same share as in 2023 H1. The report noted that more than 700,000 EVs were sold in the United States in 2024 H1, an 8% increase in volume compared with 2023 H1, but the overall EV market share remained unchanged year‑on‑year.
+---
+[YEAR:2025] [ID:SIG-POL-2024-004] [CAT:Policy]
+EPA finalizes multi-pollutant emissions standards for MY 2027–2032 light- and medium-duty vehicles On March 20, 2024, EPA finalized multi‑pollutant emissions standards for model years 2027–2032 light‑ and medium‑duty vehicles, tightening fleet‑average greenhouse gas and criteria pollutant limits compared with existing 2023–2026 standards. EPA and subsequent technical summaries indicated that the performance‑based rule is consistent with compliance scenarios that could lead to plug‑in electric vehicles (battery electric plus plug‑in hybrids) reaching around 53% of new light‑duty sales by 2030 and about 68% by 2032.
+---
+[YEAR:2025] [ID:SIG-SUP-2023-005] [CAT:Supply Chain]
+Ford plans to cut F-150 Lightning production roughly in half for 2024 In December 2023, reporting based on an internal Ford memo indicated the company planned to cut production of the F‑150 Lightning electric pickup from a previously expected 3,200 units per week to about 1,600 units per week in 2024, a reduction of roughly 50%. In January 2024, Ford publicly confirmed it would scale back F‑150 Lightning production to one shift at the Rouge Electric Vehicle Center starting April 1, 2024, affecting about 1,400 workers and aligning output with “changing market demand.”
+---
+[YEAR:2025] [ID:SIG-SUP-2024-006] [CAT:Supply Chain]
+Ford reduces F-150 Lightning EV plant workforce by about two-thirds amid slower-than-expected EV demand Fortune reported that by late March 2024, Ford had reduced staffing at its F‑150 Lightning assembly plant in Dearborn by about two‑thirds compared with earlier in the year, following earlier moves to halve weekly Lightning production from 3,200 to 1,600 units. The article noted that Ford cited EV sales growth falling below earlier projections and signaled a pivot toward increasing hybrid F‑150 production while maintaining the Lightning as the best‑selling electric pickup in the U.S. by volume.
+---
+[YEAR:2025] [ID:SIG-CHA-2023-007] [CAT:Charging]
+Hyundai and Kia announce adoption of Tesla’s NACS charging standard for North America starting in 2024–2025 On October 5, 2023, Hyundai Motor and Kia announced they would adopt Tesla’s North American Charging Standard (NACS) for EVs sold in the United States starting in the fourth quarter of 2024, with Canadian models to follow in 2025. The companies stated they would provide NACS adapters for existing and future EVs equipped with CCS ports so those vehicles could use more than 12,000 Tesla Superchargers across North America starting in 2025.
+---
+[YEAR:2026] [ID:SIG-UNK-2026] [CAT:Unknown]
+# Market Event Bank — EVForward Period 6 (Dec 2024–Nov 2025, U.S. Light-Duty BEVs/PHEVs)
+---
+[YEAR:2026] [ID:SIG-INFRA-2024-012] [CAT:Infrastructure]
+NEVI network reaches 31 stations and 126 fast-charging ports as U.S. public charging passes 200,000 ports The Joint Office of Energy and Transportation’s Q4 2024 NEVI update reported that there were 126 public fast‑charging ports operating across 31 NEVI stations in nine U.S. states, an 83% increase in open NEVI ports compared with the prior quarter. The same update noted that the total U.S. public charging network had grown to nearly 204,000 ports by late 2024, roughly double the number of public chargers at the end of 2020, and that about 59.1% of the most heavily trafficked highway corridors now had fast chargers at least every 50 miles.
+---
+[YEAR:2026] [ID:SIG-ECO-2024-013] [CAT:Economy]
+U.S. EV sales reach about 1.3 million in 2024, around 8% of new-vehicle market Cox Automotive estimates summarized in early 2025 indicated that U.S. battery electric vehicle sales reached around 1.3 million units in 2024, up from roughly 1.1 million in 2023 and representing about 8% of all new‑vehicle sales. Reporting noted that EV sales growth in 2024 continued but at a slower pace than prior years, with a 12% year‑over‑year increase in Q4 2024 to about 356,000 units, partly driven by manufacturer incentives and anticipation of potential changes to federal EV tax credits.
+---
+[YEAR:2026] [ID:SIG-POL-2025-014] [CAT:Policy]
+“One Big Beautiful Bill Act” signed, ending federal EV tax credits for new and used vehicles after September 30, 2025 On July 4, 2025, President Trump signed the “One Big Beautiful Bill Act,” a tax and spending package that terminates the federal clean vehicle tax credits for new and used EVs earlier than previously scheduled, setting a cutoff for acquisitions after September 30, 2025. The law ends the $7,500 tax credit for qualifying new EV purchases and leases and the $4,000 credit for qualifying used EVs as of that date, replacing the Inflation Reduction Act’s original expiration date of December 31, 2032.
+---
+[YEAR:2026] [ID:SIG-POL-2025-015] [CAT:Policy]
+Federal new and used clean vehicle tax credits expire for vehicles purchased after September 30, 2025 Following enactment of the One Big Beautiful Bill Act, federal clean vehicle credits worth up to $7,500 for new EVs and $4,000 for used EVs ceased to be available for vehicles purchased or leased after September 30, 2025, with eligibility limited to buyers who had a binding contract and payment in place by that date. Consumer and tax guidance clarified that purchases completed after the cutoff would no longer qualify for the Section 30D new clean vehicle credit or the used EV credit despite earlier expectations of availability through 2032 under the Inflation Reduction Act.
+---
+[YEAR:2026] [ID:SIG-ECO-2025-016] [CAT:Economy]
+U.S. EV sales surge ahead of September 30, 2025 tax credit cutoff NPR reported that EV sales in the United States surged in the months leading up to the September 30, 2025 expiration of federal EV tax credits, as buyers rushed to secure vehicles or sign binding purchase contracts before incentives ended. Analysis from CleanTechnica described this pre‑deadline period as a major sales “pull‑forward,” reflecting consumers accelerating purchases to capture the up‑to‑$7,500 new EV credit before it was eliminated under the One Big Beautiful Bill Act.
+---
+[YEAR:2026] [ID:SIG-ECO-2025-017] [CAT:Economy]
+U.S. EV sales dip about 2% year-over-year in 2025 after Q4 collapse, with EV share at roughly 7.8% Cox Automotive estimates reported by Kelley Blue Book and other outlets indicated that U.S. EV sales totaled about 1.28 million units in 2025, down roughly 2% from an estimated 1.30 million in 2024, marking the first annual decline after several years of growth. EVs accounted for about 7.8% of 2025 new‑vehicle sales versus 8.1% in 2024, with EV share peaking around 10.5% in Q3 2025 before dropping to about 5.8% in Q4 following the September 30 end of the federal EV tax credits.
+---
+[YEAR:2026] [ID:SIG-ECO-2025-018] [CAT:Economy]
+EV market share plateaus near 8.6% through first five months of 2025 despite rising EV registrations S&P Global Mobility reported that from January through May 2025, new EV retail registrations in the United States rose about 8.1% year‑over‑year to more than 450,000 units, but EV market share remained largely flat at around 8.6%, only 0.2 percentage points higher than a year earlier. The analysis noted that April and May 2025 were the first months since 2020 in which EV market share declined compared with the same months the prior year, indicating that EV sales growth was no longer keeping pace with overall vehicle demand.
+---
+[YEAR:2026] [ID:SIG-ECO-2025-019] [CAT:Economy]
+Tesla U.S. EV market share declines to 46% in 2025 as GM and other brands gain share CleanTechnica’s analysis of 2025 U.S. EV sales found that Tesla’s share of the U.S. EV market declined from about 48.7% in 2024 to about 46% in 2025, with Tesla’s U.S. EV sales falling from roughly 634,000 to about 589,000 units. Over the same period, General Motors’ EV market share increased from about 8.8% to 13.2%, with GM’s EV sales rising from around 92,000 to more than 150,000 units, while several other automakers such as Hyundai–Kia and Volkswagen Group also saw shifts in EV market share.
+---

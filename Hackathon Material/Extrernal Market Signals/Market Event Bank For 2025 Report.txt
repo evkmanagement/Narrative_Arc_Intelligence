@@ -1,0 +1,328 @@
+# Market Event Bank — EVForward Period 6 (Dec 2023–Nov 2024, U.S. Light-Duty BEVs/PHEVs)
+
+## SIG-INFRA-2023-011
+
+**Date**  
+2023-12-13
+
+**Headline**  
+First NEVI-funded DC fast-charging station opens in London, Ohio
+
+**Category**  
+Infrastructure
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Infrastructure
+
+**Signal Direction**  
+Expansion
+
+**Effective Window**  
+- Start: 2023-12-13 (station opens to public)  
+- End: 2024-11-30 (station remains in service throughout this EVForward window)[web:400][web:392]
+
+**Observed Change**  
+The Ohio Department of Transportation and Pilot Flying J opened a DC fast‑charging station in London, Ohio on December 13, 2023 that state officials identified as the first site built using National Electric Vehicle Infrastructure (NEVI) Formula Program funds.[web:400][web:392] The station includes 350 kW DC fast chargers that can deliver up to 175 kW per vehicle when both sides of a pylon are in use and is located along an interstate corridor west of Columbus.[web:400]
+
+**Evidence Themes**  
+Infrastructure Deployment, Public Fast Charging, Federal Funding Implementation, Highway Corridors, Charging Accessibility
+
+**Primary Source**  
+Electrek report on the London, Ohio Pilot Flying J NEVI-funded station, supported by NEVI implementation case material for Ohio[web:400][web:392]
+
+**Evidence Strength**  
+High — state/federal program documentation and independent reporting on station opening[web:400][web:392]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2024-001
+
+**Date**  
+2023-12-31 (status as of end of 2023; published 2024-01-22)
+
+**Headline**  
+Cumulative U.S. plug-in light-duty vehicle sales reach 4.7 million since 2010
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase
+
+**Effective Window**  
+- Start: 2010-12-01 (start of mass-market plug-in sales)  
+- End: 2023-12-31 (cumulative total referenced within this EVForward window)[web:422]
+
+**Observed Change**  
+DOE’s Transportation Fact of the Week #1326 reported that cumulative U.S. sales of new light‑duty plug‑in electric vehicles (battery electric and plug‑in hybrid combined) reached 4.7 million units by the end of 2023.[web:422] The fact sheet noted that it took about eight years to reach the first 1 million plug‑in sales, but only about nine months to grow cumulative sales from 4 million to 4.7 million.[web:422]
+
+**Evidence Themes**  
+Market Penetration, Social Proof (Number of Owners), Competition (EV vs ICE), Awareness
+
+**Primary Source**  
+DOE Vehicle Technologies Office Fact of the Week #1326 on cumulative U.S. plug‑in EV sales since 2010[web:422]
+
+**Evidence Strength**  
+High — federal data series based on Argonne National Laboratory sales updates[web:422]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2024-002
+
+**Date**  
+2024-01-01 – 2024-03-31 (Q1 2024)
+
+**Headline**  
+EV and hybrid share of U.S. light-duty sales declines slightly in Q1 2024 as BEV share slips
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Decrease (share, not absolute volume)
+
+**Effective Window**  
+- Start: 2024-01-01  
+- End: 2024-03-31 (first quarter 2024 sales context)[web:410][web:404]
+
+**Observed Change**  
+The U.S. Energy Information Administration, citing Wards Intelligence estimates, reported that hybrid, plug‑in hybrid, and battery electric vehicles collectively accounted for 18.0% of new light‑duty vehicle sales in Q1 2024, down from 18.8% in Q4 2023, with BEV share falling from 8.1% to 7.0% over the same period.[web:410] Independent analysis summarizing EIA data similarly noted that combined EV and hybrid share slipped in Q1 2024 even though EV sales volumes were about 7% higher than in Q1 2023.[web:404]
+
+**Evidence Themes**  
+Market Penetration, Competition (EV vs ICE), Awareness, Operating Environment
+
+**Primary Source**  
+EIA Today in Energy article on EV and hybrid market share in Q1 2024, supplemented by Electricity Forum summary of the same trend[web:410][web:404]
+
+**Evidence Strength**  
+High — federal statistics and consistent secondary analysis[web:410]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2024-003
+
+**Date**  
+2024-06-30 (H1 2024 snapshot; report published 2024-05-07 for H1 2024 estimates)
+
+**Headline**  
+U.S. light-duty EV share remains at about 9% of new sales in 2024 H1, unchanged from 2023 H1
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Stable (no change in share)
+
+**Effective Window**  
+- Start: 2024-01-01  
+- End: 2024-06-30 (first-half 2024 sales context)[web:421]
+
+**Observed Change**  
+The International Council on Clean Transportation’s global EV market monitor reported that in 2024 H1, electric vehicles accounted for about 9% of new light‑duty vehicle sales in the United States, the same share as in 2023 H1.[web:421] The report noted that more than 700,000 EVs were sold in the United States in 2024 H1, an 8% increase in volume compared with 2023 H1, but the overall EV market share remained unchanged year‑on‑year.[web:421]
+
+**Evidence Themes**  
+Market Penetration, Social Proof, Competition (EV vs ICE), Awareness
+
+**Primary Source**  
+ICCT “Global electric vehicle market monitor for light-duty vehicles” (United States section, 2023–2024 H1 comparison)[web:421]
+
+**Evidence Strength**  
+High — independent research organization using aggregated sales data[web:421]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-POL-2024-004
+
+**Date**  
+2024-03-20
+
+**Headline**  
+EPA finalizes multi-pollutant emissions standards for MY 2027–2032 light- and medium-duty vehicles
+
+**Category**  
+Policy
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Policy
+
+**Signal Direction**  
+Policy Change
+
+**Effective Window**  
+- Start: 2024-03-20 (final rule signed)  
+- End: 2032-12-31 (phase-in period for MY 2027–2032 standards)[web:417][web:430][web:424]
+
+**Observed Change**  
+On March 20, 2024, EPA finalized multi‑pollutant emissions standards for model years 2027–2032 light‑ and medium‑duty vehicles, tightening fleet‑average greenhouse gas and criteria pollutant limits compared with existing 2023–2026 standards.[web:417][web:430] EPA and subsequent technical summaries indicated that the performance‑based rule is consistent with compliance scenarios that could lead to plug‑in electric vehicles (battery electric plus plug‑in hybrids) reaching around 53% of new light‑duty sales by 2030 and about 68% by 2032.[web:430][web:424]
+
+**Evidence Themes**  
+Policy, Emissions Standards, Long-Term Targets, Regulatory Environment, Market Penetration
+
+**Primary Source**  
+EPA regulatory page for the 2027+ light‑ and medium‑duty multi‑pollutant standards, with ICCT and CNN summaries of the final rule and implied EV uptake[web:417][web:430][web:424]
+
+**Evidence Strength**  
+High — federal final rule and expert policy analysis[web:417][web:430]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-SUP-2023-005
+
+**Date**  
+2023-12-10 (supplier memo reported) / 2024-01-18–19 (public confirmation)
+
+**Headline**  
+Ford plans to cut F-150 Lightning production roughly in half for 2024
+
+**Category**  
+Supply Chain
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Reduction
+
+**Effective Window**  
+- Start: 2023-12-10 (production plan memo to suppliers reported)  
+- Midpoint: 2024-04-01 (one-shift schedule at Rouge EV Center takes effect)  
+- End: 2024-11-30 (reduced production rate during this EVForward window)[web:411][web:413][web:414][web:409]
+
+**Observed Change**  
+In December 2023, reporting based on an internal Ford memo indicated the company planned to cut production of the F‑150 Lightning electric pickup from a previously expected 3,200 units per week to about 1,600 units per week in 2024, a reduction of roughly 50%.[web:411][web:414] In January 2024, Ford publicly confirmed it would scale back F‑150 Lightning production to one shift at the Rouge Electric Vehicle Center starting April 1, 2024, affecting about 1,400 workers and aligning output with “changing market demand.”[web:413][web:409]
+
+**Evidence Themes**  
+Production Capacity, Model Availability, Supply Chain Resilience, Pricing and Profitability
+
+**Primary Source**  
+Automotive News–based reporting via Investing.com on Ford’s supplier memo and subsequent Ford statements reported by CNN, Electrek, and Car and Driver on the 2024 production reduction[web:411][web:413][web:414][web:409]
+
+**Evidence Strength**  
+High — corroborated by multiple outlets quoting Ford’s production plans and statements[web:414][web:409]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-SUP-2024-006
+
+**Date**  
+2024-03-29
+
+**Headline**  
+Ford reduces F-150 Lightning EV plant workforce by about two-thirds amid slower-than-expected EV demand
+
+**Category**  
+Supply Chain
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Reduction
+
+**Effective Window**  
+- Start: 2024-03-29 (workforce reduction reported)  
+- End: 2024-11-30 (reduced staffing level at Lightning plant over this EVForward window)[web:416]
+
+**Observed Change**  
+Fortune reported that by late March 2024, Ford had reduced staffing at its F‑150 Lightning assembly plant in Dearborn by about two‑thirds compared with earlier in the year, following earlier moves to halve weekly Lightning production from 3,200 to 1,600 units.[web:416] The article noted that Ford cited EV sales growth falling below earlier projections and signaled a pivot toward increasing hybrid F‑150 production while maintaining the Lightning as the best‑selling electric pickup in the U.S. by volume.[web:416]
+
+**Evidence Themes**  
+Production Capacity, Model Availability, Supply Chain Resilience, OEM Strategy (EV vs Hybrid Mix)
+
+**Primary Source**  
+Fortune article on Ford’s F‑150 Lightning plant workforce reductions and updated EV strategy[web:416]
+
+**Evidence Strength**  
+Medium — detailed company-related reporting from a major business outlet[web:416]
+
+**Verification Status**  
+Single-source (consistent with prior production-cut reports)
+
+---
+
+## SIG-CHA-2023-007
+
+**Date**  
+2023-10-05
+
+**Headline**  
+Hyundai and Kia announce adoption of Tesla’s NACS charging standard for North America starting in 2024–2025
+
+**Category**  
+Charging
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Infrastructure
+
+**Signal Direction**  
+Expansion
+
+**Effective Window**  
+- Start: 2023-10-05 (NACS adoption announcement)  
+- End: 2025-12-31 (planned rollout of NACS ports and adapters, overlapping this EVForward window)[web:407]
+
+**Observed Change**  
+On October 5, 2023, Hyundai Motor and Kia announced they would adopt Tesla’s North American Charging Standard (NACS) for EVs sold in the United States starting in the fourth quarter of 2024, with Canadian models to follow in 2025.[web:407] The companies stated they would provide NACS adapters for existing and future EVs equipped with CCS ports so those vehicles could use more than 12,000 Tesla Superchargers across North America starting in 2025.[web:407]
+
+**Evidence Themes**  
+Public Fast Charging, Charging Accessibility, Network Interoperability, Connector Standards, Infrastructure Coverage
+
+**Primary Source**  
+Reuters report on Hyundai and Kia’s decision to adopt Tesla’s NACS in the U.S. and Canada[web:407]
+
+**Evidence Strength**  
+High — major newswire citing OEM announcements[web:407]
+
+**Verification Status**  
+Verified

@@ -1,0 +1,409 @@
+# Market Event Bank — EVForward Period 2 (Jan 2020–Jan 2021, U.S. Light-Duty BEVs/PHEVs)
+
+## SIG-POL-2020-001
+
+**Date**  
+2020-09-23
+
+**Headline**  
+California sets 2035 goal for 100% zero-emission new light-duty vehicle sales
+
+**Category**  
+Policy
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Policy
+
+**Signal Direction**  
+Policy Change
+
+**Effective Window**  
+- Start: 2020-09-23 (Executive Order issued)  
+- End: Still Active (target year 2035; implementing regulations under development)[web:290][web:292][web:295]
+
+**Observed Change**  
+California Governor Gavin Newsom issued Executive Order N‑79‑20 setting a goal that by 2035, 100% of in‑state sales of new passenger cars and trucks will be zero‑emission vehicles.[web:290][web:292][web:295] The order directed the California Air Resources Board to develop regulations to implement the 2035 sales requirement and called for expansion of ZEV fueling and charging infrastructure statewide.[web:290][web:292][web:298]
+
+**Evidence Themes**  
+Policy, Incentives, Model Availability, Infrastructure Planning, Long-Term Targets
+
+**Primary Source**  
+Governor of California Executive Order N‑79‑20 and AFDC ZEV sales requirement summary[web:292][web:295][web:290]
+
+**Evidence Strength**  
+High — official state executive order and government program documentation[web:292][web:295]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-TECH-2020-002
+
+**Date**  
+2020-03-04
+
+**Headline**  
+GM reveals Ultium battery system and flexible global EV platform
+
+**Category**  
+Technology
+
+**Signal Class**  
+Technology
+
+**Signal Vector**  
+Technology
+
+**Signal Direction**  
+Technology Improvement
+
+**Effective Window**  
+- Start: 2020-03-04 (Ultium architecture revealed)  
+- End: Still Active (platform underpins GM EV launches beyond 2020)[web:140][web:299]
+
+**Observed Change**  
+General Motors revealed its Ultium battery system and third‑generation global EV platform, capable of 50–200 kWh packs, up to an estimated 400 miles of range, and 400 V and 800 V configurations supporting up to 350 kW fast charging on certain truck platforms.[web:140][web:299] GM stated that the Ultium platform would support a wide range of vehicles across Chevrolet, Cadillac, GMC, and Buick, including upcoming models such as an updated Bolt, Bolt EUV, GMC Hummer EV, and Cadillac Lyriq.[web:140][web:299]
+
+**Evidence Themes**  
+Battery Technology, Platform Architecture, Range Confidence, Fast-Charging Capability, Model Pipeline
+
+**Primary Source**  
+GM Ultium platform reveal as reported by TechCrunch and EE Power, based on GM’s event disclosures[web:140][web:299]
+
+**Evidence Strength**  
+High — OEM technical presentation covered by major technology and industry outlets[web:140][web:299]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-OEM-2020-003
+
+**Date**  
+2020-03-13
+
+**Headline**  
+Tesla begins U.S. deliveries of Model Y crossover
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch
+
+**Effective Window**  
+- Start: 2020-03-13 (first U.S. customer deliveries reported)  
+- End: Still Active (Model Y remains in production beyond Jan 2021)[web:160][web:153][web:156]
+
+**Observed Change**  
+Tesla began delivering the Model Y crossover to U.S. customers in March 2020, with first customer deliveries documented around March 13 after Tesla confirmed production ramp‑up earlier in the year.[web:160][web:153] The Model Y launched as a crossover built on the Model 3 platform with up to about 300 miles of range, entering the compact SUV segment.[web:153][web:148]
+
+**Evidence Themes**  
+Product Availability, Body Style (Crossover/SUV), Range Confidence, Competition, Awareness
+
+**Primary Source**  
+Electrek reporting on the start of Model Y deliveries and Nasdaq coverage of early deliveries[web:160][web:153][web:156]
+
+**Evidence Strength**  
+High — widely reported launch by multiple news and EV-specific outlets[web:160][web:153]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-OEM-2020-004
+
+**Date**  
+2020-12-30 (first deliveries by end of December 2020)
+
+**Headline**  
+Ford makes first U.S. customer deliveries of Mustang Mach-E
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch
+
+**Effective Window**  
+- Start: 2020-12-31 (Ford confirms a small number of deliveries in Dec 2020)  
+- End: Still Active (volume deliveries continue in 2021 and beyond)[web:171][web:164][web:163]
+
+**Observed Change**  
+Ford delivered its first Mustang Mach‑E electric SUVs to U.S. customers at the end of December 2020, with reports indicating three customer handovers before year‑end and broader deliveries following in early 2021.[web:171][web:164] The Mach‑E entered the market as a battery‑electric SUV positioned under the Mustang brand, with U.S. availability starting from late 2020.[web:171][web:163]
+
+**Evidence Themes**  
+Product Availability, Body Style (SUV), Legacy OEM Entry, Competition, Awareness
+
+**Primary Source**  
+Electrive coverage of Mach‑E production and first deliveries, supported by later Ford and industry reporting[web:171][web:164]
+
+**Evidence Strength**  
+Medium — primary reporting from EV news outlet, corroborated by subsequent production summaries[web:171][web:164]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-INFRA-2020-005
+
+**Date**  
+2020-11-10
+
+**Headline**  
+Electrify America network surpasses 500 fast-charging stations across the U.S.
+
+**Category**  
+Infrastructure
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Infrastructure
+
+**Signal Direction**  
+Expansion
+
+**Effective Window**  
+- Start: 2020-11-10 (500th station milestone announced)  
+- End: Still Active (stations remain operational and network continues expansion beyond Jan 2021)[web:142][web:165][web:167]
+
+**Observed Change**  
+Electrify America announced it had opened more than 500 public fast‑charging stations in the United States, hosting over 2,200 individual DC fast chargers and forming what it described as the largest open DC fast‑charging network in the country.[web:142][web:165] The company reported completion of its first cross‑country routes and outlined plans to reach approximately 800 stations and about 3,500 DC fast chargers by the end of 2021.[web:142][web:165][web:309]
+
+**Evidence Themes**  
+Infrastructure Coverage, Public Fast Charging, Charging Accessibility, Practicality (Long-Distance Travel), Non-Tesla Network Availability
+
+**Primary Source**  
+Electrify America press release on surpassing 500 charging stations, supported by Electrek and local business coverage[web:142][web:165][web:167]
+
+**Evidence Strength**  
+High — corporate press release with corroborating reports[web:142][web:165]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-ECO-2020-006
+
+**Date**  
+2020-01-01 – 2020-12-31
+
+**Headline**  
+U.S. average gasoline prices in 2020 fall to multiyear lows
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Decrease
+
+**Effective Window**  
+- Start: 2020-01-01  
+- End: 2020-12-31 (annual pricing context for 2020)[web:141][web:47][web:138]
+
+**Observed Change**  
+The U.S. Energy Information Administration reported that regular retail gasoline prices averaged about 2.17 dollars per gallon in 2020, 44 cents per gallon (17%) lower than in 2019 and the lowest annual average since 2016.[web:141] Weekly U.S. gasoline prices fell from above 2.50 dollars per gallon at the start of the year to around 1.77 dollars per gallon in late April 2020 as travel and demand dropped during the COVID‑19 pandemic.[web:141][web:47][web:138]
+
+**Evidence Themes**  
+Operating Cost Context, Fuel Savings, Affordability, Practicality (Running Costs), Competition (ICE vs EV)
+
+**Primary Source**  
+U.S. EIA Today in Energy analysis of 2020 gasoline prices and EIA gasoline price data series[web:141][web:47]
+
+**Evidence Strength**  
+High — government energy statistics and analysis[web:141][web:47]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-SUP-2020-007
+
+**Date**  
+2020-03-18 (onset of widespread U.S. auto plant shutdowns)
+
+**Headline**  
+COVID-19 leads to temporary shutdowns of major auto and EV production plants
+
+**Category**  
+Supply Chain
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Constraint
+
+**Effective Window**  
+- Start: 2020-03-18 (Detroit Three announce temporary shutdowns; Tesla Fremont ordered to halt production)  
+- End: 2020-05-31 (initial shutdown wave; production gradually restarts, though supply chain impacts persist)[web:293][web:291][web:306]
+
+**Observed Change**  
+In March 2020, major U.S. automakers temporarily shut down manufacturing plants in response to COVID‑19, including an agreement by Ford, GM, and FCA to suspend production at U.S. facilities and a county order requiring Tesla to stop vehicle assembly at its Fremont, California factory.[web:293] Industry analyses later noted that over 90% of U.S. automotive production was halted for a period in early 2020 due to these factory shutdowns and related supply chain disruptions.[web:306][web:291]
+
+**Evidence Themes**  
+Production Capacity, Model Availability, Supply Chain Resilience, Delivery Timing
+
+**Primary Source**  
+News reporting on March 2020 shutdowns (24/7 Wall St., Electrek) and subsequent automotive industry COVID‑19 impact studies[web:293][web:291][web:306]
+
+**Evidence Strength**  
+High — widely reported shutdowns and documented in later industry/agency analyses[web:293][web:306]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-ECO-2020-008
+
+**Date**  
+2020-08-31
+
+**Headline**  
+Cumulative U.S. plug-in vehicle sales reach 1.6 million units
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase
+
+**Effective Window**  
+- Start: 2020-08-31 (DOE milestone date)  
+- End: 2021-01-31 (context for late‑2020 and early‑2021 market state)[web:304]
+
+**Observed Change**  
+The U.S. Department of Energy reported that cumulative U.S. plug‑in vehicle sales reached 1.6 million units by August 2020, including about one million battery electric vehicles and 600,000 plug‑in hybrids.[web:304] DOE noted that since mid‑2015, BEV sales had consistently outpaced PHEV sales and had accounted for 60% or more of plug‑in sales for the preceding year.[web:304]
+
+**Evidence Themes**  
+Market Penetration, Social Proof (Number of Owners), Competition, Awareness, Fleet Size
+
+**Primary Source**  
+DOE Vehicle Technologies Office Fact of the Week #1153 on cumulative U.S. plug‑in vehicle sales[web:304]
+
+**Evidence Strength**  
+High — U.S. DOE official statistics[web:304]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-OEM-2020-009
+
+**Date**  
+2020-04-03
+
+**Headline**  
+GM and Honda agree to jointly develop Honda EVs using GM’s Ultium platform
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Partnership / Expansion
+
+**Effective Window**  
+- Start: 2020-04-03 (joint development agreement announced)  
+- End: Still Active (vehicles planned for 2024 model year and beyond)[web:300][web:301][web:302]
+
+**Observed Change**  
+General Motors and Honda announced an agreement on April 3, 2020 to jointly develop two all‑new Honda electric vehicles for the U.S. and Canadian markets using GM’s global EV platform and Ultium batteries, with Honda responsible for exterior and interior design.[web:300] The companies stated that the vehicles would be manufactured at GM plants in North America and targeted for the 2024 model year, building on prior collaborations in batteries and fuel cells.[web:300][web:301][web:302]
+
+**Evidence Themes**  
+Platform Sharing, Supply Capacity, Model Pipeline, Technology Collaboration, Competition
+
+**Primary Source**  
+Honda global press release and GM investor communications on the Ultium-based EV development agreement[web:300][web:302]
+
+**Evidence Strength**  
+High — OEM press materials, supplemented by major business media coverage[web:300][web:301][web:302]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2020-010
+
+**Date**  
+2020-12-31 (full-year 2020 market outcome)
+
+**Headline**  
+U.S. plug-in vehicle sales grow to an estimated 2–3% share in a down auto market
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase (EV share vs total market)
+
+**Effective Window**  
+- Start: 2020-01-01  
+- End: 2020-12-31 (2020 sales context for EVs vs overall light-duty market)[web:307]
+
+**Observed Change**  
+Analyses based on EV Volumes data estimated that U.S. plug‑in vehicle sales totaled roughly 328,000 units in 2020, about 4% higher than 2019 while the overall light‑duty auto market declined by about 15%.[web:307] These estimates placed 2020 U.S. plug‑in market share in the 2–3% range of total light‑duty vehicle sales.[web:307]
+
+**Evidence Themes**  
+Market Penetration, Social Proof, Competition (EV vs ICE), Awareness
+
+**Primary Source**  
+CleanTechnica summary of 2020 U.S. EV sales using EV Volumes data[web:307]
+
+**Evidence Strength**  
+Medium — industry data aggregation and analysis (EV Volumes via secondary reporting)[web:307]
+
+**Verification Status**  
+Multi-source (cross-checkable against other industry/DOE summaries)

@@ -1,0 +1,129 @@
+Report:
+EVForward 2021 Core Report
+
+1. Methodology
+•	Sample size: Total sample: n=10,218. Premium: n=1,558; Mainstream: n=8,005; Alternative Powertrain: n=655.
+•	Fieldwork: Dec. 2020 - Feb. 2021.
+•	Target population: U.S. market only; Age 18-80 years old; Primary vehicle household must be MY2015 or newer; Must have had an active role in the purchase/lease decision; Intend to purchase a new vehicle within 5 years; Must not work in market research, automotive, or for an electric utility company.
+•	Survey methodology: 25 minute Online Survey. Included over 600 data points for each respondent.
+•	Weighting: Data weighted by segment, state, brand, age, gender, race & Hispanic.
+•	Methodology changes: Algorithms based on advanced modeling and an extensive dataset serve as EVForward’s foundation, with continual feedback resulting in an ever-evolving, always improving model.
+
+2. Research Evidence
+
+EV Intention & EV Groups
+•	18% of vehicle buyers identified as EV Intenders in 2021.
+•	EV Intenders generated an EVForward Score of 82 in 2021, compared to 79 in 2020.
+•	41% of vehicle buyers identified as EV Open in 2021, compared to 39% in 2020.
+•	EV Open generated an EVForward Score of 52 in 2021, compared to 50 in 2020.
+•	42% of vehicle buyers identified as EV Resistant in 2021, compared to 44% in 2020.
+•	EV Resistant generated an EVForward Score of 27 in 2021, compared to 26 in 2020.
+
+Buyer Personas
+•	Old Guard persona represents 24% of buyers (n=2,256) with an average EVForward Score of 33.
+•	Skeptic persona represents 12% of buyers (n=1,134) with an average EVForward Score of 39.
+•	Survivor persona represents 23% of buyers (n=2,305) with an average EVForward Score of 43.
+•	Steward persona represents 21% of buyers (n=2,332) with an average EVForward Score of 56.
+•	Young Enthusiast persona represents 18% of buyers (n=1,891) with an average EVForward Score of 61.
+•	Torchbearer persona represents 2% of buyers (n=300) with an average EVForward Score of 79.
+
+Purchase Intent
+•	3% of buyers are convinced their next vehicle will be a BEV, up from 2% in 2020.
+•	18% of buyers are waiting for a BEV.
+•	10% of buyers have an interest in PHEV, not BEV.
+•	42% of buyers have no interest in BEV/PHEV.
+•	27% of buyers do not know their interest level in BEV.
+
+Familiarity
+•	23% of the total sample "Drove" or "Know Well" BEVs in 2021, compared to 22% in 2020.
+•	10% of the total sample "Drove" or "Know Well" PHEVs in 2021, compared to 9% in 2020.
+•	3% of the total sample "Drove" or "Know Well" FCEVs in 2021, compared to 3% in 2020.
+•	Over 30% of car buyers know at least one BEV owner.
+
+Benefits (2020 Data)
+•	54% of buyers selected lower operating cost (cost to refuel) as an expected EV benefit.
+•	44% of buyers selected environmental benefits as an expected EV benefit.
+•	42% of buyers selected no need to go to a gas station as an expected EV benefit.
+•	40% of buyers selected reduced dependence on fossil fuels as an expected EV benefit.
+•	26% of buyers selected lower maintenance as an expected EV benefit.
+
+Barriers (2020 Data)
+•	41% of buyers selected driving range as an EV barrier.
+•	33% of buyers selected uncertainty about battery life and replacement cost as an EV barrier.
+•	26% of buyers selected inconvenience of recharging battery as an EV barrier.
+•	25% of buyers selected access to public charging/refueling as an EV barrier.
+•	21% of buyers selected charge time as an EV barrier.
+
+Required Range
+•	Total sample mean miles required for consideration was 418 miles in 2021, compared to 436 miles in 2020.
+•	23% of the total sample will never seriously consider a BEV in 2021, compared to 25% in 2020.
+
+Vehicle Preferences
+•	18% of buyers intend to purchase a Midsize SUV next.
+•	17% of buyers intend to purchase a Compact SUV next.
+•	12% of buyers intend to purchase a Midsize/Large Car next.
+•	10% of buyers intend to purchase a Fullsize Pickup next.
+
+Practicality
+•	Nearly 30% of all drivers take trips of 200 miles or more roundtrip each month.
+
+Environmental Decision-Making & Automotive Innovation
+•	89% of buyers state that getting the most for their money is key to them in 2021.
+•	68% of buyers state they are more interested in a vehicle's quality than appearance or brand in 2021.
+•	61% of buyers state climate change is a major problem facing the world today in 2021.
+•	47% of buyers state they would like to drive an environmentally friendly vehicle in 2021.
+•	Those that feel environmental concerns are exaggerated grew 5 points to 29%.
+
+3. Market Evidence
+•	EV models: At the beginning of the research period, Midsize SUVs had 1 BEV model and 21 ICE models available; Compact SUVs had 1 BEV model and 18 ICE models available; Fullsize Pickups had 0 BEV models and 6 ICE models available.
+•	Charging infrastructure: The mean Likelihood to Purchase score for buyers who notice charging stations or signage in their typical week is 46.3.
+
+4. Executive Observations
+•	"Companies that can predict what these EV Intenders want (not current/past EV owners) will be the most successful."
+•	"BEV familiarity rose in 2021. Of particular note was the rise among pickup intenders."
+•	"Arguably more important than BEV familiarity, the number of consumers that know a BEV owner increased significantly in 2021."
+•	"Now, over 30% of car buyers know at least one BEV owner – an important step in demystifying BEV ownership."
+•	"More car buyers are now EV Intenders"
+•	"COVID-19 had a clear impact... we saw increases in unity with the environment and altruism as guiding life values."
+•	"Charger investment is working"
+•	"There is not just one EV buyer – and thus not just one EV tipping point"
+•	"The two personas most likely to buy an EV next (Torchbearer and Young Enthusiast) are the least price sensitive of all buyers – counter to the thinking that cost parity is the EV tipping point."
+•	"Growing BEV Interest: 3% of buyers (up from 2% in 2020) are convinced that their next vehicle will be a BEV – in line with industry forecasts for BEV market share for 2021."
+•	"Driving range remains the largest barrier to EV adoption – and one of the top desires among EV owners."
+•	"Once again, battery life/replacement cost ranks as the #2 barrier, an issue OEMs have largely not addressed outside of offering the governmentmandated minimum battery warranties."
+•	"Truck Intenders Like Choices: A charge time consistent with gasoline refill times continues to have the biggest impact on BEV purchase intent across all subgroups."
+•	"There’s a clear link between awareness of charging and stated likelihood to purchase an EV."
+•	"Value still tops the list for new vehicle buyers, however, it slipped down from last year."
+•	"Newer Battery-Powered Devices Signal EV Interest: As expected and similar to last year, higher use of advanced battery devices indicate a higher acceptance of EVs."
+•	"EV Familiarity Improves: BEV familiarity improved across all personas and the most among the three EV powertrains, up 3% from 2020."
+
+5. Strategic Recommendations
+•	"Companies that can predict what these EV Intenders want (not current/past EV owners) will be the most successful."
+•	"The six distinct EV buyer personas identified by Escalent show the importance of understanding each buyer."
+
+6. What's New This Year
+•	2021 marks the first year-over-year results for the EVForward US program.
+
+7. Research Highlights
+
+Highlight 1
+•	Measured Evidence: 3% of buyers (up from 2% in 2020) are convinced that their next vehicle will be a BEV.
+•	↓
+•	Executive Observation: Growing BEV Interest is in line with industry forecasts for BEV market share for 2021.
+
+Highlight 2
+•	Measured Evidence: The Torchbearer and Young Enthusiast personas are the least price sensitive of all buyers.
+•	↓
+•	Executive Observation: Counter to the thinking that cost parity is the EV tipping point.
+•	↓
+•	Strategic Recommendation: The six distinct EV buyer personas identified by Escalent show the importance of understanding each buyer.
+
+Highlight 3
+•	Measured Evidence: Over 30% of car buyers know at least one BEV owner.
+•	↓
+•	Executive Observation: An important step in demystifying BEV ownership.
+
+Highlight 4
+•	Measured Evidence: Battery life/replacement cost ranks as the #2 EV barrier.
+•	↓
+•	Executive Observation: An issue OEMs have largely not addressed outside of offering the government-mandated minimum battery warranties.

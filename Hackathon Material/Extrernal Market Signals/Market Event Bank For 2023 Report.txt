@@ -1,0 +1,409 @@
+# Market Event Bank — EVForward Period 4 (Jan 2022–Feb 2023, U.S. Light-Duty BEVs/PHEVs)
+
+## SIG-POL-2022-001
+
+**Date**  
+2022-08-16
+
+**Headline**  
+Inflation Reduction Act overhauls federal EV tax credit and adds North America final assembly requirement
+
+**Category**  
+Policy
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Policy
+
+**Signal Direction**  
+Policy Change
+
+**Effective Window**  
+- Start: 2022-08-16 (IRA signed; new final assembly rule begins for purchases after this date)  
+- End: 2032-12-31 (clean vehicle credit authorization period under IRA)[web:229][web:232][web:370]
+
+**Observed Change**  
+On August 16, 2022, the Inflation Reduction Act was signed into law, renaming the existing plug‑in vehicle credit as the “clean vehicle credit,” extending it through 2032, eliminating the 200,000‑vehicle manufacturer cap, and introducing new income and MSRP caps and battery/critical mineral sourcing requirements that phase in starting in 2023.[web:232][web:370] Effective for vehicles purchased after August 16, 2022 and before year‑end 2022, the Act required final assembly in North America for a vehicle to qualify for the credit, while other pre‑existing rules remained in effect for that period.[web:229][web:353]
+
+**Evidence Themes**  
+Policy, Incentives, Affordability, Eligibility Rules, Final Assembly Location, Battery Sourcing
+
+**Primary Source**  
+U.S. Treasury/IRS FAQ on Inflation Reduction Act EV provisions and law firm summaries of IRA’s EV credit changes[web:229][web:232][web:370]
+
+**Evidence Strength**  
+High — federal guidance and detailed legal analyses of enacted legislation[web:229][web:232]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-INFRA-2022-002
+
+**Date**  
+2022-09-14
+
+**Headline**  
+USDOT approves first wave of state NEVI plans to deploy national highway fast-charging network
+
+**Category**  
+Infrastructure
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Infrastructure
+
+**Signal Direction**  
+Expansion
+
+**Effective Window**  
+- Start: 2022-09-14 (first 35 state, DC, and Puerto Rico plans approved)  
+- End: 2022-09-30 (DOT anticipated review of all remaining plans by end of September 2022)[web:351][web:347]
+
+**Observed Change**  
+The U.S. Department of Transportation announced on September 14, 2022 that it had approved National Electric Vehicle Infrastructure (NEVI) Formula Program plans from 35 states, the District of Columbia, and Puerto Rico, allowing those jurisdictions to begin accessing their shares of the $5 billion in formula funding for EV fast‑charging along designated corridors.[web:351][web:347] DOT indicated it expected to review and act on the remaining state plans by September 30, 2022, completing approval of initial nationwide NEVI deployment strategies.[web:351]
+
+**Evidence Themes**  
+Infrastructure Planning, Public Fast Charging, Federal Funding, Highway Corridors, Charging Accessibility
+
+**Primary Source**  
+NEVI program annual report and summaries of USDOT approval of initial state plans[web:347][web:351]
+
+**Evidence Strength**  
+High — federal program documentation and official announcements[web:347][web:351]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2022-003
+
+**Date**  
+2022-01-01 – 2022-12-31
+
+**Headline**  
+U.S. average retail gasoline prices in 2022 peak above $5 per gallon and average $3.95
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase (with mid-year spike)
+
+**Effective Window**  
+- Start: 2022-01-01  
+- End: 2022-12-31 (annual 2022 fuel-price context)[web:222][web:51]
+
+**Observed Change**  
+The U.S. Energy Information Administration reported that the average U.S. retail price for regular gasoline in 2022 was 3.95 dollars per gallon, with prices reaching a 2022 high of 5.01 dollars per gallon in June before declining to about 3.09 dollars per gallon at year‑end.[web:222] EIA noted that although prices rose sharply in the first half of 2022 due to higher crude prices and recovering travel demand, they ended the year 0.19 dollars per gallon lower than in the first week of January.[web:222]
+
+**Evidence Themes**  
+Operating Cost Context, Fuel Savings, Affordability, Practicality (Running Costs), Competition (ICE vs EV)
+
+**Primary Source**  
+U.S. EIA Today in Energy article on 2022 retail gasoline price trends and associated price data[web:222][web:51]
+
+**Evidence Strength**  
+High — government energy statistics and analysis[web:222]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2022-004
+
+**Date**  
+2022-12-31
+
+**Headline**  
+U.S. plug-in vehicle sales rise to about 931,000 units in 2022
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase
+
+**Effective Window**  
+- Start: 2022-01-01  
+- End: 2022-12-31 (full-year 2022 plug-in sales)[web:362][web:365]
+
+**Observed Change**  
+U.S. Department of Energy data based on Argonne National Laboratory’s sales updates show that U.S. plug‑in vehicle sales totaled about 931,000 units in 2022, up from roughly 636,000 in 2021.[web:362] DOE later reported that plug‑in vehicles (EVs and PHEVs combined) accounted for about 6.8% of all new light‑duty vehicle sales in 2022.[web:365][web:368]
+
+**Evidence Themes**  
+Market Penetration, Social Proof (Number of Owners), Competition (EV vs ICE), Awareness
+
+**Primary Source**  
+DOE Vehicle Technologies Office Fact of the Week #1327 sales dataset and subsequent plug‑in share summaries[web:362][web:365]
+
+**Evidence Strength**  
+High — federal data series compiled from Argonne sales updates[web:362]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2022-005
+
+**Date**  
+2022-09-30 (September 2022 monthly snapshot)
+
+**Headline**  
+Monthly plug-in EV share in U.S. reaches 7.4% of new light-duty vehicle sales for first time
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase
+
+**Effective Window**  
+- Start: 2022-09-01  
+- End: 2022-09-30 (September 2022 monthly sales context)[web:355]
+
+**Observed Change**  
+DOE’s Fact of the Week #1275 reported that plug‑in electric vehicles (EVs and PHEVs combined) reached 7.4% of all new light‑duty vehicle sales in the United States in September 2022, the first time the monthly share exceeded 7%.[web:355] Of this total, 6.2% of new light‑duty sales were battery electric vehicles and 1.2% were plug‑in hybrids.[web:355]
+
+**Evidence Themes**  
+Market Penetration, Social Proof, Competition (EV vs ICE), Awareness
+
+**Primary Source**  
+DOE Vehicle Technologies Office Fact of the Week #1275 on monthly plug‑in sales share in September 2022[web:355]
+
+**Evidence Strength**  
+High — federal summary based on Argonne monthly sales data[web:355]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-OEM-2022-006
+
+**Date**  
+2022-05-26
+
+**Headline**  
+Ford begins U.S. customer deliveries of F-150 Lightning electric pickup
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch
+
+**Effective Window**  
+- Start: 2022-05-26 (first retail customer deliveries reported)  
+- End: 2023-02-28 (initial ramp period within this EVForward window)[web:352][web:348][web:235]
+
+**Observed Change**  
+Ford started customer deliveries of the F‑150 Lightning electric pickup truck in late May 2022, with reports of the first retail customer taking delivery of a Platinum trim F‑150 Lightning on May 26 in Michigan.[web:352][web:348] Ford began shipping completed F‑150 Lightning trucks to U.S. dealers from its Rouge Electric Vehicle Center in mid‑May 2022 as part of the model’s initial rollout.[web:235]
+
+**Evidence Themes**  
+Product Availability, Body Style (Pickup), Legacy OEM Entry, Competition, Awareness
+
+**Primary Source**  
+Electrek and CleanTechnica reports on first F‑150 Lightning customer deliveries and Ford shipping announcements[web:352][web:348][web:235]
+
+**Evidence Strength**  
+High — OEM actions documented by multiple EV news outlets[web:352][web:235]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-OEM-2022-007
+
+**Date**  
+2022-02-28 (February 2022 debut month)
+
+**Headline**  
+Kia EV6 makes U.S. debut with over 2,000 units sold in first full month
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch
+
+**Effective Window**  
+- Start: 2022-02-01 (first full U.S. sales month)  
+- End: 2023-02-28 (EV6 remains on sale during this EVForward window)[web:358][web:361]
+
+**Observed Change**  
+Kia reported that it sold 2,125 EV6 units in the United States in February 2022, the model’s first full month on the U.S. market.[web:358] The EV6, a dedicated battery‑electric crossover based on Hyundai Motor Group’s E‑GMP platform, joined the U.S. market in early 2022 as Kia’s first next‑generation BEV offering.[web:358][web:361]
+
+**Evidence Themes**  
+Product Availability, Body Style (Crossover/SUV), Legacy OEM Entry, Competition, Awareness
+
+**Primary Source**  
+AutoWorld News coverage of Kia’s February 2022 EV6 U.S. sales and Kia EV6 model documentation[web:358][web:361]
+
+**Evidence Strength**  
+Medium — OEM sales figures reported via industry press and reference sources[web:358]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-OEM-2022-008
+
+**Date**  
+2022-09-08
+
+**Headline**  
+GM unveils Chevrolet Equinox EV with target starting price around $30,000
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch (announced)
+
+**Effective Window**  
+- Start: 2022-09-08 (Equinox EV revealed and pricing target announced)  
+- End: 2023-02-28 (pre‑launch period within this EVForward window; production slated for fall 2023)[web:357][web:360]
+
+**Observed Change**  
+General Motors revealed the Chevrolet Equinox EV compact SUV on September 8, 2022 and said the base 1LT model was expected to start at around 30,000 dollars in the U.S. when it enters production, positioning it as one of the lowest‑priced compact electric SUVs.[web:357][web:360] GM indicated that the Equinox EV would share a nameplate with the gasoline Equinox but be built on the Ultium platform, with the first RS edition planned to launch in fall 2023 at a price above 30,000 dollars before the lower‑priced base model follows.[web:360]
+
+**Evidence Themes**  
+Affordability, Product Pipeline, Body Style (SUV), Competition, Range Confidence (planned)
+
+**Primary Source**  
+CNN Business and Reuters reporting on the Chevrolet Equinox EV reveal and pricing expectations[web:357][web:360]
+
+**Evidence Strength**  
+High — OEM announcements covered by major business media[web:357][web:360]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-TECH-2022-009
+
+**Date**  
+Model Year 2022 (data published March 20, 2023)
+
+**Headline**  
+Number of U.S. light-duty all-electric vehicle models nearly doubles from MY 2021 to MY 2022
+
+**Category**  
+Technology
+
+**Signal Class**  
+Technology
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Increase
+
+**Effective Window**  
+- Start: Model Year 2022 (vehicles available during calendar 2022)  
+- End: 2022-12-31 (MY 2022 availability within this EVForward window)[web:367]
+
+**Observed Change**  
+DOE’s Fact of the Week #1282 reported that the number of light‑duty all‑electric vehicle models available to U.S. consumers nearly doubled from model year 2021 to model year 2022, increasing from 20 to 38 models.[web:367] For the first time since 2014, the number of available BEV models in model year 2022 exceeded the number of plug‑in hybrid models.[web:367]
+
+**Evidence Themes**  
+Model Availability, Product Diversity, Technology Options, Competition
+
+**Primary Source**  
+DOE Vehicle Technologies Office Fact of the Week #1282 using EPA Fuel Economy data on model offerings[web:367]
+
+**Evidence Strength**  
+High — federal analysis based on EPA model-year data[web:367]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-OEM-2023-010
+
+**Date**  
+2023-01-13
+
+**Headline**  
+Tesla reduces U.S. EV prices by 6–20% across key Model 3 and Model Y variants
+
+**Category**  
+OEM
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Decrease (Vehicle Prices)
+
+**Effective Window**  
+- Start: 2023-01-13 (price cuts posted to Tesla’s U.S. site)  
+- End: 2023-02-28 (price levels and competitive response within this EVForward window)[web:249][web:371][web:255]
+
+**Observed Change**  
+On January 13, 2023, Tesla cut U.S. prices for its Model 3 sedan and Model Y crossover by approximately 6–20%, with the base Model Y price reduced from about 65,990 dollars to 52,990 dollars before incentives, according to company pricing and Reuters calculations.[web:249][web:371] Media analyses noted that after factoring in the newly available 7,500‑dollar federal clean vehicle credit, effective discounts on some Model Y configurations could exceed 30% compared with prior pricing.[web:255][web:371]
+
+**Evidence Themes**  
+Affordability, Vehicle Pricing, Competition, Demand Signals
+
+**Primary Source**  
+Reuters and CNN Business reporting on Tesla’s January 2023 U.S. price reductions, supported by The Verge analysis of price changes and tax credit interaction[web:249][web:371][web:255]
+
+**Evidence Strength**  
+High — widely covered OEM pricing changes documented by major business and technology media[web:249][web:371]
+
+**Verification Status**  
+Multi-source

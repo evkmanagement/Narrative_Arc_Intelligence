@@ -1,0 +1,179 @@
+Report:
+EVForward 2023 Core Report
+
+Methodology
+•	Sample size: Total 2023 EVForward Sample n=10,418.
+•	Sample size (Segments): Total Mainstream Owners n=8,107; Total Luxury Owners n=1,290; Total Alt. Powertrain Owners n=1,021.
+•	Fieldwork: September 2022 – March 2023.
+•	Fieldwork (Recruitment): Recruited monthly (n=~1500).
+•	Target population: U.S. market only (quotas by state), Age 18-80 years old.
+•	Target population (Exclusions): Must not work in market research, automotive, or for an electric utility company.
+•	Target population (Qualifications): Primary vehicle household must be MY2017 or newer, must have had an active role in the purchase/lease decision, and intend to purchase a new vehicle within 5 years.
+•	Survey methodology: 25 Minute Online Survey.
+•	Survey methodology (Data Points): Over 600 data points collected for each respondent.
+•	Weighting: Data weighted by segment, state, brand, age, gender, race & Hispanic.
+•	Methodology changes: Introduced new algorithm inputs and definitions in 2023.
+•	Methodology changes: Updated the vehicle list and reclassified Luxury/Mainstream models in 2023.
+•	Methodology changes: Retired the legacy EVForward segmentation and introduced a new EVForward Buyer Segmentation in 2023 using technological appetite as a key driver.
+•	Methodology changes: Escalent updated its core survey in May of 2023, removing the ability to type and predict Legacy Personas.
+
+Research Evidence
+
+EV Intention & EV Groups
+•	EV Intenders make up 25% of the new car buyer population, a 4ppt increase from last year and a 9ppt increase from 2020.
+•	EV Resistant make up 38% of the new car buyer population, a 0ppt change from 2022.
+•	EV Open make up 35% of the new car buyer population, down from 40% in 2022.
+•	EV Owners make up 3% of the new car buyer population, up from 1% in 2022.
+•	The EVForward Score for EV Owners is 89, down from 90 in 2022.
+•	The EVForward Score for EV Intenders is 83, up from 82 in 2022.
+•	The EVForward Score for EV Open is 49, down from 51 in 2022.
+•	The EVForward Score for EV Resistant is 19, down from 23 in 2022.
+
+Buyer Personas
+•	Trailblazer: 11% of the population, n=1,107, EVForward Score 78.
+•	Altruist: 10% of the population, n=1,085, EVForward Score 65.
+•	Techie: 15% of the population, n=1,534, EVForward Score 50.
+•	Dreamer: 24% of the population, n=2,457, EVForward Score 49.
+•	Pragmatist: 18% of the population, n=1,862, EVForward Score 42.
+•	Traditionalist: 23% of the population, n=2,373, EVForward Score 25.
+
+Purchase Intent
+•	Stated purchase intent for BEV is 35 on a 100 pt. scale, down from 45 in 2022.
+•	29% are interested in purchasing a BEV for their next vehicle, a 5ppt increase YOY.
+•	9% state their next vehicle will be a BEV no matter what.
+•	20% state they will wait for a BEV that works for them.
+•	16% have no interest in a BEV but state a PHEV will work for them.
+•	35% have no interest in either a BEV or PHEV, down from 45% in 2020.
+•	38% of respondents are somewhat or very likely to delay their next vehicle purchase until an EV that better meets their needs is available, up 4ppts from 2022.
+
+BEV Attitudes & Opinion
+•	BEV Opinion is 48 on a 100 pt. scale, down from 55 in 2022.
+•	ICE Opinion is 76 on a 100 pt. scale, up from 72 in 2022.
+•	Net Positive Opinion of BEV is 14%.
+•	Negative opinions of BEVs increased by 7ppts in 2023.
+•	54% of new car buyers would be very anxious or anxious if their next vehicle had to be a BEV.
+•	46% of new car buyers trust the information about BEVs that they have seen in the news and media.
+
+Familiarity
+•	10% of respondents have driven a BEV, up from 8% in 2022.
+•	27% of respondents know BEV technology well, up from 24% in 2022.
+•	32% of respondents know a few BEV owners, a 6ppt improvement from 2022.
+•	6% of respondents know many BEV owners, a 1ppt improvement from 2022.
+•	69% of EV Intenders know at least one person that drives an EV, up 5ppts from last year.
+
+Benefits
+•	Lower operating cost (cost to refuel) is the top expected BEV benefit at 51%.
+•	Environmental benefits is the second highest expected BEV benefit at 42%.
+•	No need to go to a gas station is an expected BEV benefit for 39%.
+•	Reduced dependence on fossil fuels is an expected BEV benefit for 39%.
+•	Lower maintenance is an expected BEV benefit for 26%.
+•	Lower maintenance increased in importance as a benefit by 4ppts in 2023.
+•	Innovative technology increased in importance as a benefit by 3ppts in 2023.
+
+Barriers
+•	Driving range is the top BEV barrier at 38%, a 2ppt decrease from 2022.
+•	Uncertainty about battery life and replacement cost is a BEV barrier for 33%.
+•	Access to public charging/refueling is a BEV barrier for 25%, a 3ppt decrease from 2022.
+•	Inconvenience of recharging battery is a BEV barrier for 25%, a 2ppt decrease from 2022.
+•	Charge time is a BEV barrier for 23%.
+•	Cost or inconvenience of installing home charger is a BEV barrier for 21%.
+•	Access to charging at home/work is a BEV barrier for 16%, a 4ppt decrease from 2022.
+•	Unknown reliability is a BEV barrier for 15%, a 2ppt decrease from 2022.
+
+Charging
+•	32% of respondents notice public charging stations, up from 26% in 2022.
+•	18% of respondents notice both charging stations and signage, up from 17% in 2022.
+•	Mean likelihood to purchase a BEV is 44.5 for those who notice charging stations, 52.4 for those who notice signage, 51.5 for those who notice both, and 25.2 for those who notice neither.
+•	Access to Level 1 charging during the day: EV Owner 45%, EV Intender 54%, EV Open 45%, EV Resistant 42%.
+•	Access to Level 2 charging during the day: EV Owner 61%, EV Intender 34%, EV Open 20%, EV Resistant 14%.
+
+Practicality
+•	Mean BEV Practicality score is 43, up from 39 in 2022.
+•	BEV practicality increased by 4ppts overall in 2023.
+
+Vehicle Preferences
+•	21% are most likely to purchase a Midsize SUV next.
+•	16% are most likely to purchase a Compact SUV next.
+•	11% are most likely to purchase a Fullsize Pickup next.
+•	9% are most likely to purchase a Midsize/Large Car next.
+•	Brand consideration for Toyota BEVs is 32%, a 0ppt change from 2022.
+•	Brand consideration for Ford BEVs is 26%, a 1ppt decrease from 2022.
+•	Brand consideration for Honda BEVs is 24%, a 0ppt change from 2022.
+•	Brand consideration for Tesla BEVs is 22%, a 5ppt decrease from 2022.
+•	Brand awareness of Tesla offering BEVs is 77%, a 5ppt increase from 2022.
+
+Required Range
+•	The mean required driving range to seriously consider a BEV is 411 miles.
+•	Car Intenders require a mean of 385 miles, SUV Intenders 415 miles, and Truck Intenders 445 miles.
+•	Male respondents require a mean of 388 miles, while female respondents require 420 miles.
+•	10% of respondents chose an outlier range of 1,000 miles or higher, up from 5% in 2022.
+
+Demographics
+•	57% of the sample is Male.
+•	The mean age of the sample is 56 years.
+•	The median income of the sample is $99,509.
+•	59% of the sample has a Bachelors Degree or higher.
+•	71% of the sample is Married.
+•	Sample ethnicity: White 82%, African-American 11%, Hispanic Descent 11%.
+•	80% of respondents agree they prefer to shop for vehicles in person, while 32% agree they prefer to shop online.
+
+Market Evidence
+•	Charging infrastructure: There are more than 54,000 stations and ~137,000 public EVSE ports across the U.S., representing a ~20% year-over-year increase from ~114,000 ports in 2022.
+•	Fuel prices: The average U.S. gas price per gallon in 2023 was ~$3.35, down from ~$3.80 in 2022.
+•	Inflation: Inflation is slowing, but rate hikes continue.
+•	Supply chain: Global supply chain bottlenecks are easing up, and chip and inventory shortages are improving.
+•	EV models: Automakers are ramping up production of new BEV models, and BEVs now make up a higher percentage of new car sales than ever before.
+•	Incentives: There is a decrease in the number of EVs qualifying for the federal tax credit.
+•	Government policy: Infrastructure buildout is supported by the passage of the Inflation Reduction Act and the Infrastructure Investment and Jobs Act.
+•	Vehicle Prices: EV prices are still roughly $10k above comparable ICE models.
+•	Insurance: Insurance carriers are increasing premiums specifically on EVs.
+
+Executive Observations
+•	"The proliferation of public charging is only set to accelerate moving forward."
+•	"This all has led to an increase in BEV consideration, a trend that is likely to continue."
+•	"As the more practical elements of day-to-day BEV ownership get better, concerns about price and ownership costs have begun to grow."
+•	"Reputational damage from Elon Musk is the most likely explanation for this [Tesla consideration drop]."
+•	"New car buyers that are receptive to EVs, appear to be shifting up the ladder—climbing from EV Open to EV Intender to EV Owner."
+•	"While those resistant to the idea of an EV continue to firmly entrench themselves in EV opposition."
+•	"Current EV sales aren’t quite hitting the segments that new car buyers are most likely to purchase next, with the midsize/large car, large SUV, and pickup segments being largely unaddressed by EV manufacturers."
+•	"BEV consideration is directly linked to public charging awareness—the more aware someone is of public charging, the more likely they are to buy a BEV."
+•	"Regardless of appetite for online shopping, the in-person experience—especially hands on experiences—will continue to be a pivotal aspect of future EV sales."
+•	"If emotional hesitations get in the way, it will be more difficult for shoppers to justify purchase."
+
+Strategic Recommendations
+•	"Planting the BEV seeds early, and nurturing them as they grow, is a long and delicate process."
+•	"Getting a BEV into the hands of consumers requires a long commitment to education, informative messaging, and relationship building."
+•	"These benefits ought to be emphasized as selling points in the current market, particularly the benefit of lower operating costs where BEVs can be sold as a hedge against the budgetary impact of rising gas prices and inflation."
+•	"It is also important to match important new vehicle expectations regardless of powertrain, like Q/R/D, purchase price/resale value, safety, and comfort."
+•	"It’s important for OEMs and dealers to act as a trustworthy source of information that consumers can rely on."
+•	"Essentially, making an EV argument to Western new car buyers will be a lot easier than it will be to residents outside of the West."
+•	"Enveloping EV messaging—highlighting their cost-effective nature when it comes to fuel economy—along with the benefits of home, overnight charging, could help make the case for BEV adoption among these groups."
+
+What's New This Year
+•	Introduced a new EVForward Buyer Segmentation framework (Trailblazer, Altruist, Techie, Dreamer, Pragmatist, Traditionalist) based on technological appetite.
+•	Retired the Legacy Personas framework (Torchbearer, Young Enthusiast, Steward, Survivor, Skeptic, Old Guard).
+•	Implemented new algorithm inputs and definitions for typing groups and scoring respondents.
+•	Updated the vehicle list.
+•	Reclassified Luxury/Mainstream models in 2023.
+
+Research Highlights
+Measured Evidence: 10% of shoppers will look to a midsize/large car as their top choice for a next vehicle, yet there were virtually no EV models available in this segment at the start of 2023. 
+↓
+ Executive Observation: Current EV sales aren’t quite hitting the segments that new car buyers are most likely to purchase next, with the midsize/large car, large SUV, and pickup segments being largely unaddressed by EV manufacturers.
+
+Measured Evidence: Approximately 38% of respondents are likely to delay their next vehicle purchase until an EV that better meets their needs is available, up 4ppts from 2022. 
+↓ 
+Executive Observation: BEV purchase timelines are much longer than for more familiar ICE or hybrid powertrains, and consumers need to understand what owning a BEV looks like, which can be difficult for new car shoppers to wrap their heads around. 
+↓ 
+Strategic Recommendation: Getting a BEV into the hands of consumers requires a long commitment to education, informative messaging, and relationship building.
+Measured Evidence: Lower operating cost and environmental benefits remained the top EV benefits. 
+↓ 
+Executive Observation: Consumers feel that BEVs provide a host of newfound benefits that ICE vehicles do not. 
+↓ 
+Strategic Recommendation: These benefits ought to be emphasized as selling points in the current market, particularly the benefit of lower operating costs where BEVs can be sold as a hedge against the budgetary impact of rising gas prices and inflation.
+
+Measured Evidence: Just under half (46%) of new car buyers trust the information about BEVs that they have seen in the news and media. 
+↓ 
+Executive Observation: The news and media is full of information about BEVs, sometimes with conflicting viewpoints. 
+↓ 
+Strategic Recommendation: With so much distrust in news and media surrounding BEVs, it’s important for OEMs and dealers to act as a trustworthy source of information that consumers can rely on.

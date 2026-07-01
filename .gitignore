@@ -1,0 +1,30 @@
+.venv311/
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.env
+.env.*
+
+run.log
+
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+
+# Logs
+*.log

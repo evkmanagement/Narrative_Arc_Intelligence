@@ -1,0 +1,142 @@
+Report:
+EVForward 2025 Core Report
+
+Methodology
+•	Sample size: Total 2024 EVF Sample n=10,063; Total Mainstream Owners n=8,633; Total Luxury Owners n=1,430; Total Alt. Powertrain Owners n=2,034; BEV (w/Tesla) n=941.
+•	Fieldwork: January 2024 – December 2024, recruited monthly (n=~840).
+•	Target population: U.S. market only (quotas by state); Age 18-80 years old; Must not work in market research, automotive, or for an electric utility company; Primary vehicle in household must be MY2019 or newer; Must have had an active role in the purchase/lease decision; Intend to purchase a new vehicle within 5 years.
+•	Survey methodology: 25 Minute Online Survey.
+•	Weighting: By segment, powertrain, brand, state, age, gender, race & Hispanic.
+•	Methodology changes: Updated vehicle list; Updated outlier rule for required range, removing responses greater than 1,000 miles.
+
+Research Evidence
+
+Demographics
+•	Gender: 57% Male, 43% Female.
+•	Age: 18% are <35, 35% are 35-54, 47% are 55+.
+•	Region: 21% North-East, 22% South-East, 23% West, 16% South-Central, 18% North-Central.
+•	Top States by Sample: California 13%, Texas 10%, Florida 9%, New Jersey 4%, Washington 2%.
+•	Median Income: $99,268.
+•	Education: 59% have a Bachelors Degree or higher.
+
+EV Groups
+•	EV Owner: 9% of the market (EVForward Score: 86).
+•	EV Intender: 25% of the market (EVForward Score: 83).
+•	EV Open: 30% of the market (EVForward Score: 49).
+•	EV Resistant: 36% of the market (EVForward Score: 18).
+
+Buyer Personas
+•	Trailblazer: 14% of sample (Mean age 44, 71% Male, Mean HHI $140K).
+•	Altruist: 10% of sample (Mean age 53, 52% Female, Mean HHI $129K).
+•	Techie: 16% of sample (Mean age 50, 64% Male, Mean HHI $135K).
+•	Dreamer: 25% of sample (Mean age 50, 59% Male, Mean HHI $121K).
+•	Pragmatist: 15% of sample (Mean age 57, 56% Female, Mean HHI $110K).
+•	Traditionalist: 20% of sample (Mean age 57, 53% Male, Mean HHI $109K).
+
+Familiarity & Exposure
+•	48% of total respondents know a few/many BEV owners in 2025, up from 40% in 2024 (+8 pts YoY).
+•	Women accounted for a 6pt increase in knowing a BEV owner and a 5pt increase in BEV familiarity in 2025.
+•	18% of respondents drove a BEV in 2025, compared to 17% in 2024; 29% "Know Well" in 2025, compared to 28% in 2024.
+
+Powertrain Sentiment & Opinion
+•	Net Positive BEV Sentiment: 15% (2025), 18% (2024), 14% (2023), 21% (2022).
+•	Net Positive Gas Sentiment: 14% (2025), 9% (2024), 10% (2023), 1% (2022).
+•	Net Positive Hybrid Sentiment: 39% (2025), 36% (2024), 33% (2023), 30% (2022).
+•	Reasons for negative BEV opinion change: Charging (33%), Ownership Costs and Savings (28%), Battery Performance (28%), Environmental Impact (22%), BEV Perceptions and Reviews (16%).
+
+Purchase Intent & Preferences
+•	Potential BEV Interest is 32% in 2025 (12% BEV Next Vehicle + 20% Wait for BEV).
+•	35% of buyers expect a BEV price premium to be 10% or less than a gas vehicle.
+•	Over 40% of buyers expect a lower-range BEV (250 miles) to cost 1-10% less than a 300-mile range BEV.
+•	Top Vehicle Attributes: Purchase price (61%), Quality/Reliability/Durability (56%), Fuel economy (47%), Safety (46%), Comfort (43%), Vehicle size (37%), Performance (29%).
+•	Intended Next Vehicle Type: Midsize SUV (24%), Compact SUV (15%), Fullsize Pickup (11%), Midsize/Large Car (9%).
+•	Willingness to delay purchase for an EV: 21% are "Very likely to delay" in 2025 vs. 16% in 2024.
+
+Barriers
+•	Top 3 BEV Hesitations: Driving range (39%), Uncertainty about battery life/replacement cost (34%), Charge time (26%), Access to public charging/refueling (25%), Inconvenience of recharging battery (24%).
+•	Buyers expecting to spend <$50,000 are more concerned with uncertainty about battery life and replacement cost (33%) than buyers spending ≥$50,000 (26%).
+
+Charging
+•	63% notice public charging stations or signage in a typical week (up 2 pts YoY).
+•	BEV Intention Mean Score is 62.2 for those who notice both signage and charging, compared to 36.3 for those who notice neither.
+•	Top public charging concerns: Charge time (72%), Cost to charge (57%), Distance between chargers (55%, -3 pts YoY), Finding a charger that is not being used (43%, -2 pts YoY).
+•	Public Charger Reliability: 44% state reliability is improving, 45% say staying the same, 11% say worsening.
+•	Longer trips charging behavior (BEV Owners): 52% plan where to charge before the trip, 22% follow the advice of their car, 18% wait until remaining charge is low.
+
+Practicality & Range Requirement
+•	Perceived practicality of owning a BEV is unchanged year-over-year (Mean Score 46 in 2025 and 46 in 2024).
+•	Mean required range to seriously consider a BEV is 409 miles in 2025, compared to 410 miles in 2024.
+
+Environmental Decision-Making
+•	50% are equally concerned about drilling for oil and mining for metals/chemicals.
+•	23% are more concerned about mining for metals and chemicals; 14% are more concerned about drilling for oil.
+
+BEV Ownership Experience
+•	68% of BEV owners state their overall BEV experience is better than expected.
+•	19% of current BEV owners are repeat buyers.
+•	64% of respondents who currently own one BEV are likely to consider buying a second BEV for their household.
+•	Tesla Supercharger Experience: 91% Net Positive for "Ease of paying for my charge," 90% Net Positive for "Reliability," and 90% Net Positive for "Ease of use".
+
+Automotive Innovation & Brand Consideration
+•	Top 5 Considered Brands for an EV: Toyota (34%), Tesla (31%), Ford (26%), Honda (24%), Chevrolet (23%).
+•	Tesla consideration is 31% overall in 2025 (0 pt YoY change), but drops 9 pts YoY among EV Owners (from 63% to 54%).
+
+Market Evidence
+•	EV Models: Acura ZDX, Chevrolet Equinox EV, and Honda Prologue launched in the 2024 calendar year in SUV segments. No new BEV models were launched in the midsize/large car segment in the 2024 calendar year. Polestar introduced a state-of-health certificate for pre-owned 2 models in Europe.
+•	Sales: BEV sales in the 2024 calendar year increased 7.3% from 2023 to a record high of 1.3 million, but the growth rate was slower compared to the 49% growth rate seen from 2022 to 2023 (Kelly Blue Book).
+•	Charging Infrastructure: Public charging network growth was relatively consistent over the past 2 years (Joint Office of Energy and Transportation). Ionna is cited as a public charging network being invested in by many OEMs.
+•	Government Policy / Incentives: The Trump administration is causing uncertainty among consumers regarding EV incentives, tariffs, and public charging infrastructure funding.
+
+Executive Observations
+•	"Upper funnel metrics in the BEV adoption funnel continue to fill."
+•	"However, upper funnel metrics are not flowing down the funnel."
+•	"Exposure to, and familiarity with, the powertrain breeds purchase intent, but the strength of this relationship softens in 2025..."
+•	"EV Intenders are cross-shopping alternative powertrains."
+•	"Even EV Open show intent to cross-shop alternative powertrains, although BEV falls farther down in their consideration."
+•	"In the absence of product details like specs, pricing, and style, PHEV is in close competition with BEV and hybrid, but product details matter."
+•	"As a result, increased BEV adoption may be inadvertently creating a “negative experience multiplier” effect where people are telling and hearing more negative stories about BEVs, which is impacting sentiment."
+•	"Adoption has progressed from early adopters... to the early majority, who are less willing to tolerate any inconveniences or put in the additional effort required to adopt a BEV."
+•	"BEV owners have higher incidences of worse than expected experiences around public charging..."
+•	"The claim that BEVs are more environmentally friendly is being challenged."
+•	"Buyers are less willing to delay a BEV purchase in 2025."
+
+Strategic Recommendations
+•	"OEMs and dealers need to direct their efforts father down the purchase funnel and focus on educating buyers about the BEV ownership experience, including how to conveniently charge at home or at work, where and how they can quickly charge in public, and the vehicle’s range capabilities in different conditions."
+•	"It’s important to have BEV product in buyers’ desired segments."
+•	"It’s important that BEV stakeholders address concerns head-on and focus on positive ownership benefits..."
+•	"OEMs can advertise DC fast charging speeds to assure drivers that they can get a quick charge when taking longer trips."
+•	"OEMs can also invest in a public charging network that provides an intuitive and seamless experience, like many OEMs are doing with Ionna."
+•	"Stronger marketing efforts from charge point operators themselves would also be beneficial, as awareness of public charging networks is low among non-BEV owners."
+•	"OEMs can therefore help BEV owners use their vehicle’s range to its fullest potential and reduce range anxiety by offering an integrated trip planning application."
+•	"Other OEMs and dealerships can adopt this approach [Apple's Genius Bar model of customer outreach]. Ultimately, dealers should be having open and honest conversations about range and charging with their customers so that buyers know what to expect and how to manage their new ownership experience."
+•	"In response, the simplest and safest strategy may be to stop focusing on or mentioning environmental benefits in marketing."
+•	"Include any available incentives in the purchase price breakdown to show an accurate cost representation."
+•	"OEMs and dealers can also highlight the potential for cost savings over the lifetime of the vehicle to appeal to more cost-sensitive buyers."
+
+What's New This Year
+•	Updated vehicle list implemented in 2025 fieldwork.
+•	Outlier rule for required range updated, removing numerical responses greater than 1,000 miles.
+•	EVForward launched for the first time in Southeast Asia (Indonesia, Malaysia, Philippines, Thailand, Vietnam).
+
+Research Highlights
+
+Highlight 1 [Page 16, 17, 66] 
+Measured Evidence: 33% of negative BEV opinion changes are attributed to Charging, 28% to Ownership Costs and Savings, and 28% to Battery Performance. 
+↓ 
+Executive Observation: Souring BEV opinions stem from concerns about charging, expensive ownership costs, inadequate battery performance, skepticism about claimed environmental benefits, and hearing negative stories about BEV ownership. 
+↓ 
+Strategic Recommendation: OEMs can attempt to control negative narratives about BEVs by targeting these topics with educational outreach while also promoting topics associated with improving BEV opinions.
+
+Highlight 2 [Page 25, 173] 
+Measured Evidence: On longer trips, 52% of BEV owners plan where to charge before the trip, and 22% follow the advice of their car about where and when to charge. 
+↓ 
+Executive Observation: BEV drivers who follow the advice of their car about where and when to charge use more of their battery’s charge before charging on longer trips. 
+↓ 
+Strategic Recommendation: OEMs can therefore help BEV owners use their vehicle’s range to its fullest potential and reduce range anxiety by offering an integrated trip planning application.
+
+Highlight 3 [Page 32, 34, 35] 
+Measured Evidence: 50% of consumers are equally concerned about drilling for oil and mining for metals/chemicals; 23% are concerned primarily about mining for metals and chemicals. 
+↓ 
+Executive Observation: The claim that BEVs are more environmentally friendly is being challenged. 
+↓ 
+Strategic Recommendation: In response, the simplest and safest strategy may be to stop focusing on or mentioning environmental benefits in marketing.

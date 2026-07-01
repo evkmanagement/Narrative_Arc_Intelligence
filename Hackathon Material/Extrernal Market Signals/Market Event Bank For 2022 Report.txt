@@ -1,0 +1,274 @@
+# Market Event Bank — EVForward Period 3 (Jan 2021–Dec 2021, U.S. Light-Duty BEVs/PHEVs)
+
+## SIG-POL-2021-001
+
+**Date**  
+2021-08-05
+
+**Headline**  
+Biden sets nonbinding goal for 50% of new U.S. vehicle sales to be zero-emission by 2030
+
+**Category**  
+Policy
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Policy
+
+**Signal Direction**  
+Policy Change
+
+**Effective Window**  
+- Start: 2021-08-05 (Executive Order signed)  
+- End: Still Active (2030 target year; implementing standards under development)[web:177][web:183][web:187]
+
+**Observed Change**  
+On August 5, 2021, President Biden signed an Executive Order setting a nonbinding target that 50% of all new passenger cars and light trucks sold in 2030 be zero‑emissions vehicles, including battery electric, plug‑in hybrid, and fuel cell electric vehicles.[web:183][web:187] The order also directed EPA and NHTSA to develop strengthened fuel economy and greenhouse gas standards for light‑duty vehicles through at least model year 2030, reversing prior rollbacks.[web:183][web:177][web:189]
+
+**Evidence Themes**  
+Policy, Long-Term Targets, Emissions Standards, Incentives, Market Penetration
+
+**Primary Source**  
+White House fact sheet and Federal Register notice “Strengthening American Leadership in Clean Cars and Trucks,” with Reuters coverage of the 50% 2030 target[web:183][web:187][web:177]
+
+**Evidence Strength**  
+High — official federal documents and major newswire reporting[web:183][web:187]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-POL-2021-002
+
+**Date**  
+2021-11-15
+
+**Headline**  
+Infrastructure Investment and Jobs Act allocates $7.5 billion for a national EV charging network
+
+**Category**  
+Policy
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Policy
+
+**Signal Direction**  
+Policy Change
+
+**Effective Window**  
+- Start: 2021-11-15 (law signed)  
+- End: Still Active (funding programs run through mid-2020s)[web:319][web:326][web:322]
+
+**Observed Change**  
+President Biden signed the Infrastructure Investment and Jobs Act in November 2021, which included $7.5 billion over five years dedicated to electric vehicle charging infrastructure.[web:319][web:326] Of this amount, $5 billion was allocated to states under the National Electric Vehicle Infrastructure (NEVI) Formula Program and $2.5 billion to competitive Charging and Fueling Infrastructure grants to support publicly accessible charging corridors and community charging.[web:326][web:322]
+
+**Evidence Themes**  
+Infrastructure Planning, Public Charging, Federal Funding, Alternative Fuel Corridors
+
+**Primary Source**  
+Infrastructure Investment and Jobs Act legislative summaries and EV charging funding briefings (NEVI and CFI programs)[web:319][web:326][web:322]
+
+**Evidence Strength**  
+High — federal law and official program documentation[web:326][web:322]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-INFRA-2021-003
+
+**Date**  
+2021-07-13
+
+**Headline**  
+Electrify America announces “Boost Plan” to more than double fast-charging network by 2025
+
+**Category**  
+Infrastructure
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Infrastructure
+
+**Signal Direction**  
+Expansion
+
+**Effective Window**  
+- Start: 2021-07-13 (Boost Plan announced)  
+- End: 2025-12-31 (target date to reach more than 1,800 stations and 10,000 chargers)[web:313][web:182]
+
+**Observed Change**  
+Electrify America announced a “Boost Plan” to more than double its existing fast‑charging network in the U.S. and Canada to over 1,800 stations and 10,000 individual DC fast chargers by the end of 2025, up from a plan for about 800 stations and 3,500 chargers by the end of 2021.[web:313] The company indicated the expansion would extend its presence to 49 U.S. states and add new corridors, including an upper Midwest highway route.[web:313][web:182]
+
+**Evidence Themes**  
+Infrastructure Coverage, Public Fast Charging, Charging Accessibility, Long-Distance Travel, Non-Tesla Network Availability
+
+**Primary Source**  
+Electrify America “Boost Plan” press release and 2021 national annual report[web:313][web:182]
+
+**Evidence Strength**  
+High — corporate infrastructure plan and official reporting to EPA[web:313][web:182]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2021-004
+
+**Date**  
+2021-01-01 – 2021-12-31
+
+**Headline**  
+U.S. average retail gasoline prices in 2021 rise to highest level since 2014
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase
+
+**Effective Window**  
+- Start: 2021-01-01  
+- End: 2021-12-31 (annual pricing context for 2021)[web:193]
+
+**Observed Change**  
+The U.S. Energy Information Administration reported that the average U.S. retail price for regular gasoline in 2021 was 3.01 dollars per gallon, the highest nominal annual average since 2014 and up 0.84 dollars per gallon from 2020.[web:193] Prices began 2021 at about 2.25 dollars per gallon, surpassed 3.00 dollars per gallon in May after the Colonial Pipeline disruption, and peaked around 3.41 dollars per gallon in early November before ending the year near 3.28 dollars per gallon.[web:193]
+
+**Evidence Themes**  
+Operating Cost Context, Fuel Savings, Affordability, Practicality (Running Costs), Competition (ICE vs EV)
+
+**Primary Source**  
+U.S. EIA Today in Energy article “Retail gasoline prices rose across the United States in 2021” and associated price data[web:193]
+
+**Evidence Strength**  
+High — government energy statistics and analysis[web:193]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-SUP-2021-005
+
+**Date**  
+2021-02-11 – 2021-09-23 (documented 2021 impact)
+
+**Headline**  
+Global semiconductor shortage substantially constrains U.S. vehicle production
+
+**Category**  
+Supply Chain
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Constraint
+
+**Effective Window**  
+- Start: 2021-01-01 (chip shortages affecting auto production entering 2021)  
+- End: 2021-12-31 (2021 model year production impact; shortages expected to ease later)[web:327][web:332][web:333][web:321][web:329]
+
+**Observed Change**  
+Industry analyses and news reports documented that a global semiconductor shortage in 2021 forced major automakers to idle plants and significantly cut U.S. production, with consulting firm AlixPartners estimating the auto industry would lose about 7.7 million vehicles of production and roughly 210 billion dollars of revenue globally in 2021.[web:333][web:321] Central bank and media commentary noted that insufficient chip supplies and other material shortages, rather than weak demand, became a primary constraint on new vehicle availability, leading to lower inventories and higher prices.[web:329][web:327][web:332]
+
+**Evidence Themes**  
+Production Capacity, Model Availability, Supply Chain Resilience, Delivery Timing, Pricing Environment
+
+**Primary Source**  
+AlixPartners chip shortage forecast cited by CNBC, complemented by Cleveland Fed commentary and major media coverage of production impacts[web:333][web:329][web:321]
+
+**Evidence Strength**  
+High — widely used industry estimates and central bank analysis, supported by multiple news sources[web:333][web:329]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-SUP-2021-006
+
+**Date**  
+2021-08-20
+
+**Headline**  
+GM expands Chevrolet Bolt EV/EUV battery recall and halts new Bolt production
+
+**Category**  
+Supply Chain
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Constraint
+
+**Effective Window**  
+- Start: 2021-08-20 (recall expansion announced and production halt initiated)  
+- End: 2021-12-31 (production largely suspended through end of February 2022)[web:317][web:315][web:311][web:314]
+
+**Observed Change**  
+General Motors expanded its Chevrolet Bolt EV and Bolt EUV battery recall on August 20, 2021 to cover all approximately 141,000 vehicles produced since 2017 due to rare battery manufacturing defects that could cause fires, and halted production of new Bolts at its Orion Assembly plant to prioritize battery module replacements.[web:317][web:314] GM subsequently extended the production pause at Orion Assembly through the end of February 2022 and placed a hold on retail sales of new Bolts while recall repairs proceeded.[web:315][web:311]
+
+**Evidence Themes**  
+Model Availability, Battery Safety, Supply Chain Resilience, Production Capacity
+
+**Primary Source**  
+GM statements on the Bolt recall and production halt reported by the New York Times, TechCrunch, InsideEVs, and Reuters[web:317][web:314][web:311][web:315]
+
+**Evidence Strength**  
+High — OEM announcements and major media coverage[web:317][web:315]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-OEM-2021-007
+
+**Date**  
+2021-05-19
+
+**Headline**  
+Ford unveils F-150 Lightning electric pickup and rapidly accumulates reservations
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch
+
+**Effective Window**  
+- Start: 2021-05-19 (F-150 Lightning revealed)  
+- End: 2021-12-31 (reservation buildup through year-end; production starts in 2022)[web:179][web:344][web:191][web:237]
+
+**Observed Change**  
+Ford unveiled the F‑150 Light

@@ -1,0 +1,411 @@
+# Market Event Bank — EVForward Period 1 (Jan–Sep 2019, U.S. Light-Duty BEVs/PHEVs)
+
+## SIG-POL-2019-001
+
+**Date**  
+2019-01-01 (Tesla phase-out begins) / 2019-04-01 (GM phase-out begins)
+
+**Headline**  
+Federal EV tax credit phase-outs begin for early market leaders
+
+**Category**  
+Policy
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Policy
+
+**Signal Direction**  
+Reduction
+
+**Effective Window**  
+- Start: 2019-01-01 (Tesla reduced to $3,750)  
+- Midpoint: 2019-07-01 (Tesla reduced to $1,875)  
+- GM start: 2019-04-01 (GM reduced to 50%)  
+- End: 2019-09-30 (GM reduced to $1,875 for next window; Tesla credit ends 2019-12-31)[web:129][web:127][web:283][web:6]
+
+**Observed Change**  
+The federal plug‑in EV tax credit for Tesla vehicles was reduced from $7,500 to $3,750 on January 1, 2019 and to $1,875 on July 1, 2019 after Tesla exceeded 200,000 qualifying EV sales.[web:129][web:11] The federal EV tax credit for GM vehicles began phasing down on April 1, 2019, with eligible models such as the Chevrolet Bolt EV receiving $3,750 instead of $7,500 through September 30, 2019 before dropping to $1,875 for the next phase.[web:127][web:286][web:6]
+
+**Evidence Themes**  
+Affordability, Financing, Incentives, Policy, Model Availability
+
+**Primary Source**  
+IRS notices on Tesla and GM Section 30D phase-outs, summarized by InsideEVs and Drive Electric MN[web:129][web:127][web:11][web:6]
+
+**Evidence Strength**  
+High — IRS primary documents and Congressional Research Service note, corroborated by major EV outlets[web:127][web:283][web:11]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-OEM-2019-002
+
+**Date**  
+2019-02-15
+
+**Headline**  
+Hyundai delivers first Kona Electric in the U.S.
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch
+
+**Effective Window**  
+- Start: 2019-02-15 (first U.S. delivery)  
+- End: Still Active (model continues beyond Sep 2019)[web:35][web:32][web:43]
+
+**Observed Change**  
+Hyundai made its first U.S. delivery of the Kona Electric, a compact crossover BEV rated around 258 miles of range, with U.S. pricing starting at $36,450 before incentives and initial availability focused on California and other ZEV states.[web:35][web:32][web:43]
+
+**Evidence Themes**  
+Product Availability, Body Style (Crossover/SUV), Range Confidence, Affordability, Technology, Practicality, Competition
+
+**Primary Source**  
+InsideEVs report on first U.S. Kona Electric delivery and Hyundai U.S. pricing materials[web:35][web:32][web:43]
+
+**Evidence Strength**  
+High — OEM specifications and pricing reported by established EV/auto outlets[web:32][web:43]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-OEM-2019-003
+
+**Date**  
+2019-02-27
+
+**Headline**  
+Tesla launches $35,000 Model 3 Standard Range and Standard Range Plus
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch
+
+**Effective Window**  
+- Start: 2019-02-27 (pricing and variants announced)  
+- End: Still Active (Standard Range Plus becomes core entry variant, with later pricing changes after Sep 2019)[web:67][web:65]
+
+**Observed Change**  
+Tesla introduced the Model 3 Standard Range at a base price of $35,000 plus destination and launched the Standard Range Plus variant offering roughly 240 miles of range and upgraded interior and performance at a modest price premium.[web:67][web:65]
+
+**Evidence Themes**  
+Affordability, Price Point Benchmarks, Product Availability, Range Confidence, Competition, Awareness
+
+**Primary Source**  
+Electrek coverage of Tesla’s $35,000 Model 3 and Standard Range Plus announcement[web:67]
+
+**Evidence Strength**  
+High — OEM pricing and specifications relayed via widely cited EV news outlet[web:67][web:65]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-OEM-2019-004
+
+**Date**  
+2019-03-01 (announcement; U.S. sales begin spring 2019)
+
+**Headline**  
+Nissan introduces Leaf Plus long‑range variant for U.S. market
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch
+
+**Effective Window**  
+- Start: 2019-03-01 (Leaf Plus revealed with U.S. specs/pricing)  
+- End: Still Active (Leaf Plus remains on sale beyond Sep 2019)[web:66][web:62][web:69]
+
+**Observed Change**  
+Nissan launched the 2019 Leaf Plus with a 62 kWh battery and EPA‑estimated range up to 226 miles for the S Plus trim, at a starting U.S. price around $37,445, roughly $6,500 above the standard 40 kWh Leaf.[web:66][web:62][web:69]
+
+**Evidence Themes**  
+Product Availability, Range Confidence, Battery Capacity, Affordability, Practicality, Competition
+
+**Primary Source**  
+Car and Driver and Autoweek coverage of the 2019 Nissan Leaf Plus, based on Nissan’s U.S. specifications and pricing[web:66][web:69]
+
+**Evidence Strength**  
+High — OEM specs reported by major automotive publications[web:66][web:62]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-OEM-2019-005
+
+**Date**  
+2019-05-01
+
+**Headline**  
+Kia Niro EV goes on sale in the United States
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch
+
+**Effective Window**  
+- Start: 2019-05-01 (U.S. sales commence)  
+- End: Still Active (model continues beyond Sep 2019)[web:60]
+
+**Observed Change**  
+Kia began U.S. sales of the Niro EV, a compact crossover BEV, with the EX trim priced at $39,495 before incentives and configured as a practical, non‑luxury long‑range EV.[web:60]
+
+**Evidence Themes**  
+Product Availability, Body Style (Crossover/SUV), Affordability, Practicality, Competition, Range Confidence
+
+**Primary Source**  
+Electrive report on the U.S. launch of the Kia Niro EV[web:60]
+
+**Evidence Strength**  
+High — OEM launch information reported by an EV‑focused industry outlet[web:60]
+
+**Verification Status**  
+Single-source (plus consistency with Kia product line)
+
+---
+
+## SIG-OEM-2019-006
+
+**Date**  
+2019-05-01 (deliveries start for reservation holders)
+
+**Headline**  
+Audi e-tron electric SUV deliveries begin for U.S. reservation holders
+
+**Category**  
+OEM
+
+**Signal Class**  
+Competitive
+
+**Signal Vector**  
+Supply
+
+**Signal Direction**  
+Launch
+
+**Effective Window**  
+- Start: 2019-05-01 (Audi states deliveries to reservation holders begin in May)  
+- End: Still Active (model continues beyond Sep 2019)[web:21]
+
+**Observed Change**  
+Audi’s e‑tron midsize SUV BEV entered U.S. sale and delivery, with Audi indicating that deliveries to reservation holders would begin in May 2019 at a starting MSRP of $74,800, eligible for the $7,500 federal tax credit.[web:21][web:39]
+
+**Evidence Themes**  
+Product Availability, Body Style (SUV), Luxury Segment, Competition, Technology, Home Charging Support
+
+**Primary Source**  
+Audi USA press release on e‑tron U.S. launch, supported by Reuters coverage of the model and its positioning[web:21][web:39]
+
+**Evidence Strength**  
+High — OEM press release plus major newswire coverage[web:21][web:39]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-TECH-2019-007
+
+**Date**  
+2019-03-06
+
+**Headline**  
+Tesla unveils V3 Supercharger with 250 kW fast charging capability
+
+**Category**  
+Charging
+
+**Signal Class**  
+Technology
+
+**Signal Vector**  
+Technology
+
+**Signal Direction**  
+Technology Improvement
+
+**Effective Window**  
+- Start: 2019-03-06 (V3 Supercharger announced)  
+- End: Still Active (V3 deployments continue beyond Sep 2019)[web:22][web:16][web:30]
+
+**Observed Change**  
+Tesla introduced its V3 Supercharger technology with peak charging rates of up to 250 kW per vehicle, using 1 MW power cabinets and liquid‑cooled cables, enabling a Long Range Model 3 to add up to about 75 miles of range in roughly five minutes under stated conditions.[web:22][web:16][web:26]
+
+**Evidence Themes**  
+Charging, Public Fast Charging, Range Confidence, Practicality (Charging Time), Infrastructure Awareness, Technology Improvement
+
+**Primary Source**  
+Electrek and CNBC reporting on Tesla’s V3 Supercharger launch and capabilities[web:22][web:16]
+
+**Evidence Strength**  
+High — OEM technical announcement relayed via major business and EV news outlets[web:22][web:26]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-INFRA-2019-008
+
+**Date**  
+2019-06-06
+
+**Headline**  
+Electrify America and Walmart complete over 120 ultra-fast charging stations across 34 states
+
+**Category**  
+Infrastructure
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Infrastructure
+
+**Signal Direction**  
+Expansion
+
+**Effective Window**  
+- Start: 2019-06-06 (completion announced)  
+- End: Still Active (stations remain in service beyond Sep 2019)[web:73][web:111]
+
+**Observed Change**  
+Electrify America and Walmart announced that more than 120 ultra‑fast EV charging stations, using 150 kW and 350 kW DC fast chargers, were operational at Walmart stores in 34 U.S. states, as part of a broader plan for hundreds of locations and roughly 2,000 chargers.[web:73][web:109][web:113]
+
+**Evidence Themes**  
+Infrastructure Coverage, Public Charging, Charging Accessibility, Practicality (On-the-road Charging), Non‑Tesla Network Availability
+
+**Primary Source**  
+Electrify America–Walmart joint press release on completion of 120+ charging stations[web:73]
+
+**Evidence Strength**  
+High — corporate press release plus corroborating industry coverage[web:73][web:109][web:113]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-ECO-2019-009
+
+**Date**  
+2019-01-01 – 2019-09-30 (within 2019 fuel price context)
+
+**Headline**  
+U.S. retail gasoline prices in 2019 slightly lower than in 2018
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Decrease
+
+**Effective Window**  
+- Start: 2019-01-01  
+- End: 2019-09-30 (EVForward Jan–Sep window within the 2019 annual condition)[web:45][web:47][web:116]
+
+**Observed Change**  
+The U.S. Energy Information Administration reported that average regular retail gasoline prices in 2019 were about 2.60 dollars per gallon, approximately 11 cents per gallon (4%) lower than in 2018, with projected summer 2019 prices around 2.76 dollars per gallon, about 3% below summer 2018.[web:45][web:116][web:47]
+
+**Evidence Themes**  
+Operating Cost Context, Fuel Savings, Affordability, Practicality (Running Costs), Competition (ICE vs EV)
+
+**Primary Source**  
+U.S. EIA Today in Energy note on 2019 gasoline prices and EIA Summer Fuels Outlook[web:45][web:116]
+
+**Evidence Strength**  
+High — government energy statistics and forecasts (EIA)[web:45][web:47][web:114]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2019-010
+
+**Date**  
+2019-03-31 (Q1 snapshot) / first half 2019 context
+
+**Headline**  
+U.S. plug-in vehicle sales grow but remain a small share of new light-duty sales
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase (market share and cumulative sales)
+
+**Effective Window**  
+- Start: 2019-03-31 (EEI Q1 2019 snapshot; EV Volumes H1 2019 update)  
+- End: 2019-09-30 (EVForward Jan–Sep window within the 2019 sales context)[web:280][web:279][web:285][web:284]
+
+**Observed Change**  
+EEI reported that EV market share grew to 1.8% of U.S. new car sales in March 2019, up from 1.6% a year earlier, with about 61,000 EVs sold in Q1 2019 and cumulative EVs on U.S. roads exceeding 1.18 million as of March 31, 2019.[web:280] EV Volumes and DOE data indicated that plug‑ins accounted for around 1.8–1.9% of light‑vehicle sales in 2019 and about 1.8% of sales in the first half of 2019.[web:279][web:285][web:284]
+
+**Evidence Themes**  
+Awareness, Market Penetration, Social Proof (Number of Owners), Competition, Product Availability
+
+**Primary Source**  
+EEI “Electric Vehicle Sales: Facts & Figures” April 2019 report, supplemented by EV Volumes and DOE/InsideEVs 2019 sales summaries[web:280][web:279][web:284][web:285]
+
+**Evidence Strength**  
+Medium — industry association and compiled sales reports, cross‑checked with multiple sources[web:280][web:279][web:284]
+
+**Verification Status**  
+Multi-source

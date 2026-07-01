@@ -1,0 +1,247 @@
+# Market Event Bank — EVForward Period 5 (Mar 2023–Nov 2023, U.S. Light-Duty BEVs/PHEVs)
+
+## SIG-POL-2023-001
+
+**Date**  
+2023-03-30 / 2023-04-18 (effective date for requirements)
+
+**Headline**  
+Treasury issues proposed guidance implementing IRA critical mineral and battery component rules for EV tax credits
+
+**Category**  
+Policy
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Policy
+
+**Signal Direction**  
+Policy Change
+
+**Effective Window**  
+- Start: 2023-04-18 (critical mineral and battery component rules apply to vehicles placed in service on or after this date)  
+- End: 2032-12-31 (statutory end of clean vehicle credit under IRA)[web:376][web:382][web:380]
+
+**Observed Change**  
+On March 30, 2023, the U.S. Treasury and IRS released proposed guidance on new clean vehicle tax credit provisions, detailing how manufacturers must calculate compliance with Inflation Reduction Act critical mineral and battery component sourcing requirements.[web:376][web:382] Treasury stated that beginning with vehicles placed in service on or after April 18, 2023, the $7,500 clean vehicle credit is split into a $3,750 portion for meeting escalating critical mineral sourcing thresholds and a $3,750 portion for meeting escalating North American battery component manufacturing or assembly thresholds.[web:376][web:380]
+
+**Evidence Themes**  
+Policy, Incentives, Affordability, Battery Sourcing, Final Assembly Location, Eligibility Rules
+
+**Primary Source**  
+U.S. Treasury press release on proposed clean vehicle credit guidance and associated technical summaries of critical mineral and battery component requirements[web:376][web:382][web:380]
+
+**Evidence Strength**  
+High — federal rulemaking documents and official press materials[web:376][web:380]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-POL-2023-002
+
+**Date**  
+2023-04-11
+
+**Headline**  
+EPA proposes strongest-ever light- and medium-duty vehicle emissions standards for model years 2027–2032
+
+**Category**  
+Policy
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Policy
+
+**Signal Direction**  
+Policy Change
+
+**Effective Window**  
+- Start: 2023-04-11 (proposal issued for public comment)  
+- End: Proposal stage during this period (final rule anticipated later)[web:387][web:379][web:381][web:386]
+
+**Observed Change**  
+On April 11, 2023, EPA proposed new greenhouse gas and multi‑pollutant emissions standards for light‑ and medium‑duty vehicles for model years 2027 and later, projecting that the model year 2032 light‑duty standards would reduce fleet‑average greenhouse gas emissions by about 56% compared with the 2026 standards.[web:387][web:386] EPA analysis indicated that automaker compliance pathways under the proposal could result in electric vehicles comprising up to roughly 60–67% of new light‑duty vehicle sales by 2032.[web:387][web:375][web:381]
+
+**Evidence Themes**  
+Policy, Emissions Standards, Long-Term Targets, Regulatory Environment, Market Penetration
+
+**Primary Source**  
+EPA news release on proposed 2027+ light- and medium‑duty vehicle standards, supported by NPR/CNN/AP coverage of the proposal and its projected EV share[web:387][web:375][web:381]
+
+**Evidence Strength**  
+High — federal proposal and major national media reporting[web:387][web:379]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-CHA-2023-003
+
+**Date**  
+2023-05-25
+
+**Headline**  
+Ford reaches agreement for Ford EVs to access Tesla Supercharger network and adopt NACS from 2025
+
+**Category**  
+Charging
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Infrastructure
+
+**Signal Direction**  
+Expansion
+
+**Effective Window**  
+- Start: 2023-05-25 (Ford–Tesla charging collaboration announced)  
+- End: 2025-12-31 (Ford plans to integrate NACS ports into next-generation EVs by 2025)[web:377]
+
+**Observed Change**  
+On May 25, 2023, Ford announced an agreement with Tesla that will allow Mustang Mach‑E, F‑150 Lightning, and E‑Transit customers to access more than 12,000 Tesla V3 Superchargers in the U.S. and Canada starting in early 2024 via an adapter and software integration.[web:377] Ford stated that beginning in 2025, its next‑generation EVs in North America will be built with the North American Charging Standard (NACS) connector, enabling direct use of Tesla Superchargers without an adapter.[web:377]
+
+**Evidence Themes**  
+Public Fast Charging, Charging Accessibility, Network Interoperability, Connector Standards (NACS vs CCS), Infrastructure Coverage
+
+**Primary Source**  
+Ford Motor Company announcement on Ford EV customer access to Tesla Superchargers and NACS adoption[web:377]
+
+**Evidence Strength**  
+High — OEM press release[web:377]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-CHA-2023-004
+
+**Date**  
+2023-06-08
+
+**Headline**  
+GM announces plan to adopt NACS and provide GM EV drivers access to Tesla Supercharger network
+
+**Category**  
+Charging
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Infrastructure
+
+**Signal Direction**  
+Expansion
+
+**Effective Window**  
+- Start: 2023-06-08 (GM–Tesla charging collaboration announced)  
+- End: 2025-12-31 (GM plans NACS integration into new EVs starting 2025)[web:378]
+
+**Observed Change**  
+On June 8, 2023, General Motors announced it would integrate the North American Charging Standard connector into its EVs beginning in 2025 and provide GM EV drivers access to more than 12,000 Tesla Superchargers across North America starting in 2024 via an adapter.[web:378] GM indicated that this collaboration complements its Ultium Charge 360 initiative, which already provided GM EV drivers access to over 134,000 chargers through aggregated networks and mobile apps.[web:378]
+
+**Evidence Themes**  
+Public Fast Charging, Charging Accessibility, Network Interoperability, Connector Standards, Infrastructure Coverage
+
+**Primary Source**  
+GM news release on NACS adoption and expanded access to Tesla Supercharger network[web:378]
+
+**Evidence Strength**  
+High — OEM press release[web:378]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-INFRA-2023-005
+
+**Date**  
+2023-10-18
+
+**Headline**  
+Ohio breaks ground on first NEVI-funded fast-charging station under U.S. national network program
+
+**Category**  
+Infrastructure
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Infrastructure
+
+**Signal Direction**  
+Expansion
+
+**Effective Window**  
+- Start: 2023-10-18 (Ohio groundbreaking for first NEVI station)  
+- End: 2023-11-30 (construction phase within this EVForward window; station opens December 2023)[web:395][web:392][web:400]
+
+**Observed Change**  
+The Joint Office of Energy and Transportation reported that on October 18, 2023, Ohio became the first state to break ground on a National Electric Vehicle Infrastructure (NEVI) Formula Program fast‑charging station, located west of Columbus.[web:395][web:392] The site, at a Pilot Flying J location in London, Ohio, later opened on December 13, 2023 as the first operational NEVI‑funded DC fast‑charging station in the United States.[web:395][web:400]
+
+**Evidence Themes**  
+Infrastructure Deployment, Public Fast Charging, Federal Funding Implementation, Highway Corridors, Charging Accessibility
+
+**Primary Source**  
+Joint Office / NEVI progress update and case study on Ohio’s NEVI implementation, with Electrek reporting on the London, Ohio station[web:395][web:392][web:400]
+
+**Evidence Strength**  
+High — federal program communication and independent reporting on the station opening[web:395][web:400]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2023-006
+
+**Date**  
+2023-09-30
+
+**Headline**  
+U.S. plug-in vehicle share peaks around 9.9% of monthly light-duty sales in September 2023
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase
+
+**Effective Window**  
+- Start: 2023-09-01  
+- End: 2023-09-30 (September 2023 sales snapshot)[web:398]
+
+**Observed Change**  
+Analysis of Argonne National Laboratory data summarized by InsideEVs indicated that plug‑in electric vehicles reached a record monthly U.S. market share of about 9.9% of light‑duty vehicle sales in September 2023, the highest share up to that point.[web:398] The same summary reported that plug‑in vehicles accounted for at least 8% of U.S. light‑duty sales in every month of 2023 through year‑end.[web:398]
+
+**Evidence Themes**  
+Market Penetration, Social Proof (Number of Owners), Competition (EV vs ICE), Awareness
+
+**Primary Source**  
+InsideEVs report on 2023 U.S. plug‑in car sales based on Argonne/DOE data[web:398]
+
+**Evidence Strength**  
+High — industry analysis grounded in federal/Argonne data series[web:398]
+
+**Verification Status**  
+Multi-source
+
+---

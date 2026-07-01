@@ -1,0 +1,135 @@
+Report:
+EVForward 2020 Core Report
+
+
+Extracted Facts
+
+1. Methodology
+•	Sample size: Total n=10,293 (Premium: n=1,649; Mainstream: n=8,135; Alternative Powertrain: n=509).
+•	Fieldwork: September - October 2019.
+•	Target population: U.S. market only, age 18-80 years old, must not work in market research, automotive, or for an electric utility company. Primary vehicle household must be MY2014 or newer, must have had an active role in the purchase/lease decision, and intend to purchase a new vehicle within 5 years.
+•	Survey methodology: 25-minute online survey.
+•	Weighting: Data weighted by segment, state, brand, age, gender, race & Hispanic.
+•	Methodology changes: None explicitly stated in the report.
+
+________________________________________
+
+2. Research Evidence
+
+EV Intention & Purchase Intent
+•	2% of new-vehicle buyers say their next vehicle will be a Battery Electric Vehicle (BEV) no matter what.
+•	17% are waiting for a BEV that meets their needs.
+•	10% believe a Plug-in Hybrid Electric Vehicle (PHEV) can work for them, even if a BEV may not.
+•	45% have no interest in an EV for their next vehicle purchase.
+•	26% answered "I don't know" regarding their next vehicle purchase.
+•	Overall purchase intent for a BEV is 29 on a 0-100 scale.
+•	8% of consumers have a BEV Purchase Likelihood above 80 on a 0-100 scale.
+•	BEV Purchase Likelihood above 80 jumps to 37% if time to charge is 5 minutes.
+•	Assuming a $35,000 gasoline vehicle, respondents expect to pay an average of $38,119 for a battery electric version.
+•	Over 25% of respondents are likely to delay their next vehicle purchase until an EV that better meets their needs is available (14% very likely, 13% somewhat likely).
+
+EV Groups & Buyer Personas
+•	EV Intenders: 17% of buyers, Mean EVForward Score of 79.
+•	EV Open: 39% of buyers, Mean EVForward Score of 50.
+•	All Others: 44% of buyers, Mean EVForward Score of 26.
+•	Torchbearer Persona: 4% of buyers, n=385, Avg. EVForward Score 78.
+•	Young Enthusiast Persona: 18% of buyers, n=1,837, Avg. EVForward Score 57.
+•	Steward Persona: 22% of buyers, n=2,314, Avg. EVForward Score 54.
+•	Survivor Persona: 23% of buyers, n=2,385, Avg. EVForward Score 42.
+•	Skeptic Persona: 14% of buyers, n=1,469, Avg. EVForward Score 37.
+•	Old Guard Persona: 18% of buyers, n=1,903, Avg. EVForward Score 30.
+
+BEV Attitudes & Familiarity
+•	85% say EVs are the future (33%) or an interesting idea (52%).
+•	15% view BEVs as a passing fad (9%) or a stupid idea (6%).
+•	Overall BEV opinion rates at 45 on a 0-100 scale.
+•	71% of car buyers have very little exposure to EVs (know something, heard some, or never heard about).
+•	BEV Familiarity: 7% drove, 8% know well.
+•	PHEV Familiarity: 6% drove, 6% know well.
+•	FCEV Familiarity: 1% drove, 3% know well.
+
+Benefits & Barriers
+•	Top 5 Expected Benefits: Lower operating cost (54%), Environmental benefits (44%), No need to go to a gas station (42%), Reduced dependence on fossil fuels (40%), Lower maintenance (26%).
+•	Top 5 Hesitations (Barriers): Driving range (41%), Uncertainty about battery life and replacement cost (33%), Inconvenience of recharging battery (26%), Access to public charging/refueling (25%), Charge time (23%).
+•	Least willing to compromise for an EV: Price (37%) and Driving range (35%).
+•	Most willing to compromise for an EV: Passenger or cargo space (32%).
+
+Charging & Practicality
+•	34% of new car buyers report access to level 2 charging.
+•	8% of new car buyers report access to DC fast charging.
+•	72% report awareness of access to power that could be used for charging at home; 52% during the day.
+•	35% of the population notice EV chargers or signage.
+•	85% of new car buyers own their own residence.
+•	86% park in the garage or driveway at their own residence.
+•	81% of one-way commutes are 20 miles or less.
+•	Over half of respondents travel more than 400 miles one way at least once a year.
+
+Required Range
+•	Average required range to seriously consider a BEV is 418 miles.
+•	Torchbearers require an EV range of 337 miles.
+•	Old Guard requires an EV range of 499 miles.
+________________________________________
+
+3. Market Evidence
+•	EV models: "In about two years there will be about 100" electric vehicle models sold in the U.S. market (WardsAuto March 2020).
+•	Charging infrastructure: 800-volt EVs such as the Porsche Taycan have prioritized charge time over range.
+•	Incentives: The roughly $3,000 extra consumers expect to pay for a BEV (over a $35,000 ICE baseline) is an amount that is currently more than covered by federal incentives for all manufacturers except Tesla and GM.
+•	(Note: The report does not explicitly measure or provide data on fuel prices, inflation, supply chain constraints, or government policy outside of the aforementioned tax incentives).
+________________________________________
+
+4. Executive Observations
+•	"Most new car buyers have a positive view of EVs".
+•	"Yet EV purchase intention remains low".
+•	"Familiarity Is Low".
+•	"Knowing Someone Is Very Important".
+•	"Misconceptions Are High".
+•	"Charging infrastructure remains a substantial barrier to EV adoption".
+•	"Charging speed is more important than public charging availability to drive EV adoption.".
+•	"Home charging is a greater opportunity than building out public Level 2 chargers.".
+•	"EVs have vast potential".
+________________________________________
+
+5. Strategic Recommendations
+•	"EVs need to provide range and charging speed that more closely mirror existing ICE vehicles.".
+•	"EV uptake will improve with offerings in segments that are more attractive to consumers (e.g., SUVs)".
+•	"Stop talking about the environmental benefits of EVs – customers are already well aware.".
+•	"Instead, talk about their emotional appeal and the functional benefits that an ICE vehicle cannot provide.".
+•	"Aggressively address consumer misconceptions about EVs including lack of power and 'dangers' of driving a vehicle powered by electricity.".
+•	"Create multi-pronged, non-traditional marketing campaigns that incorporate the target market’s EV-owning friends and family.".
+•	"Experience breeds desire. Dealers and other ecosystem partners can facilitate customer exposure to EVs through programs like ride-and-drive events.".
+•	"Coordinate efforts between OEMs, utilities, electricians, and home EVSE manufacturers to lower customer barriers to home charger installation.".
+•	"To address other charging barriers, focus on corridor DCFC, and L2 work chargers.".
+•	"Since charge time is a critical factor, make sure that DCFC anticipates 300+ kW charge rates.".
+•	"Expose customers to current infrastructure, as well as future plans. Help them understand how to find charge points.".
+________________________________________
+
+6. What's New This Year
+• Introduction of EVForward. • Introduction of EVForward Score. • Introduction of EV Intention Groups. • Introduction of EVForward Buyer Personas.
+________________________________________
+
+7. Research Highlights
+
+Highlight 1
+•	Measured Evidence: 71% of car buyers have very little exposure to EVs (know something, heard some, or never heard about).
+•	Executive Observation: Familiarity Is Low.
+•	Strategic Recommendation: Experience breeds desire. Dealers and other ecosystem partners can facilitate customer exposure to EVs through programs like ride-and-drive events.
+
+Highlight 2
+•	Measured Evidence: Environmental benefits is ranked as the #2 expected benefit of a BEV at 44%.
+•	Executive Observation: It’s about getting past positioning EVs as the future or green – that much is known.
+•	Strategic Recommendation: Stop talking about the environmental benefits of EVs – customers are already well aware. Instead, talk about their emotional appeal and the functional benefits that an ICE vehicle cannot provide.
+
+Highlight 3
+•	Measured Evidence: Having a friend or family member with an EV has a greater impact on EV intention than simply being more familiar with EVs.
+•	Executive Observation: Knowing Someone Is Very Important.
+•	Strategic Recommendation: Create multi-pronged, non-traditional marketing campaigns that incorporate the target market’s EV-owning friends and family.
+
+Highlight 4
+•	Measured Evidence: Only 34% of new car buyers report access to level 2 charging and 8% to DC fast charging.
+•	Executive Observation: Charging infrastructure remains a substantial barrier to EV adoption.
+•	Strategic Recommendation: To address other charging barriers, focus on corridor DCFC, and L2 work chargers.
+
+Highlight 5
+•	Measured Evidence: 8% of consumers have a BEV Purchase Likelihood above 80 on a 0-100 scale, but this jumps to 37% if time to charge is 5 minutes.
+•	Executive Observation: Charging speed is more important than public charging availability to drive EV adoption.
+•	Strategic Recommendation: Since charge time is a critical factor, make sure that DCFC anticipates 300+ kW charge rates.

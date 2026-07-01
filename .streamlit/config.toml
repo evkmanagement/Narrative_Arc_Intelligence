@@ -1,0 +1,12 @@
+[server]
+# Disable hot-reload file watcher.
+# The watcher probes every sub-module in the 'transformers' package (pulled in
+# by sentence-transformers), and many vision models inside it require torchvision
+# which is not installed.  This causes hundreds of harmless but noisy
+# ModuleNotFoundError warnings at startup.  Disabling the watcher silences them
+# without affecting app functionality.
+fileWatcherType = "none"
+
+[browser]
+# Suppress the "You can now view your Streamlit app" usage-stats banner.
+gatherUsageStats = false

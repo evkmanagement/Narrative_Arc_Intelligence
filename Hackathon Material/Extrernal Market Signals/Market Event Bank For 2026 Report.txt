@@ -1,0 +1,330 @@
+# Market Event Bank — EVForward Period 6 (Dec 2024–Nov 2025, U.S. Light-Duty BEVs/PHEVs)
+
+## SIG-INFRA-2024-012
+
+**Date**  
+2024-12-31 (Q4 2024 NEVI snapshot; reported in Q4 2024 NEVI update)
+
+**Headline**  
+NEVI network reaches 31 stations and 126 fast-charging ports as U.S. public charging passes 200,000 ports
+
+**Category**  
+Infrastructure
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Infrastructure
+
+**Signal Direction**  
+Expansion
+
+**Effective Window**  
+- Start: 2024-12-31 (status at end of 2024)  
+- End: 2025-11-30 (baseline infrastructure level entering and during this EVForward window)[web:435][web:432]
+
+**Observed Change**  
+The Joint Office of Energy and Transportation’s Q4 2024 NEVI update reported that there were 126 public fast‑charging ports operating across 31 NEVI stations in nine U.S. states, an 83% increase in open NEVI ports compared with the prior quarter.[web:435] The same update noted that the total U.S. public charging network had grown to nearly 204,000 ports by late 2024, roughly double the number of public chargers at the end of 2020, and that about 59.1% of the most heavily trafficked highway corridors now had fast chargers at least every 50 miles.[web:435][web:432]
+
+**Evidence Themes**  
+Infrastructure Deployment, Public Fast Charging, Charging Accessibility, Federal Funding Implementation, Highway Corridors
+
+**Primary Source**  
+Joint Office “Q4 2024 NEVI quarterly update” and associated NEVI progress commentary[web:435][web:432]
+
+**Evidence Strength**  
+High — official federal program reporting and analysis[web:435]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2024-013
+
+**Date**  
+2024-12-31 (full-year 2024 result; summarized January 2025)
+
+**Headline**  
+U.S. EV sales reach about 1.3 million in 2024, around 8% of new-vehicle market
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase
+
+**Effective Window**  
+- Start: 2024-01-01  
+- End: 2024-12-31 (2024 market outcome, providing starting point for this EVForward window)[web:445]
+
+**Observed Change**  
+Cox Automotive estimates summarized in early 2025 indicated that U.S. battery electric vehicle sales reached around 1.3 million units in 2024, up from roughly 1.1 million in 2023 and representing about 8% of all new‑vehicle sales.[web:445] Reporting noted that EV sales growth in 2024 continued but at a slower pace than prior years, with a 12% year‑over‑year increase in Q4 2024 to about 356,000 units, partly driven by manufacturer incentives and anticipation of potential changes to federal EV tax credits.[web:445]
+
+**Evidence Themes**  
+Market Penetration, Social Proof (Number of Owners), Competition (EV vs ICE), Awareness
+
+**Primary Source**  
+Yahoo Finance / Cox Automotive summary of U.S. EV sales and market share in 2024[web:445]
+
+**Evidence Strength**  
+Medium — industry sales estimates referenced by major financial media[web:445]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-POL-2025-014
+
+**Date**  
+2025-07-04
+
+**Headline**  
+“One Big Beautiful Bill Act” signed, ending federal EV tax credits for new and used vehicles after September 30, 2025
+
+**Category**  
+Policy
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Policy
+
+**Signal Direction**  
+Policy Change
+
+**Effective Window**  
+- Start: 2025-07-04 (law signed)  
+- End: 2025-09-30 (last date to enter qualifying contracts for new/used EV tax credits)[web:446][web:449][web:451][web:450][web:455]
+
+**Observed Change**  
+On July 4, 2025, President Trump signed the “One Big Beautiful Bill Act,” a tax and spending package that terminates the federal clean vehicle tax credits for new and used EVs earlier than previously scheduled, setting a cutoff for acquisitions after September 30, 2025.[web:446][web:449][web:455] The law ends the $7,500 tax credit for qualifying new EV purchases and leases and the $4,000 credit for qualifying used EVs as of that date, replacing the Inflation Reduction Act’s original expiration date of December 31, 2032.[web:449][web:451][web:450]
+
+**Evidence Themes**  
+Policy, Incentives, Affordability, Eligibility Rules, Purchase Timing
+
+**Primary Source**  
+CNBC, Reuters, and electrek reporting on the One Big Beautiful Bill Act’s EV tax credit provisions, along with tax and policy explainers referencing the September 30, 2025 cutoff[web:446][web:451][web:455][web:450]
+
+**Evidence Strength**  
+High — national business media and specialized tax/policy resources describing enacted legislation[web:446][web:451]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-POL-2025-015
+
+**Date**  
+2025-09-30
+
+**Headline**  
+Federal new and used clean vehicle tax credits expire for vehicles purchased after September 30, 2025
+
+**Category**  
+Policy
+
+**Signal Class**  
+Structural
+
+**Signal Vector**  
+Policy
+
+**Signal Direction**  
+Reduction
+
+**Effective Window**  
+- Start: 2025-09-30 (last day to enter a binding contract and qualify)  
+- End: 2025-11-30 (initial post‑credit environment within this EVForward window)[web:454][web:451][web:452][web:448][web:453]
+
+**Observed Change**  
+Following enactment of the One Big Beautiful Bill Act, federal clean vehicle credits worth up to $7,500 for new EVs and $4,000 for used EVs ceased to be available for vehicles purchased or leased after September 30, 2025, with eligibility limited to buyers who had a binding contract and payment in place by that date.[web:454][web:451][web:452] Consumer and tax guidance clarified that purchases completed after the cutoff would no longer qualify for the Section 30D new clean vehicle credit or the used EV credit despite earlier expectations of availability through 2032 under the Inflation Reduction Act.[web:448][web:453][web:450]
+
+**Evidence Themes**  
+Policy, Incentives, Affordability, Purchase Timing, Dealer Practices
+
+**Primary Source**  
+NPR coverage of the September 30, 2025 EV tax credit deadline, electrek’s summary of the official end of the credits, and tax guidance describing the cutoff and binding contract rules[web:454][web:451][web:452][web:450]
+
+**Evidence Strength**  
+High — widely reported policy change with consistent treatment across media and tax resources[web:454][web:451]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2025-016
+
+**Date**  
+2025-09-30
+
+**Headline**  
+U.S. EV sales surge ahead of September 30, 2025 tax credit cutoff
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Increase (short-term sales spike)
+
+**Effective Window**  
+- Start: 2025-07-04 (credit end date announced)  
+- Midpoint: 2025-09-30 (deadline day)  
+- End: 2025-09-30 (pre‑deadline surge period within this EVForward window)[web:454][web:460]
+
+**Observed Change**  
+NPR reported that EV sales in the United States surged in the months leading up to the September 30, 2025 expiration of federal EV tax credits, as buyers rushed to secure vehicles or sign binding purchase contracts before incentives ended.[web:454] Analysis from CleanTechnica described this pre‑deadline period as a major sales “pull‑forward,” reflecting consumers accelerating purchases to capture the up‑to‑$7,500 new EV credit before it was eliminated under the One Big Beautiful Bill Act.[web:460]
+
+**Evidence Themes**  
+Market Penetration, Demand Timing, Incentive Sensitivity, Competition (EV vs ICE)
+
+**Primary Source**  
+NPR story on the U.S. EV sales surge ahead of the September 30 tax credit deadline, with CleanTechnica commentary on the accelerated timeline for ending the credits[web:454][web:460]
+
+**Evidence Strength**  
+Medium — descriptive reporting and analysis based on sales timing around policy change[web:454][web:460]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-ECO-2025-017
+
+**Date**  
+2025-12-31 (full-year 2025 outcome; reported early 2026)
+
+**Headline**  
+U.S. EV sales dip about 2% year-over-year in 2025 after Q4 collapse, with EV share at roughly 7.8%
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Decrease (slight annual decline and volatile quarterly share)
+
+**Effective Window**  
+- Start: 2025-01-01  
+- End: 2025-12-31 (full-year 2025 market outcome within this EVForward window)[web:433][web:436][web:444]
+
+**Observed Change**  
+Cox Automotive estimates reported by Kelley Blue Book and other outlets indicated that U.S. EV sales totaled about 1.28 million units in 2025, down roughly 2% from an estimated 1.30 million in 2024, marking the first annual decline after several years of growth.[web:433][web:436] EVs accounted for about 7.8% of 2025 new‑vehicle sales versus 8.1% in 2024, with EV share peaking around 10.5% in Q3 2025 before dropping to about 5.8% in Q4 following the September 30 end of the federal EV tax credits.[web:436][web:444]
+
+**Evidence Themes**  
+Market Penetration, Demand Volatility, Incentive Sensitivity, Competition (EV vs ICE)
+
+**Primary Source**  
+Cox Automotive/Kelley Blue Book 2025 EV sales commentary and MSN summary of 2025 EV volumes and market share[web:436][web:444][web:433]
+
+**Evidence Strength**  
+High — widely cited industry estimates and analysis[web:436][web:444]
+
+**Verification Status**  
+Multi-source
+
+---
+
+## SIG-ECO-2025-018
+
+**Date**  
+2025-05-31 (January–May 2025 snapshot; published 2025-07-29)
+
+**Headline**  
+EV market share plateaus near 8.6% through first five months of 2025 despite rising EV registrations
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Stable (share plateau)
+
+**Effective Window**  
+- Start: 2025-01-01  
+- End: 2025-05-31 (first five months of 2025)[web:441]
+
+**Observed Change**  
+S&P Global Mobility reported that from January through May 2025, new EV retail registrations in the United States rose about 8.1% year‑over‑year to more than 450,000 units, but EV market share remained largely flat at around 8.6%, only 0.2 percentage points higher than a year earlier.[web:441] The analysis noted that April and May 2025 were the first months since 2020 in which EV market share declined compared with the same months the prior year, indicating that EV sales growth was no longer keeping pace with overall vehicle demand.[web:441]
+
+**Evidence Themes**  
+Market Penetration, Competition (EV vs ICE), Awareness, Pricing and Incentives
+
+**Primary Source**  
+S&P Global Mobility article “As new EV sales stall, new share dynamics grow” covering U.S. EV registrations and share through May 2025[web:441]
+
+**Evidence Strength**  
+High — detailed analysis from a major automotive data provider[web:441]
+
+**Verification Status**  
+Verified
+
+---
+
+## SIG-ECO-2025-019
+
+**Date**  
+2025-12-31 (full-year 2025 brand share outcome; reported early 2026)
+
+**Headline**  
+Tesla U.S. EV market share declines to 46% in 2025 as GM and other brands gain share
+
+**Category**  
+Economy
+
+**Signal Class**  
+Market
+
+**Signal Vector**  
+Economy
+
+**Signal Direction**  
+Decrease (for Tesla share) / Increase (for GM and others)
+
+**Effective Window**  
+- Start: 2025-01-01  
+- End: 2025-12-31 (2025 competitive landscape within this EVForward window)[web:440]
+
+**Observed Change**  
+CleanTechnica’s analysis of 2025 U.S. EV sales found that Tesla’s share of the U.S. EV market declined from about 48.7% in 2024 to about 46% in 2025, with Tesla’s U.S. EV sales falling from roughly 634,000 to about 589,000 units.[web:440] Over the same period, General Motors’ EV market share increased from about 8.8% to 13.2%, with GM’s EV sales rising from around 92,000 to more than 150,000 units, while several other automakers such as Hyundai–Kia and Volkswagen Group also saw shifts in EV market share.[web:440]
+
+**Evidence Themes**  
+Competition, Brand Dynamics, Market Structure, Product Diversity
+
+**Primary Source**  
+CleanTechnica report on U.S. EV market shares by brand and group in 2025[web:440]
+
+**Evidence Strength**  
+Medium — detailed but non-governmental aggregation based on industry data[web:440]
+
+**Verification Status**  
+Multi-source (consistent with other brand-share commentaries)
+
+---

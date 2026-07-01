@@ -1,0 +1,159 @@
+Report:
+EVForward 2024 Core Report
+
+Methodology
+•	Sample size: The total 2024 EVForward sample is n=11,000. The sample includes n=9,300 Total Mainstream Owners, n=1,700 Total Luxury Owners, and n=1,021 Total Alternative Powertrain Owners. Total new car buyers surveyed historically were 10,293 in 2020, 10,218 in 2021, 10,272 in 2022, and 10,418 in 2023.
+•	Fieldwork: April 2023 – December 2023. Respondents were recruited monthly at n=~1,200.
+•	Target population: U.S. market only. Age 18-80 years old. Respondents must not work in market research, automotive, or for an electric utility company. The primary vehicle in the household must be MY2018 or newer. The respondent must have had an active role in the purchase/lease decision and intend to purchase a new vehicle within 5 years.
+•	Survey methodology: 25-minute online survey. The survey utilizes sample quotas by U.S. state, demographic markers (age, gender, ethnicity), and vehicle ownership segment to ensure accurate market representation.
+•	Weighting: 2024 data is weighted by segment, state, brand, age, gender, race, and Hispanic descent.
+•	Methodology changes: The EVForward sample intentionally increased the share of younger car buyers to keep in line with the new car buyer market.
+
+Research Evidence
+
+•	EV Intention / EV Groups: 
+o	EV Owners comprise 8% of the market.
+o	EV Intenders comprise 24% of the market.
+o	EV Open comprises 33% of the market.
+o	EV Resistant comprises 35% of the market.
+o	The EV Owner EVForward mean score is 89.
+o	The EV Intender EVForward mean score is 83.
+o	The EV Open EVForward mean score is 49.
+o	The EV Resistant EVForward mean score is 19.
+o	75% of EV Owners have potential BEV interest.
+o	61% of EV Intenders have potential BEV interest.
+o	26% of EV Open have potential BEV interest.
+o	7% of EV Resistant have potential BEV interest.
+•	Buyer Personas: 
+o	Trailblazers represent 13% of the market, have a mean age of 42, are 72% male, and have a mean household income of $154,000.
+o	Altruists represent 11% of the market, have a mean age of 49, are 49% male, and have a mean household income of $126,000.
+o	Techies represent 16% of the market, have a mean age of 50, are 63% male, and have a mean household income of $137,000.
+o	Dreamers represent 23% of the market, have a mean age of 50, are 59% male, and have a mean household income of $125,000.
+o	Pragmatists represent 16% of the market, have a mean age of 58, are 46% male, and have a mean household income of $111,000.
+o	Traditionalists represent 21% of the market, have a mean age of 57, are 58% male, and have a mean household income of $116,000.
+
+•	Purchase Intent: 
+o	The 2024 stated purchase intent mean score for Gas is 75.
+o	The 2024 stated purchase intent mean score for Hybrid is 48.
+o	The 2024 stated purchase intent mean score for PHEV is 39.
+o	The 2024 stated purchase intent mean score for BEV is 38.
+o	The 2024 stated purchase intent mean score for FCEV is 26.
+o	The 2024 stated purchase intent mean score for Diesel is 20.
+o	Compared to 2020, powertrain intention scores have changed by -3 for Gas, +6 for Hybrid, +6 for PHEV, and +6 for BEV.
+•	Familiarity: 
+o	30% of women have BEV familiarity (Top 2 Box) compared to 55% of men.
+o	40% of women know someone who owns a BEV compared to 54% of men.
+o	40% of the total 2024 sample knows a few or many BEV owners, an increase from 34% in 2023.
+o	39% of the total 2024 sample is familiar with BEVs (17% drove, 22% know well).
+
+•	Benefits: 
+o	Lower operating cost is the number one expected BEV benefit at 49%.
+o	38% of respondents expect environmental benefits as a top 3 BEV benefit.
+o	38% of respondents expect no need to go to a gas station as a top 3 BEV benefit.
+•	Barriers: 
+o	Driving range is the top BEV barrier at 38%.
+o	Uncertainty about battery life and replacement cost is the second highest BEV barrier at 33%.
+o	Access to public charging/refueling is a top 3 hesitation for 25% of respondents.
+o	Charge time is a top 3 hesitation for 23% of respondents.
+
+•	Charging: 
+o	58% of drivers notice public charging stations or signage in a typical week.
+o	73% of drivers are concerned about charge time regarding public charging.
+o	58% of drivers are concerned about the distance between chargers.
+o	58% of drivers are concerned about the cost to charge.
+o	57% of BEV owners plan where to charge before a long trip.
+o	25% of BEV owners follow the advice their car gives where and when to charge.
+o	16% of BEV owners wait until their remaining charge is low before thinking about charging.
+
+•	Vehicle Preferences / Practicality: 
+o	Purchase price is the most important vehicle attribute at 64%.
+o	61% of buyers are more interested in a vehicle's quality than appearance or brand.
+o	EV Intenders expect to spend $40,868 on a Compact SUV and $46,966 on a Midsize SUV.
+o	Women expect to spend $42,709 on their next vehicle, whereas men expect to spend $46,835.
+•	Required Range: 
+o	The required driving range to seriously consider a BEV is 380 miles in 2024, down from 411 miles in 2023.
+
+•	Demographics: 
+o	58% of the total sample is male.
+o	The median household income is $106,014.
+o	62% of the sample has a Bachelors Degree or higher.
+o	79% of the sample is White, 11% is African-American, and 14% is of Hispanic Descent.
+
+Market Evidence
+•	EV Models: In 2024, the average BEV range is close to 300 miles, with some maximum ranges exceeding 300 miles. Consumer Reports is tracking over 20 new EV models that are expected to be available in 2024.
+
+•	Pricing: According to Kelly Blue Book, in July 2023 the average transaction price difference between a BEV and gas vehicle was $5,000. Tesla and others slashed prices in Q4 2023.
+
+•	Charging Infrastructure: Supported by federal funding and investments from OEMs, the number of public chargers is increasing.
+
+•	Inflation / Economic Headwinds: Economic headwinds from high interest rates over the past few months caused consumers to delay their purchases, with Monthly Pulse findings showing 40% are less likely to purchase a new vehicle because of interest rates peaking in mid-October 2023.
+
+•	Supply Chain / Student Loans: Among those affected by the resumption of student loans, just over half are less likely to purchase a new vehicle.
+
+•	Incentives: Attributes associated with BEVs like EV rebates and tax credits have lower overall importance (6%).
+Executive Observations
+
+•	"BEV opinion and intention scores have been steadily increasing over the past 5 years. Hybrid and PHEV opinion and intention scores have been increasing at the same rate."
+
+•	"While alternative powertrains are gaining ground, gas is losing ground with both opinion and intention scores falling."
+
+•	"Increasing popularity, perceptions, and purchase consideration for alternative powertrains is tied to several developing market conditions: OEMs are investing in alterative powertrain models with advanced capabilities including BEVs with longer range and faster charge speed; charging infrastructure continues to improve; EV prices are dropping more in line with gas..."
+
+•	"EV Intenders will most likely purchase a midsize SUV, followed by compact SUV."
+
+•	"The midsize/large car segment has only one BEV model, so EV Intenders looking to purchase their next vehicle in that segment may end up purchasing a powertrain other than BEV."
+
+•	"Women are lower on the BEV adoption curve."
+
+•	"Women are less likely innovators and early adopters."
+
+•	"Women also have a more diverse set of BEV barriers that need to be addressed before adopting a BEV, including purchase price."
+
+•	"Each year OEMs release BEVs with longer range."
+
+•	"Buyers are slowly becoming more comfortable with BEV range due to wider availability of longer-range BEVs and increased confidence that they can find a charge when they need it—though infrastructure still needs to keep pace with EV adoption."
+
+•	"Consumer Groups Mirror Market Developments. As BEV adoption progresses, buyers are moving out of the groups with lower BEV intention and into the groups with higher intention."
+
+•	"More are certain that their next vehicle will be a BEV, but buyers increasingly indicate a willingness to wait to purchase their next BEV, increasing the pent-up demand for the right vehicle at the right price..."
+
+•	"Uncertainty about used BEV may be tied to battery life and replacement cost concerns."
+
+•	"Time AnxietyTM is on the rise."
+
+•	"Awareness Of BEV Offerings Increase."
+
+•	"Tesla is a serious competitor for both luxury and mainstream brands."
+
+•	"Nearly half of buyers think that the national grid is not capable of handling the load for the current BEV demand."
+
+Strategic Recommendations
+•	"During the transition to an electrified future, it is important to offer the appropriate mix of alternative powertrains to the appropriate buyers."
+•	"It’s important to have BEV options in segments that EV Intenders intend to purchase."
+•	"OEMs need to meet women where they are and use targeted and inclusive marketing and outreach that will close the gender gap in familiarity and propel women through the adoption curve in line with men."
+•	"Female buyers will need a more personalized marketing and a sales approach that’s tailored to their BEV concerns."
+•	"Auto manufacturers that are adding BEVs in high intention segments may have the most success catching the eye of new vehicle shoppers intending a BEV."
+•	"Auto manufacturers can educate consumers about charging to help ease concerns and overcome this barrier to BEV adoption."
+•	"Automakers need to prioritize strong and consistent charging curves and infrastructure investments need to reliably deliver high power to BEVs capable of accepting it."
+•	"OEMs should hedge their bets about this behavior continuing with new BEV adopters and provide a mobile app that offers trip planning and allows those plans to be sent to the navigation system."
+•	"Charging stations should provide amenities so drivers can charge and take care of other pit stop needs all at one place."
+•	"Use concerns about gas to sell BEVs..."
+What's New This Year
+•	Time Anxiety™: A new concept introduced to measure and define increasing consumer anxiety surrounding BEV charge time as opposed to driving range.
+
+Research Highlights
+
+Highlight 1: Product Whitespace in Segments
+•	Measured Evidence: 10% of buyers intend to purchase a Midsize/Large Car as their next vehicle. Midsize/Large Car has only 1 available BEV option. EV Intenders shopping this segment expect to spend $43,804 and require a range of 314 miles.
+•	Executive Observation: The midsize/large car segment has only one BEV model, so EV Intenders looking to purchase their next vehicle in that segment may end up purchasing a powertrain other than BEV.
+•	Strategic Recommendation: It’s important to have BEV options in segments that EV Intenders intend to purchase. Auto manufacturers that are adding BEVs in high intention segments may have the most success catching the eye of new vehicle shoppers intending a BEV.
+
+Highlight 2: The Gender Gap
+•	Measured Evidence: 30% of women have BEV familiarity and 40% know someone who owns a BEV, compared to 55% familiarity and 54% knowing an owner for men. Women expect to spend $42,709 on their next vehicle compared to $46,835 for men.
+•	Executive Observation: Women are lower on the BEV adoption curve. Because of the “newness” of BEV technology, women are less likely to adopt this new technology before they are more familiar with it and hear about others’ experiences.
+•	Strategic Recommendation: OEMs need to meet women where they are and use targeted and inclusive marketing and outreach that will close the gender gap in familiarity and propel women through the adoption curve in line with men.
+
+Highlight 3: Range vs. Charge Time Anxiety
+•	Measured Evidence: The required driving range to seriously consider a BEV dropped to 380 miles in 2024 from 411 miles in 2023. Conversely, 73% of drivers are concerned about charge time for public charging, compared to 58% being concerned about the distance between chargers.
+•	Executive Observation: Buyers are slowly becoming more comfortable with BEV range due to wider availability of longer-range BEVs and increased confidence that they can find a charge when they need it. However, Time Anxiety™ is on the rise.
+•	Strategic Recommendation: Automakers need to prioritize strong and consistent charging curves and infrastructure investments need to reliably deliver high power to BEVs capable of accepting it.

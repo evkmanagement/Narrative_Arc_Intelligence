@@ -1,0 +1,93 @@
+Report:
+EVForward 2022 Core Report
+
+Methodology
+•	Sample size: 10,000 new-car buyers per year (2020: 10,293, 2021: 10,218, 2022: 10,272).
+•	Fieldwork: November 2021 - January 2022.
+•	Target population: U.S. market only (quotas by state); age 18-80 years old; primary vehicle household must be MY2016 or newer; must have had an active role in the purchase/lease decision; intend new vehicle within 5 years; must not work in market research, automotive, or for an electric utility company.
+•	Survey methodology: 25 Minute Online Survey.
+•	Weighting: Data weighted by segment, state, brand, age, gender, race & Hispanic.
+•	Methodology changes: In 2022, Escalent built a predictive algorithm (Automotive Innovation Index) to evaluate and predict interest in automotive innovation. Escalent also created a new, mutually exclusive group to cross-compare EV Owners against three preexisting intention groups. Response categories for anticipated spend and commuting behaviors were changed.
+
+Research Evidence
+•	EV Intention: 34% of respondents are likely to delay their next vehicle purchase until an EV that better meets their needs is available. 4% of buyers state their next vehicle will be a BEV no matter what. Potential BEV interest is 24%. 37% have no interest in a BEV or PHEV. 12% state a BEV will not work for them but a PHEV could.
+•	EV Groups: EV Intenders make up 21% of the population, a 5ppt increase from 2020 and a 4ppt increase from 2021. EV Open make up 40% of the population. EV Resistant make up 38% of the population. EV Owners make up 1% of the population. EV Intender score is 82, EV Open score is 51, EV Resistant score is 23, and EV Owner score is 90.
+•	Buyer Personas: The new car buyer population is divided into Innovators (2.5%), Early Adopters (13.5%), Early Majority (34%), Late Majority (34%), and Laggards (16%). Personas include Torchbearer (1%), Young Enthusiast (24%), Steward (22%), Survivor (18%), Skeptic (10%), and Old Guard (24%).
+•	Purchase Intent: Mainstream owner BEV purchase intent score is 34 in 2022, 31 in 2021, and 28 in 2020. Luxury owner BEV purchase intent score is 43 in 2022, 44 in 2021, and 36 in 2020.
+•	BEV Attitudes: BEV Opinion score is 48 in 2022, equal to 2021. ICE Opinion score is 76 in 2022, down from 78 in 2021. BEV Consideration score is 35 in 2022, up from 33 in 2021. ICE Consideration score is 76 in 2022, down from 80 in 2021. 21% of conservative respondents say their opinion of BEVs has become more negative, while 51% of liberal respondents state their views have become more positive.
+•	Familiarity: 34% of new car buyers report knowing at least one BEV owner. 8% have driven a BEV, 10% know them well, 45% know something, 32% have heard some, and 4% have never heard about them.
+•	Benefits: The top 3 expected BEV benefits are lower operating cost (51%), environmental benefits (42%), and no need to go to a gas station (39%).
+•	Barriers: The top hesitations to buying a BEV are driving range (38%), uncertainty about battery life/replacement cost (33%), access to public charging/refueling (28%), inconvenience of recharging battery (27%), and charge time (21%).
+•	Charging: 21% report noticing charging stations, 5% notice signage, 16% notice both, and 58% do not recall seeing any or do not know. For overnight home charging access, 61% have Level 1 standard access, 31% have Level 2 240V access, 5% have DC fast charger access, and 17% have none of the above.
+•	Practicality: Overall BEV practicality score is 39 in 2022, 38 in 2021, and 35 in 2020.
+•	Environmental Decision-Making: 60% of respondents agree that climate change is a major problem facing the world today. 47% would like to drive an environmentally friendly vehicle. Unity with the environment is a guiding life value for 57% of respondents.
+•	Automotive Innovation: Innovators' average Automotive Innovation Index score is 89; Early Adopters score 71; Early Majority score 52; Late Majority score 36; Laggards score 19.
+•	Vehicle Preferences: The top vehicle types desired for next purchase are Midsize SUV (20%), Compact SUV (15%), Fullsize Pickup (11%), and Midsize/Large Car (11%).
+•	Required Range: 21% of new car buyers say a BEV is completely off the table. For BEV considerers, the average required range for consideration is 436 miles, while the average range expectation is 410 miles.
+•	Demographics: The average new car buyer has a mean age of 56 years. 60% are male. Median Income is $105,009. 64% have a Bachelors Degree+. 72% are married. 76% have no children in the household. 80% are White, 11% African-American, and 11% Hispanic Descent.
+
+Market Evidence
+•	EV models: At the time of research, there was 1 BEV Midsize SUV model, 3 BEV Compact SUV models, and 1 BEV Fullsize Pickup model available.
+•	Charging infrastructure: U.S. public EVSE ports grew to ~114,000 in 2021, compared to ~96,000 in 2020.
+•	Fuel prices: Average U.S. gas price per gallon was ~$3.18 in 2022 during research, up from ~$2.23 in 2021. National gas prices reached an all time high of ~$4.85/gallon in June 2022.
+•	Inflation: Rising inflation and interest rates are impacting macroeconomics alongside recession fears.
+•	Supply chain: New vehicle inventory is limited as the global automotive chip crisis continues.
+•	Incentives: Electric or hydrogen vehicle rebates/tax credits rank among the least important next vehicle attributes (4%).
+
+Executive Observations
+•	"Companies that can predict what these EV Intenders want (not current/past EV owners) will be the most successful.".
+•	"With national gas prices reaching an all time high in June 2022 ... this may be the spark many consumers need to begin looking at BEVs in the months ahead.".
+•	"Environmental factors are not enough to facilitate widespread EV adoption.".
+•	"Those who want to drive an eco-friendly vehicle have greater access to home charging.".
+•	"Value still tops the list for new vehicle buyers, rebounding from its 9ppt decrease in 2021.".
+•	"Familiarity with BEVs and PHEVs continues to improve.".
+•	"Access to BEV driving experience is clearly limited for many, though at the same time BEVs are seen as increasingly practical for nearly every demographic.".
+•	"Luxury owners show higher BEV intent than mainstream owners.".
+•	"Time Anxiety™ is increasingly an issue.".
+•	"EV specialist brands show highest BEV awareness.".
+•	"L2 charging access is a prerequisite.".
+•	"All groups except EV owners are driving less.".
+•	"EV Intenders expect more long journeys compared with other groups.".
+•	"Old Guards and Skeptics are the primary EV resistors.".
+•	"Suburbs—The Place Where EVs Prosper?".
+
+Strategic Recommendations
+•	"Automakers ought to market their BEVs using a broader framework, focusing more on how their BEVs align with the most important next vehicle attributes rather than focusing on specific BEV benefits.".
+•	"BEVs can and should be sold as a hedge against the budgetary impact of rising gas prices and inflation.".
+•	"Framing marketing and sales strategies around home charging is one way to wrap consumers’ heads around the idea that a BEV can be easy and can simultaneously help to circumvent concerns about public charging speed.".
+•	"Consumers need to be shown that long journeys with a BEV are actually much easier than they might expect.".
+•	"Automakers need to begin planning for a market of ‘non-innovators’ and understand how to reach them sooner rather than later.".
+•	"Other automakers need to take advantage of Toyota’s absence by getting word out about their BEVs as soon as possible.".
+•	"Efforts need to be made to envelop [L2 charging] into EV sales efforts.".
+•	"Evidence suggests customized messaging may be required to reach new car buyers where they are.".
+•	"OEMs need to take a page out of Kia’s playbook for overcoming Q/R/D concerns in the early aughts by highlighting 10-year/100,000-mile BEV powertrain warranties to allay buyer uncertainty about battery life.".
+
+What's New This Year
+•	Escalent built a predictive algorithm to evaluate and predict interest in automotive innovation (Escalent Automotive Innovation Index).
+•	Escalent created a new, mutually exclusive group to cross-compare EV Owners against the three preexisting EV intention groups.
+•	A "vehicle not used for commuting" option was added to the driving behavior tracking.
+
+Research Highlights
+Measured Evidence: Respondents expect to charge an EV 72% of the time at their home (16% of the time at public charging stations). 
+↓ 
+Executive Observation: When charging an EV at home is as simple as plugging in and going to sleep, the typical BEV owner will spend less time refueling their car than even ICE owners. 
+↓ 
+Strategic Recommendation: Framing marketing and sales strategies around home charging is one way to wrap consumers’ heads around the idea that a BEV can be easy and can simultaneously help to circumvent concerns about public charging speed.
+
+Measured Evidence: 33% of new car buyers select "Uncertainty about battery life/replacement cost" as one of their top 3 hesitations to buying a BEV. 
+↓ 
+Executive Observation: Battery life concerns continue to be top-of-mind for many potential buyers. 
+↓ 
+Strategic Recommendation: OEMs need to take a page out of Kia’s playbook for overcoming Q/R/D concerns in the early aughts by highlighting 10-year/100,000-mile BEV powertrain warranties to allay buyer uncertainty about battery life.
+
+Measured Evidence: Environmental sustainability (7%), electric or hydrogen vehicle rebates/tax credits (4%), and carpool lane access (1%) rank at the bottom of important next vehicle attributes. 
+↓ 
+Executive Observation: Some of the benefits that EVs provide register as some of the least important attributes the average new car buyer wants in their next vehicle. 
+↓ 
+Strategic Recommendation: Automakers ought to market their BEVs using a broader framework, focusing more on how their BEVs align with the most important next vehicle attributes rather than focusing on specific BEV benefits.
+
+Measured Evidence: Laggards and Late Majority account for ~50% of the new car buyer population and are the least likely to adopt new technology in the near term. 
+↓ 
+Executive Observation: The automotive industry is still in the early days of EV adoption, and BEVs in their current form are good enough to reach the early-stage adopters. 
+↓ 
+Strategic Recommendation: Automakers need to begin planning for a market of ‘non-innovators’ and understand how to reach them sooner rather than later.

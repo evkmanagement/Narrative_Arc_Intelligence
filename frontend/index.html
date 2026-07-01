@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Narrative Arc Intelligence Suite — Evidence-grounded strategic narratives for EV market intelligence" />
+  <title>Narrative Arc Intelligence Suite — Escalent EVForward</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+
+<!-- ═══════════════════════ NAVIGATION ═══════════════════════ -->
+<header id="main-nav" role="banner">
+  <nav class="nav-container" aria-label="Main navigation">
+    <a href="#hero" class="nav-brand" aria-label="Narrative Arc home">
+      <span class="brand-gem" aria-hidden="true">◆</span>
+      <span class="brand-name">Narrative Arc</span>
+    </a>
+    <ul class="nav-links" role="list">
+      <li><a href="#analysis" class="nav-link">Analysis</a></li>
+      <li><a href="#narrative" class="nav-link">Narrative</a></li>
+      <li><a href="#validation" class="nav-link">Validation</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main id="main-content">
+
+<!-- ═══════════════════════ HERO ═══════════════════════════════ -->
+<section id="hero" class="fma" aria-labelledby="hero-title">
+  <div class="fma-bg" aria-hidden="true"></div>
+  <div class="hero-content">
+    <span class="hero-eyebrow">Escalent EVForward Intelligence</span>
+    <h1 id="hero-title" class="hero-heading">
+      Narrative Arc<br>
+      <span class="hero-accent">Intelligence Suite</span>
+    </h1>
+    <p class="hero-lead">
+      Transform EVForward longitudinal research and real-world market signals into
+      evidence-grounded, three-act strategic narratives — with full source traceability.
+    </p>
+    <div class="hero-actions">
+      <a href="#analysis" class="btn-cta">Begin Analysis</a>
+    </div>
+    <div class="hero-stats" aria-label="Coverage statistics">
+      <div class="hero-stat"><span class="stat-n">7</span><span class="stat-l">Report Years</span></div>
+      <div class="hero-stat"><span class="stat-n">2020–2026</span><span class="stat-l">EVForward Data</span></div>
+      <div class="hero-stat"><span class="stat-n">3</span><span class="stat-l">Scenarios</span></div>
+      <div class="hero-stat"><span class="stat-n">3</span><span class="stat-l">Narrative Acts</span></div>
+    </div>
+  </div>
+  <a href="#analysis" class="fma-carat" aria-label="Scroll to analysis">↓</a>
+</section>
+
+<!-- ═══════════════════════ ANALYSIS ══════════════════════════ -->
+<section id="analysis" class="section" aria-labelledby="analysis-heading">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-badge">Step 01</span>
+      <h2 id="analysis-heading" class="section-title">Analysis Brief</h2>
+      <p class="section-desc">Enter a strategic question, choose your market scenario, and generate a defensible narrative.</p>
+    </div>
+
+    <div class="analysis-layout">
+      <!-- Question input -->
+      <div class="analysis-card card-question">
+        <label for="question-input" class="field-label">
+          Strategic Question
+          <span class="field-required" aria-hidden="true">*</span>
+        </label>
+        <textarea
+          id="question-input"
+          class="question-textarea"
+          rows="4"
+          placeholder="e.g., How will EV adoption shift over the next two years given current charging infrastructure investment levels?"
+          minlength="10"
+          maxlength="500"
+          aria-required="true"
+          aria-describedby="question-hint char-count"
+        ></textarea>
+        <div class="textarea-footer">
+          <span id="question-hint" class="field-hint">10–500 characters</span>
+          <span id="char-count" class="char-count" aria-live="polite">0 / 500</span>
+        </div>
+
+        <div class="quick-questions" aria-label="Quick-start questions">
+          <span class="ql-label">Quick start:</span>
+          <button class="ql-btn" type="button"
+            data-q="What are the primary barriers to mass-market EV adoption and how are they evolving?">
+            Adoption barriers
+          </button>
+          <button class="ql-btn" type="button"
+            data-q="How has BEV purchase intent evolved from 2020 to 2026 and what is driving the shift?">
+            Intent trends
+          </button>
+          <button class="ql-btn" type="button"
+            data-q="What charging infrastructure gaps are most critical to close for mainstream EV adoption?">
+            Charging gaps
+          </button>
+        </div>
+      </div>
+
+      <!-- Scenario selector -->
+      <div class="analysis-card card-scenario">
+        <div class="field-label" id="scenario-label">Market Scenario</div>
+        <div id="scenario-selector"
+             class="scenario-selector"
+             role="radiogroup"
+             aria-labelledby="scenario-label">
+          <!-- Populated by JS -->
+          <div class="skeleton-scenario"></div>
+          <div class="skeleton-scenario"></div>
+          <div class="skeleton-scenario"></div>
+        </div>
+      </div>
+
+      <!-- Action bar -->
+      <div class="analysis-actions">
+        <button id="analyze-btn" class="btn-primary" type="button">
+          <span class="btn-ico" aria-hidden="true">⚡</span>
+          Generate Narrative
+        </button>
+        <button id="export-btn" class="btn-secondary" type="button" disabled aria-label="Export narrative as PDF (available after analysis)">
+          <span class="btn-ico" aria-hidden="true">⬇</span>
+          Export PDF
+        </button>
+        <div id="analyze-progress" class="inline-progress-wrap" hidden>
+          <div class="inline-progress"><div class="inline-progress-bar"></div></div>
+          <p id="analyze-progress-msg" class="inline-progress-msg">Processing…</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ NARRATIVE ═════════════════════════ -->
+<section id="narrative" class="section section-tinted" aria-labelledby="narrative-heading">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-badge">Step 02</span>
+      <h2 id="narrative-heading" class="section-title">Strategic Narrative</h2>
+      <div id="narrative-meta" class="narrative-meta" aria-live="polite"></div>
+    </div>
+
+    <!-- Empty state -->
+    <div id="narrative-empty" class="empty-state" role="status">
+      <div class="empty-icon" aria-hidden="true">◇</div>
+      <h3 class="empty-title">Narrative Awaiting</h3>
+      <p class="empty-desc">Complete the Analysis Brief above and click <strong>Generate Narrative</strong>.</p>
+    </div>
+
+    <!-- Results (hidden until analysis completes) -->
+    <div id="narrative-results" class="hidden" aria-live="polite">
+      <div id="narrative-summary-bar" class="summary-bar hidden">
+        <span class="summary-icon" aria-hidden="true">◈</span>
+        <p id="narrative-summary-text" class="summary-text"></p>
+      </div>
+
+      <div class="acts-grid">
+        <!-- Act 1 -->
+        <article class="act" id="act1-card" aria-labelledby="act1-heading">
+          <header class="act-header act-header--1">
+            <span class="act-num" aria-hidden="true">01</span>
+            <div>
+              <h3 id="act1-heading" class="act-title">Where They Are</h3>
+              <p class="act-sub">Grounded Facts</p>
+            </div>
+          </header>
+          <div id="act1-content" class="act-content"></div>
+        </article>
+
+        <!-- Act 2 -->
+        <article class="act" id="act2-card" aria-labelledby="act2-heading">
+          <header class="act-header act-header--2">
+            <span class="act-num" aria-hidden="true">02</span>
+            <div>
+              <h3 id="act2-heading" class="act-title">Where They Are Heading</h3>
+              <p class="act-sub">Signals &amp; Inferences</p>
+            </div>
+          </header>
+          <div id="act2-content" class="act-content"></div>
+        </article>
+
+        <!-- Act 3 -->
+        <article class="act" id="act3-card" aria-labelledby="act3-heading">
+          <header class="act-header act-header--3">
+            <span class="act-num" aria-hidden="true">03</span>
+            <div>
+              <h3 id="act3-heading" class="act-title">Now What</h3>
+              <p class="act-sub">Strategic Recommendations</p>
+            </div>
+          </header>
+          <div id="act3-content" class="act-content"></div>
+        </article>
+      </div>
+
+      <!-- Sources -->
+      <div id="sources-section" class="sources-section" aria-label="Evidence sources" hidden>
+        <div class="sources-header">
+          <h3 class="sources-title">Evidence Sources</h3>
+          <p class="sources-hint">Click a source chip to view the full source report</p>
+        </div>
+        <div id="sources-list" class="sources-chips"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════ VALIDATION ════════════════════════ -->
+<section id="validation" class="section section-tinted" aria-labelledby="validation-heading">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-badge">Step 03</span>
+      <h2 id="validation-heading" class="section-title">Validation Mode</h2>
+      <p class="section-desc">Select a year and compare model-predicted market outcomes against actual EVForward research findings.</p>
+    </div>
+
+    <div class="validation-form">
+      <div class="field-row">
+        <div class="field-group">
+          <label for="backtest-year" class="field-label">Analysis Year</label>
+          <select id="backtest-year" class="select-field" aria-label="Select year for validation">
+            <option value="2021">2021</option>
+            <option value="2022">2022</option>
+            <option value="2023">2023</option>
+            <option value="2024" selected>2024</option>
+            <option value="2025">2025</option>
+            <option value="2026">2026</option>
+          </select>
+        </div>
+        <div class="field-group field-grow">
+          <label for="backtest-question" class="field-label">Validation Question</label>
+          <input
+            id="backtest-question"
+            type="text"
+            class="text-field"
+            value="What were the key EV market developments and adoption trends?"
+            aria-label="Question for validation analysis"
+          />
+        </div>
+        <div class="field-group field-action">
+          <div class="field-label" aria-hidden="true">&nbsp;</div>
+          <button id="backtest-btn" class="btn-primary" type="button">
+            <span class="btn-ico" aria-hidden="true">⟳</span>
+            Run Validation
+          </button>
+        </div>
+      </div>
+      <div id="backtest-progress" class="inline-progress-wrap" hidden>
+        <div class="inline-progress"><div class="inline-progress-bar"></div></div>
+        <p id="backtest-progress-msg" class="inline-progress-msg">Processing…</p>
+      </div>
+    </div>
+
+    <!-- Empty state -->
+    <div id="validation-empty" class="empty-state" role="status">
+      <div class="empty-icon" aria-hidden="true">◈</div>
+      <h3 class="empty-title">Validation Awaiting</h3>
+      <p class="empty-desc">Select a year and click <strong>Run Validation</strong>.</p>
+    </div>
+
+    <!-- Results -->
+    <div id="validation-results" class="hidden" aria-live="polite">
+      <div id="accuracy-note" class="accuracy-banner" hidden></div>
+      <div class="validation-grid">
+        <div class="validation-panel">
+          <h3 class="vp-title">
+            <span class="vp-icon" aria-hidden="true">◉</span>
+            Model Prediction
+          </h3>
+          <div id="predicted-list" class="vp-list"></div>
+        </div>
+        <div class="validation-panel">
+          <h3 class="vp-title">
+            <span class="vp-icon" aria-hidden="true">◎</span>
+            Actual Outcomes
+          </h3>
+          <div id="actual-list" class="vp-list"></div>
+        </div>
+      </div>
+      <div id="validation-meta" class="validation-meta"></div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ═══════════════════════ FOOTER ════════════════════════════ -->
+<footer class="footer" role="contentinfo">
+  <div class="container">
+    <div class="footer-row">
+      <div class="footer-brand">
+        <span class="brand-gem" aria-hidden="true">◆</span>
+        <span>Narrative Arc Intelligence Suite</span>
+      </div>
+      <p class="footer-copy">© 2026 Escalent. Powered by EVForward Intelligence.</p>
+      <nav class="footer-links" aria-label="Footer navigation">
+        <a href="/api/docs" target="_blank" rel="noopener noreferrer">API Docs</a>
+        <a href="#hero">Top ↑</a>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+<!-- ═══════════════════════ REPORT OVERLAY ════════════════════ -->
+<div id="report-overlay"
+     class="overlay"
+     role="dialog"
+     aria-modal="true"
+     aria-labelledby="overlay-title"
+     hidden>
+  <div id="overlay-backdrop" class="overlay-backdrop"></div>
+  <aside class="overlay-panel">
+    <div class="overlay-header">
+      <h2 id="overlay-title" class="overlay-title"></h2>
+      <button id="overlay-close" class="overlay-close-btn" aria-label="Close report overlay" type="button">×</button>
+    </div>
+    <div class="overlay-meta" id="overlay-meta"></div>
+    <div id="overlay-body" class="overlay-body"></div>
+  </aside>
+</div>
+
+<!-- ═══════════════════════ TOASTS ════════════════════════════ -->
+<div id="toast-container"
+     class="toast-container"
+     aria-live="polite"
+     aria-atomic="true"
+     role="status"></div>
+
+<script src="/js/app.js"></script>
+</body>
+</html>

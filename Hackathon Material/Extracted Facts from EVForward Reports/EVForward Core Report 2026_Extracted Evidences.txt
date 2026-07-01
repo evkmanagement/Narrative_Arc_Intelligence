@@ -1,0 +1,138 @@
+Report:
+EVForward 2026 Core Report
+
+Methodology
+•	Sample size: Total Sample n=10,026; Total Mainstream Owners n=8,499; Total Luxury Owners n=1,527; Total Alt. Powertrain Owners n=2,398.
+•	Fieldwork: January 2025 – December 2025. Recruited monthly (n=~840).
+•	Target population: U.S. market only. Age 18-80 years old. Must not work in market research, automotive, or for an electric utility company. Primary vehicle household must be MY2020 or newer. Must have had an active role in the purchase/lease decision. Intend new vehicle within 5 years.
+•	Survey methodology: 25 Minute Online Survey.
+•	Weighting: Weighted by segment, powertrain, brand, state, age, gender, race & Hispanic.
+•	Methodology changes: Six additional brands were added to the brand consideration question in 2026. Extended-Range Electric Vehicle (EREV) was introduced to the study in 2026.
+
+Research Evidence
+
+BEV Attitudes
+•	64% think BEVs are the future (-4 pts yoy).
+•	56% would feel anxious if their next purchase had to be a BEV.
+•	61% think new vehicle prices are at an all-time high.
+•	41% think EVs are becoming even more expensive than gas vehicles.
+•	62% think BEVs are not affordable.
+•	56% think BEVs are more expensive to maintain than gas vehicles.
+•	60% of non-BEV owners think a BEV will cause their home electricity bill to increase significantly.
+•	64% think BEV batteries are unreliable need replacement during ownership.
+•	75% who shopped for a vehicle in the past 6 months included at least one alternative powertrain (+4 pts yoy).
+•	25% think PHEVs are here to stay (+4 pts yoy).
+•	54% think EREVs are a great idea they would consider (+3 pts yoy).
+
+Purchase Intent
+•	Hybrid stated purchase intent score: 55 mean (+1 pt yoy).
+•	PHEV stated purchase intent score: 45 mean (+2 pt yoy).
+•	BEV stated purchase intent score: 44 mean (+2 pts yoy).
+
+Familiarity
+•	53% know a BEV owner.
+•	84% know at least something about BEVs.
+•	65% notice public charging signage or chargers.
+
+Practicality
+•	BEV practicality score: 49 mean (+3 pts yoy).
+•	BEV opinion score: 52 mean (+1 pt yoy).
+
+Required Range
+•	431 miles (mean) required driving range to consider a BEV.
+•	98% have one-way commutes less than 50 miles.
+
+EV Intention Groups
+•	EV Owner: 9% of sample, EVForward Score 87.
+•	EV Intender: 26% of sample, EVForward Score 82.
+•	EV Open: 32% of sample, EVForward Score 49.
+•	EV Resistant: 33% of sample, EVForward Score 20.
+
+Buyer Personas (2026 percentages)
+•	Dreamer: 26%.
+•	Traditionalist: 20%.
+•	Techie: 16%.
+•	Pragmatist: 15%.
+•	Trailblazer: 15%.
+•	Altruist: 8%.
+
+Barriers
+•	Driving range is the strongest BEV barrier and is unchanged year over year, with roughly two in three saying it strongly deters them.
+•	Unknown reliability is a top-tier barrier.
+•	Charge time remains as the top public charging concern (72%).
+•	Cost to charge is the second-highest public charging concern (57%).
+
+Benefits
+•	Lower operating cost is the top expected benefit.
+•	Innovative technology has gained steadily (10 pts since 2020).
+
+Vehicle Preferences
+•	Next vehicle type intended: Midsize SUV 24%, Compact SUV 15%, Fullsize Pickup 12%, Midsize/Large Car 10%.
+
+Demographics
+•	56% Male, 44% Female.
+•	Age distribution: <35 16%, 35-54 37%, 55+ 47%.
+•	Median Income $99,884.
+•	Bachelors Degree+ 60%.
+•	87% park in their garage or driveway.
+
+Market Evidence
+•	EV models: Production of the Dodge Charger EV was delayed. Honda 0 Saloon was discontinued prior to production. Ford discontinued the F-150 Lightning. GMC Hummer EV experienced delays. Tesla Model S and X discontinued. Battery electric trucks in the market include F-150 Lightning, Rivian R1T, Silverado EV, Slate, and Cybertruck.
+•	Government policy & Supply chain: Tariffs targeting Canada, Mexico, and China were imposed by the Trump administration.
+•	Incentives: The $7,500 federal EV tax credit was discontinued on September 30, 2025. 55% would be more likely to consider a BEV because of the $7,500 federal EV tax credit. 43% were unaware of the federal EV tax credit.
+•	Inflation & Fuel prices: Heading into the 2026 calendar year, there is growing economic uncertainty—high inflation and interest rates, spikes in gas prices, war in Iran.
+•	Charging Infrastructure: Reduced funding for public charging infrastructure.
+
+Executive Observations
+•	"BEVs are now mainstream: over half of buyers know a BEV owner and familiarity is widespread".
+•	"Awareness ≠ conversion. In the past, BEV adoption relied heavily on awareness. Now that BEVs are more mainstream, momentum requires education and proven value".
+•	"Buyers evaluate BEVs through analytical reasoning rather than emotional impulse.".
+•	"Affordability is a considerable hurdle for the automotive industry and is amplified for BEVs.".
+•	"Misperceptions about BEV purchase prices heighten affordability barriers.".
+•	"Affordability concerns go beyond upfront purchase price and include associated costs and perceived financial risk, including battery replacement costs, expensive maintenance and repairs, home charger installation, and home and public charging costs".
+•	"The powertrain market is fragmenting.".
+•	"Public charging buildout alone is insufficient to drive adoption.".
+•	"Range anxiety is a proxy for a lack of confidence in the charging experience".
+•	"The Story Of 2026 Is Not BEV Rejection, It’s BEV Hesitation".
+
+Strategic Recommendations
+•	"Educate buyers about the realities of owning a BEV, including the charging experience and associated ownership costs".
+•	"Make incentives impossible to miss.".
+•	"Approach BEV affordability as an ecosystem, not just the upfront purchase price. Educate shoppers about lifetime ownership costs and offer options to offset upfront costs".
+•	"Offer longer term financing and flexible lease options.".
+•	"Bundle a home charger and installation with the purchase of a BEV".
+•	"Offer battery warranties to reduce perceived risks about battery longevity and replacement".
+•	"Meet buyers where they are on their electrification journey and work from there.".
+•	"Treat PHEVs and EREVs as strategic adoption tools, not distractions.".
+•	"Reduce overreliance on range as a psychological safety net by making charging feel manageable, predictable, and convenient".
+•	"Take ownership of the entire charging experience, not just the vehicle. Partner with charge point operators to establish 'certified charging locations'".
+•	"Use audience segmentation to meet buyers where they are on their electrification journey and address barriers to adoption".
+
+What's New This Year
+•	COM-B Model: The COM-B (Capability, Opportunity, Motivation - Behavioral) framework was introduced to diagnose factors driving or preventing behavior change.
+•	EREV Inclusion: Extended-Range Electric Vehicles (EREV) were added as a specific powertrain category.
+•	Brand Consideration Additions: Six additional brands were added to the brand consideration question.
+•	"The Messy Middle": A new concept outlining the fragmented market caused by an expanding set of powertrain choices.
+
+Research Highlights
+
+Affordability Perceptions (Executive Summary, page 8)
+Measured Evidence: 61% think new vehicle prices are at an all-time high, 62% think BEVs are not affordable, and 41% think EVs are becoming even more expensive than gas vehicles.
+↓
+Executive Observation: Affordability is a considerable hurdle for the automotive industry and is amplified for BEVs.
+↓
+Strategic Recommendation: Approach BEV affordability as an ecosystem, not just the upfront purchase price. Educate shoppers about lifetime ownership costs and offer options to offset upfront costs.
+
+Range and Charging Realities (Executive Summary, page 10)
+Measured Evidence: Required driving range to consider a BEV is 431 miles (mean), yet 98% have one-way commutes less than 50 miles.
+↓
+Executive Observation: Range anxiety is a proxy for a lack of confidence in the charging experience.
+↓
+Strategic Recommendation: Reduce overreliance on range as a psychological safety net by making charging feel manageable, predictable, and convenient.
+
+Battery Longevity Barriers (Executive Summary, page 8)
+Measured Evidence: 64% think BEV batteries are unreliable need replacement during ownership.
+↓
+Executive Observation: Affordability concerns go beyond upfront purchase price and include associated costs and perceived financial risk, including battery replacement costs.
+↓
+Strategic Recommendation: Offer battery warranties to reduce perceived risks about battery longevity and replacement.
