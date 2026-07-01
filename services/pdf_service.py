@@ -94,7 +94,7 @@ def generate_pdf(narrative: NarrativeResponse) -> bytes:
     story = []
 
     # ── Header ────────────────────────────────────────────────────────────────
-    story.append(Paragraph("Narrative Arc Intelligence Suite", title_s))
+    story.append(Paragraph("What Next Engine", title_s))
     story.append(Paragraph("Escalent EVForward Strategic Intelligence Report", sub_s))
     story.append(Paragraph(
         f"Generated: {datetime.now(timezone.utc).strftime('%B %d, %Y %H:%M UTC')}  |  "

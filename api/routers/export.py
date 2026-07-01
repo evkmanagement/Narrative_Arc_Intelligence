@@ -20,7 +20,7 @@ async def export_pdf(request: NarrativeRequest) -> Response:
         return Response(
             content=pdf_bytes,
             media_type="application/pdf",
-            headers={"Content-Disposition": 'attachment; filename="narrative_arc_report.pdf"'},
+            headers={"Content-Disposition": 'attachment; filename="what_next_engine_report.pdf"'},
         )
     except RuntimeError as exc:
         raise HTTPException(status_code=503, detail=str(exc)) from exc

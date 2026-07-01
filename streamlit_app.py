@@ -1,6 +1,6 @@
 """
-Narrative Arc Intelligence Suite — Streamlit Frontend
-=====================================================
+What Next Engine — Streamlit Frontend
+======================================
 Calls the existing service layer directly — no HTTP, no FastAPI required.
 
 Run:
@@ -21,12 +21,12 @@ import streamlit as st
 
 # ── Page config (MUST be the very first Streamlit call) ─────────────────────
 st.set_page_config(
-    page_title="Narrative Arc Intelligence Suite",
+    page_title="What Next Engine",
     page_icon="◆",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        "About": "Narrative Arc Intelligence Suite — Escalent EVForward Strategic Intelligence",
+        "About": "What Next Engine — Escalent EVForward Strategic Intelligence",
     },
 )
 
@@ -604,7 +604,7 @@ def _render_backtest(bt):
 def _render_sidebar():
     with st.sidebar:
         st.markdown(
-            '<div class="sidebar-brand">◆ Narrative Arc</div>'
+            '<div class="sidebar-brand">◆ What Next Engine</div>'
             '<div class="sidebar-version">Escalent EVForward Intelligence Suite</div>',
             unsafe_allow_html=True,
         )
@@ -742,7 +742,7 @@ def _tab_narrative():
                     st.download_button(
                         label="⬇️  Download PDF",
                         data=pdf_bytes,
-                        file_name="narrative_arc_report.pdf",
+                        file_name="what_next_engine_report.pdf",
                         mime="application/pdf",
                         use_container_width=False,
                     )
@@ -998,8 +998,7 @@ def main():
         '<div class="nar-hero">'
         '  <div class="nar-hero-eyebrow">Escalent EVForward Intelligence</div>'
         '  <div class="nar-hero-title">'
-        '    <span class="nar-hero-gem">◆</span> Narrative Arc'
-        '    <span style="font-weight:400; opacity:0.85"> Intelligence Suite</span>'
+        '    <span class="nar-hero-gem">◆</span> What Next Engine'
         '  </div>'
         '  <div class="nar-hero-lead">'
         '    Transform EVForward longitudinal research and real-world market signals into '

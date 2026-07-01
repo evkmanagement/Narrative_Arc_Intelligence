@@ -1,6 +1,6 @@
 """
-Narrative Arc Intelligence Suite — Project Launcher
-====================================================
+What Next Engine — Project Launcher
+====================================
 
 Usage
 -----
@@ -98,7 +98,7 @@ def stage_server(host: str, port: int) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Narrative Arc Intelligence Suite launcher",
+        description="What Next Engine launcher",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument("--ingest",       action="store_true", help="Force full re-ingestion")
@@ -108,7 +108,7 @@ def main() -> None:
     parser.add_argument("--port",         type=int, default=8000, help="Server bind port")
     args = parser.parse_args()
 
-    log.info("=== Narrative Arc Intelligence Suite ===")
+    log.info("=== What Next Engine ===")
 
     stage_preflight()
 

@@ -1,4 +1,4 @@
-# Narrative Arc Intelligence Suite
+# What Next Engine
 
 Escalent-branded, AI-enabled strategic intelligence application that converts EVForward
 research evidence and external market signals into a structured three-act narrative.

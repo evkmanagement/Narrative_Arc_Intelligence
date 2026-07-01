@@ -21,7 +21,7 @@ _FRONTEND = BASE_DIR / "frontend"
 
 @asynccontextmanager
 async def _lifespan(app: FastAPI):
-    logger.info("=== Narrative Arc Intelligence Suite v%s starting ===", settings.app_version)
+    logger.info("=== What Next Engine v%s starting ===", settings.app_version)
     logger.info("Provider: %s  Debug: %s", settings.llm_provider, settings.debug)
     try:
         from retrieval.chroma_client import get_chroma_collections
@@ -30,7 +30,7 @@ async def _lifespan(app: FastAPI):
     except Exception as exc:
         logger.warning("ChromaDB warm-up skipped: %s", exc)
     yield
-    logger.info("=== Narrative Arc Intelligence Suite shutdown ===")
+    logger.info("=== What Next Engine shutdown ===")
 
 
 def create_app() -> FastAPI:
@@ -38,8 +38,8 @@ def create_app() -> FastAPI:
         title=settings.app_name,
         version=settings.app_version,
         description=(
-            "Evidence-grounded three-act strategic narrative generation "
-            "for EV market intelligence. Powered by Escalent EVForward data."
+            "What Next Engine — Evidence-grounded strategic intelligence "
+            "for EV market decisions. Powered by Escalent EVForward data."
         ),
         docs_url="/api/docs",
         redoc_url="/api/redoc",

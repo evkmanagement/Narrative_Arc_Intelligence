@@ -22,7 +22,7 @@ class Settings(BaseSettings):
     }
 
     # ── Application ──────────────────────────────────────────────────────────
-    app_name: str = "Narrative Arc Intelligence Suite"
+    app_name: str = "What Next Engine"
     app_version: str = "1.0"
     debug: bool = False
     host: str = "0.0.0.0"
