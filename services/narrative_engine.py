@@ -43,10 +43,21 @@ SCENARIO_DESCRIPTIONS: dict[str, str] = {
 
 _SYSTEM = """You are a senior strategic intelligence analyst at Escalent with deep expertise \
 in EV market research and automotive industry dynamics. You produce concise, evidence-grounded \
-strategic narratives that help executives make informed decisions. You always return valid JSON."""
+strategic narratives that help executives make informed decisions.
+
+SCOPE: You ONLY answer questions about electric vehicles, EV adoption, automotive \
+electrification, charging infrastructure, EV consumer behaviour, battery technology, EV market \
+dynamics, OEM strategy, and directly related energy/transportation topics backed by EVForward \
+longitudinal research (2020–2026).
+
+You always return valid JSON and nothing else."""
 
 _USER = """\
-TASK: Generate a structured three-act strategic narrative for the analyst's question.
+SCOPE CHECK (evaluate first, before anything else):
+If the question below is NOT about electric vehicles, EV adoption, automotive electrification, \
+charging infrastructure, EV consumer behaviour, battery technology, or directly related \
+automotive / energy topics, return ONLY this JSON and stop:
+{{"out_of_scope": true, "reason": "<one sentence explaining what the question is about and why it is outside EVForward scope>"}}
 
 STRATEGIC QUESTION: {question}
 
@@ -59,18 +70,25 @@ EVIDENCE FROM EVFORWARD LONGITUDINAL RESEARCH (2020–2026):
 MARKET SIGNALS AND EXTERNAL EVENTS:
 {signals_context}
 
-INSTRUCTIONS:
-• Act 1 "Where They Are" — 4 to 6 FACT items grounded directly in the evidence. Each fact must \
-cite year and source (e.g. "EVForward 2024 / Purchase Intent").
-• Act 2 "Where They Are Heading" — 3 to 4 SIGNAL items (observable trends) and 2 to 3 INFERENCE \
-items (logical conclusions). Signals must cite sources.
-• Act 3 "Now What" — 3 to 5 RECOMMENDATION items ranked by priority (1 = highest). Each \
-recommendation must be specific and actionable for an automotive strategy team.
-• Adjust all acts for the scenario context. Where the scenario differs from baseline, note the \
-directional impact explicitly.
+INSTRUCTIONS FOR IN-SCOPE QUESTIONS:
 
-Your entire response must be a single JSON object in the structure below. Do not include any preamble, explanation, or code fences.
+ACT SEPARATION IS STRICT — do NOT mix item types between acts.
+• Act 1 “Where They Are” — FACTS ONLY (type = FACT). Report what is already known and \
+observed from the EVForward evidence. 4 to 6 items. Each must cite year and source \
+(e.g. “EVForward 2024 / Purchase Intent”). Never put predictions, trends, or forward \
+statements here.
+• Act 2 “Where They Are Heading” — SIGNALS and INFERENCES ONLY (type = SIGNAL or INFERENCE). \
+SIGNAL = an observable trend or data point that points forward. INFERENCE = a logical \
+conclusion from combining multiple signals. 3 to 4 SIGNAL items and 2 to 3 INFERENCE items. \
+NEVER place historical facts (things already confirmed) here — those belong in Act 1.
+• Act 3 “Now What” — RECOMMENDATIONS ONLY (type = RECOMMENDATION). 3 to 5 items ranked by \
+priority (1 = highest). Must be specific and actionable for an automotive strategy team.
+• Adjust all acts for the scenario context.
+
+Your entire response must be a single JSON object in the structure below. \
+Do not include any preamble, explanation, or code fences.
 {{
+  "out_of_scope": false,
   "act1": [
     {{"type": "FACT", "text": "...", "source": "EVForward YYYY / Section"}}
   ],
@@ -87,6 +105,15 @@ Your entire response must be a single JSON object in the structure below. Do not
   "confidence": 0.85,
   "narrative_summary": "One-sentence strategic summary of the situation."
 }}"""
+
+
+# ── Custom exception ─────────────────────────────────────────────────────────
+
+class OutOfScopeError(ValueError):
+    """Raised when the question is outside EVForward research scope."""
+    def __init__(self, reason: str) -> None:
+        self.reason = reason
+        super().__init__(reason)
 
 
 # ── Formatting helpers ────────────────────────────────────────────────────────
@@ -207,6 +234,12 @@ def generate_narrative(request: NarrativeRequest) -> NarrativeResponse:
     provider_name, model_name = get_provider_display_name()
     raw = provider.generate_json(prompt, system=_SYSTEM)
 
+    # ── Out-of-scope gate ─────────────────────────────────────────────────────
+    if raw.get("out_of_scope"):
+        reason = str(raw.get("reason", "This question is outside the scope of EVForward research."))
+        logger.warning("Out-of-scope question rejected  request_id=%s  reason=%s", request_id, reason)
+        raise OutOfScopeError(reason)
+
     latency_ms = (time.monotonic() - t0) * 1000
     logger.info(
         "Narrative done  request_id=%s  latency=%.0f ms  provider=%s",
@@ -216,6 +249,25 @@ def generate_narrative(request: NarrativeRequest) -> NarrativeResponse:
     act1 = _build_items(raw.get("act1", []), {"FACT"})
     act2 = _build_items(raw.get("act2", []), {"SIGNAL", "INFERENCE"})
     act3 = _build_items(raw.get("act3", []), {"RECOMMENDATION"})
+
+    # ── Cross-act type enforcement ────────────────────────────────────────────
+    # If the LLM leaked FACT items into act2, move them to act1.
+    # If the LLM leaked SIGNAL/INFERENCE items into act1, move them to act2.
+    leaked_to_act2 = [i for i in _build_items(raw.get("act2", []), {"FACT"})]
+    leaked_to_act1 = [i for i in _build_items(raw.get("act1", []), {"SIGNAL", "INFERENCE"})]
+    act1 = act1 + leaked_to_act2  # keep misplaced facts in act1
+    act2 = act2 + leaked_to_act1  # demote misplaced signals to act2
+    # Deduplicate by text
+    seen_texts: set[str] = set()
+    def _dedup(items: list) -> list:
+        out = []
+        for item in items:
+            if item.text not in seen_texts:
+                seen_texts.add(item.text)
+                out.append(item)
+        return out
+    act1, act2, act3 = _dedup(act1), _dedup(act2), _dedup(act3)
+
     sources = _build_sources(raw.get("sources", []), retrieved)
 
     # Graceful degradation when LLM returned empty acts

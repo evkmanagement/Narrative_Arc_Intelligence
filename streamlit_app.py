@@ -35,305 +35,426 @@ from core.logging_config import setup_logging
 setup_logging("INFO")
 logger = logging.getLogger(__name__)
 
-# ── Escalent brand CSS ────────────────────────────────────────────────────────
+# ── Design system CSS ───────────────────────────────────────────────────────
 _CSS = """
 <style>
-/* ── Escalent brand tokens ── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+/* ── Design tokens ── */
 :root {
-    --purple:      #7a00df;
-    --purple-dark: #4f0094;
-    --purple-mid:  #9b30ff;
-    --navy:        #1a3a6b;
-    --teal:        #005f73;
-    --text:        #3f3f3f;
-    --muted:       #666666;
-    --bg-alt:      #f5f4fb;
-    --white:       #ffffff;
+    --brand:        #6200ea;
+    --brand-dark:   #3700b3;
+    --brand-light:  #bb86fc;
+    --navy:         #1a237e;
+    --teal:         #004d40;
+    --amber:        #e65100;
+    --surface:      #ffffff;
+    --surface-2:    #f8f9fa;
+    --border:       #e0e0e0;
+    --text-1:       #1a1a2e;
+    --text-2:       #5f6368;
+    --text-3:       #9e9e9e;
+    --shadow-sm:    0 1px 3px rgba(0,0,0,0.08),0 1px 2px rgba(0,0,0,0.05);
+    --shadow-md:    0 4px 12px rgba(0,0,0,0.08),0 2px 4px rgba(0,0,0,0.05);
+    --shadow-lg:    0 10px 24px rgba(0,0,0,0.09),0 4px 8px rgba(0,0,0,0.05);
+    --r-sm: 6px; --r-md: 10px; --r-lg: 14px;
 }
 
-/* ── Hide default Streamlit chrome (keep header so Deploy button is visible) ── */
-#MainMenu { visibility: hidden; }
-footer    { visibility: hidden; }
-
-/* ── App background ── */
-.stApp { background: #f8f7fc; }
-
-/* ── Hero banner ── */
-.nar-hero {
-    background: linear-gradient(135deg, var(--purple-dark) 0%, var(--purple) 55%, var(--purple-mid) 100%);
-    border-radius: 12px;
-    padding: 2rem 2.5rem 1.75rem;
-    margin-bottom: 1.5rem;
-    color: white;
-    position: relative;
-    overflow: hidden;
+/* ── Base ── */
+html,body,[class*="css"],.stApp {
+    font-family: 'Inter',-apple-system,BlinkMacSystemFont,sans-serif !important;
 }
-.nar-hero::before {
-    content: "";
-    position: absolute;
-    top: -60px; right: -60px;
-    width: 200px; height: 200px;
-    background: rgba(255,255,255,0.06);
-    border-radius: 50%;
-}
-.nar-hero-eyebrow {
-    font-size: 0.75rem;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    opacity: 0.75;
-    margin-bottom: 0.4rem;
-}
-.nar-hero-title {
-    font-size: 1.9rem;
-    font-weight: 800;
-    margin: 0 0 0.5rem;
-    line-height: 1.2;
-}
-.nar-hero-gem { color: #c9a5ff; }
-.nar-hero-lead {
-    font-size: 0.92rem;
-    opacity: 0.88;
-    max-width: 600px;
-    line-height: 1.6;
-    margin-bottom: 1rem;
-}
-.nar-hero-stats {
-    display: flex;
-    gap: 2rem;
-    flex-wrap: wrap;
-}
-.nar-hero-stat { text-align: center; }
-.stat-n { display: block; font-size: 1.5rem; font-weight: 800; color: #c9a5ff; }
-.stat-l { display: block; font-size: 0.7rem; opacity: 0.75; letter-spacing: 0.05em; }
-
-/* ── Section cards ── */
-.nar-card {
-    background: white;
-    border-radius: 10px;
-    border: 1px solid #e8e4f5;
-    padding: 1.25rem 1.5rem;
-    margin-bottom: 1rem;
-    box-shadow: 0 2px 8px rgba(122,0,223,0.06);
-}
-
-/* ── Act banners ── */
-.act-banner {
-    border-radius: 8px;
-    padding: 0.6rem 1.1rem;
-    margin: 0.75rem 0 0.5rem;
-    display: flex;
-    align-items: baseline;
-    gap: 0.75rem;
-    color: white;
-}
-.act1  { background: linear-gradient(90deg, var(--navy) 0%, #2a5298 100%); }
-.act2  { background: linear-gradient(90deg, var(--teal) 0%, #0a8a9f 100%); }
-.act3  { background: linear-gradient(90deg, var(--purple-dark) 0%, var(--purple) 100%); }
-.act-num   { font-size: 0.7rem; font-weight: 700; letter-spacing: 0.12em;
-             text-transform: uppercase; opacity: 0.8; }
-.act-title { font-size: 1rem; font-weight: 700; }
-.act-sub   { font-size: 0.78rem; opacity: 0.75; margin-left: auto; }
-
-/* ── Narrative item cards ── */
-.nar-item {
-    background: var(--bg-alt);
-    border-left: 4px solid var(--purple);
-    border-radius: 0 6px 6px 0;
-    padding: 0.65rem 0.9rem;
-    margin-bottom: 0.5rem;
-    font-size: 0.9rem;
-    color: var(--text);
-    line-height: 1.6;
-}
-.nar-item.fact  { border-left-color: var(--navy); }
-.nar-item.signal   { border-left-color: var(--teal); }
-.nar-item.inference{ border-left-color: #e6860a; background: #fffbf3; }
-.nar-item.rec   { border-left-color: var(--purple); }
-.item-tag {
-    display: inline-block;
-    font-size: 0.65rem;
-    font-weight: 700;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: white;
-    border-radius: 3px;
-    padding: 1px 5px;
-    margin-right: 6px;
-    vertical-align: middle;
-}
-.tag-fact   { background: var(--navy); }
-.tag-signal { background: var(--teal); }
-.tag-inference { background: #e6860a; }
-.tag-rec    { background: var(--purple); }
-.item-source {
-    display: block;
-    font-size: 0.75rem;
-    color: var(--muted);
-    margin-top: 0.25rem;
-    font-style: italic;
-}
-.prio-badge {
-    float: right;
-    font-size: 0.65rem;
-    background: var(--purple);
-    color: white;
-    border-radius: 10px;
-    padding: 1px 7px;
-    margin-top: 2px;
-}
-
-/* ── Source chip ── */
-.src-chip {
-    display: inline-block;
-    background: #ede8fb;
-    color: var(--purple-dark);
-    border-radius: 20px;
-    font-size: 0.72rem;
-    padding: 2px 10px;
-    margin: 2px 3px;
-    font-weight: 500;
-}
-
-/* ── Confidence bar ── */
-.conf-bar-bg {
-    background: #e8e4f5;
-    border-radius: 4px;
-    height: 8px;
-    margin: 0.3rem 0 0.15rem;
-    overflow: hidden;
-}
-.conf-bar-fill {
-    height: 100%;
-    border-radius: 4px;
-    background: linear-gradient(90deg, var(--purple), var(--purple-mid));
-    transition: width 0.4s ease;
-}
-
-/* ── Backtest comparison ── */
-.bt-col-header {
-    font-size: 0.78rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    padding: 0.4rem 0.7rem;
-    border-radius: 5px 5px 0 0;
-    color: white;
-    margin-bottom: 0;
-}
-.bt-predicted { background: var(--navy); }
-.bt-actual    { background: var(--teal); }
-.bt-item {
-    background: #f0f4ff;
-    border-radius: 0 0 5px 5px;
-    padding: 0.55rem 0.8rem;
-    margin-bottom: 0.4rem;
-    font-size: 0.88rem;
-    color: var(--text);
-}
-.bt-item.actual-item { background: #eef7f5; }
-.bt-item-label {
-    font-size: 0.68rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: var(--muted);
-    letter-spacing: 0.08em;
-    display: block;
-    margin-bottom: 2px;
-}
-
-/* ── Evidence library ── */
-.ev-report-card {
-    background: white;
-    border: 1px solid #e8e4f5;
-    border-radius: 8px;
-    padding: 0.9rem 1.1rem;
-    margin-bottom: 0.6rem;
-    transition: box-shadow 0.2s;
-}
-.ev-report-card:hover { box-shadow: 0 4px 16px rgba(122,0,223,0.12); }
-.ev-cat-badge {
-    display: inline-block;
-    font-size: 0.65rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    border-radius: 3px;
-    padding: 1px 6px;
-    margin-bottom: 4px;
-}
-.cat-evforward { background: #ede8fb; color: var(--purple-dark); }
-.cat-market    { background: #e0f2f0; color: var(--teal); }
-.ev-title { font-size: 0.95rem; font-weight: 700; color: var(--navy); margin: 2px 0; }
-.ev-count { font-size: 0.78rem; color: var(--muted); }
-.hl-dot {
-    font-size: 0.82rem;
-    color: var(--text);
-    padding: 0.2rem 0;
-    border-bottom: 1px solid #f0eefa;
-    line-height: 1.5;
-}
+#MainMenu{visibility:hidden;}footer{visibility:hidden;}
+.stApp { background:#f0f2f6; }
+.main .block-container { padding:1rem 2rem 3rem; max-width:1440px; }
 
 /* ── Sidebar ── */
-.sidebar-brand {
-    font-size: 1.05rem;
-    font-weight: 800;
-    color: var(--purple);
-    margin-bottom: 0.15rem;
+[data-testid="stSidebar"] {
+    background: linear-gradient(180deg,#12113a 0%,#1a1a2e 100%) !important;
+    border-right: none !important;
 }
-.sidebar-version {
-    font-size: 0.7rem;
-    color: var(--muted);
-    margin-bottom: 1rem;
+[data-testid="stSidebar"] .stMarkdown,
+[data-testid="stSidebar"] .stMarkdown p,
+[data-testid="stSidebar"] label { color:#d0d0e8 !important; }
+[data-testid="stSidebar"] [data-testid="stMetricValue"] { color:#bb86fc !important; font-weight:700 !important; }
+[data-testid="stSidebar"] [data-testid="stMetricLabel"] { color:rgba(255,255,255,0.45) !important; font-size:0.68rem !important; }
+[data-testid="stSidebar"] [data-testid="metric-container"] {
+    background:rgba(255,255,255,0.05) !important;
+    border:1px solid rgba(255,255,255,0.08) !important;
+    border-radius:var(--r-sm) !important;
 }
-.status-ok   { color: #1a9c5a; font-weight: 700; }
-.status-warn { color: #c0750a; font-weight: 700; }
-.status-err  { color: #c0180a; font-weight: 700; }
+[data-testid="stSidebar"] hr { border-color:rgba(255,255,255,0.08) !important; }
 
-/* ── Summary box ── */
-.summary-box {
-    background: linear-gradient(135deg, #ede8fb 0%, #f5f4fb 100%);
-    border-left: 4px solid var(--purple);
-    border-radius: 0 8px 8px 0;
-    padding: 0.8rem 1rem;
-    margin: 0.5rem 0 1rem;
-    font-size: 0.92rem;
-    color: var(--purple-dark);
-    font-style: italic;
+/* ── Tabs ── */
+[data-testid="stTabs"] [role="tablist"] {
+    background:white;
+    border-radius:var(--r-md);
+    padding:4px;
+    gap:4px;
+    border:1px solid var(--border);
+    box-shadow:var(--shadow-sm);
+    margin-bottom:1.25rem;
 }
-
-/* ── Generic divider ── */
-.nar-divider {
-    border: none;
-    border-top: 1px solid #e8e4f5;
-    margin: 1rem 0;
+[data-testid="stTabs"] button[role="tab"] {
+    border-radius:var(--r-sm) !important;
+    font-weight:500 !important;
+    font-size:0.85rem !important;
+    color:var(--text-2) !important;
+    padding:0.45rem 1.2rem !important;
+    transition:all 0.2s !important;
+    border:none !important;
+    letter-spacing:0.01em !important;
 }
-
-/* ── Quick-start buttons (styled as tags) ── */
-div[data-testid="stButton"] > button.qs-btn {
-    background: var(--bg-alt);
-    border: 1px solid #c9b8f0;
-    color: var(--purple-dark);
-    border-radius: 20px;
-    font-size: 0.78rem;
-    padding: 3px 12px;
-    margin-right: 4px;
-    cursor: pointer;
-    transition: background 0.2s;
-}
-div[data-testid="stButton"] > button.qs-btn:hover {
-    background: #ede8fb;
+[data-testid="stTabs"] button[role="tab"][aria-selected="true"] {
+    background:var(--brand) !important;
+    color:white !important;
+    box-shadow:0 2px 8px rgba(98,0,234,0.35) !important;
 }
 
-/* ── Meta row ── */
-.meta-row {
-    display: flex;
-    gap: 1.5rem;
-    flex-wrap: wrap;
-    font-size: 0.75rem;
-    color: var(--muted);
-    margin-top: 0.5rem;
+/* ── Primary button ── */
+[data-testid="stButton"] > button[kind="primary"] {
+    background:linear-gradient(135deg,var(--brand) 0%,var(--brand-dark) 100%) !important;
+    border:none !important;
+    border-radius:var(--r-sm) !important;
+    font-weight:600 !important;
+    letter-spacing:0.02em !important;
+    box-shadow:0 2px 10px rgba(98,0,234,0.3) !important;
+    transition:all 0.2s !important;
+    font-family:'Inter',sans-serif !important;
 }
-.meta-item strong { color: var(--text); }
+[data-testid="stButton"] > button[kind="primary"]:hover {
+    box-shadow:0 4px 18px rgba(98,0,234,0.45) !important;
+    transform:translateY(-1px) !important;
+}
+[data-testid="stButton"] > button[kind="secondary"] {
+    border:1.5px solid var(--border) !important;
+    color:var(--text-2) !important;
+    border-radius:var(--r-sm) !important;
+    font-weight:500 !important;
+    background:white !important;
+    font-family:'Inter',sans-serif !important;
+}
+[data-testid="stButton"] > button[kind="secondary"]:hover {
+    border-color:#9c6fe0 !important;
+    color:var(--brand) !important;
+}
+
+/* ── Inputs ── */
+[data-testid="stTextArea"] textarea,
+[data-testid="stTextInput"] input {
+    border:1.5px solid var(--border) !important;
+    border-radius:var(--r-sm) !important;
+    font-family:'Inter',sans-serif !important;
+    font-size:0.9rem !important;
+    color:var(--text-1) !important;
+    background:white !important;
+    transition:border-color 0.2s,box-shadow 0.2s !important;
+    box-shadow:var(--shadow-sm) !important;
+}
+[data-testid="stTextArea"] textarea:focus,
+[data-testid="stTextInput"] input:focus {
+    border-color:var(--brand) !important;
+    box-shadow:0 0 0 3px rgba(98,0,234,0.12) !important;
+}
+
+/* ── Selectbox ── */
+[data-testid="stSelectbox"]>div>div {
+    border:1.5px solid var(--border) !important;
+    border-radius:var(--r-sm) !important;
+    background:white !important;
+    box-shadow:var(--shadow-sm) !important;
+}
+
+/* ── Expander ── */
+[data-testid="stExpander"] {
+    border:1px solid var(--border) !important;
+    border-radius:var(--r-md) !important;
+    background:white !important;
+    box-shadow:var(--shadow-sm) !important;
+}
+[data-testid="stExpander"] summary {
+    font-weight:600 !important;
+    font-size:0.85rem !important;
+    color:var(--text-1) !important;
+}
+
+/* ── Radio ── */
+[data-testid="stRadio"]>label { display:none !important; }
+[data-testid="stRadio"]>div { gap:0.4rem !important; }
+[data-testid="stRadio"]>div>label {
+    background:white !important;
+    border:1.5px solid var(--border) !important;
+    border-radius:var(--r-sm) !important;
+    padding:0.55rem 1rem !important;
+    cursor:pointer !important;
+    transition:all 0.18s !important;
+    font-size:0.83rem !important;
+    font-weight:500 !important;
+    color:var(--text-2) !important;
+    box-shadow:var(--shadow-sm) !important;
+}
+[data-testid="stRadio"]>div>label:hover {
+    border-color:#9c6fe0 !important;
+    color:var(--brand) !important;
+}
+[data-testid="stRadio"]>div>label:has(input:checked) {
+    border-color:var(--brand) !important;
+    background:#f3e5ff !important;
+    color:var(--brand-dark) !important;
+    font-weight:600 !important;
+}
+
+/* ═══ CUSTOM COMPONENTS ═══ */
+
+/* Topbar */
+.wne-topbar {
+    background:linear-gradient(135deg,#12113a 0%,#1a1a2e 55%,#0f3460 100%);
+    border-radius:var(--r-lg);
+    padding:1.15rem 2rem;
+    margin-bottom:1.1rem;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    box-shadow:var(--shadow-lg);
+    position:relative;
+    overflow:hidden;
+}
+.wne-topbar::after {
+    content:"";
+    position:absolute;
+    right:-30px; top:-30px;
+    width:160px; height:160px;
+    background:radial-gradient(circle,rgba(98,0,234,0.3) 0%,transparent 70%);
+    border-radius:50%;
+    pointer-events:none;
+}
+.wne-logo { display:flex; align-items:center; gap:0.7rem; }
+.wne-gem  { font-size:1.6rem; color:#bb86fc; line-height:1; }
+.wne-app-name  { font-size:1.25rem; font-weight:800; color:white; letter-spacing:-0.02em; }
+.wne-app-tag   { font-size:0.62rem; color:rgba(255,255,255,0.45); letter-spacing:0.13em; text-transform:uppercase; margin-top:1px; }
+.wne-kpis {
+    display:flex;
+    align-items:center;
+    gap:0;
+}
+.wne-kpi {
+    text-align:center;
+    padding:0 1.2rem;
+    border-left:1px solid rgba(255,255,255,0.1);
+}
+.wne-kpi-v { font-size:1.15rem; font-weight:800; color:#bb86fc; display:block; line-height:1.1; }
+.wne-kpi-l { font-size:0.6rem; color:rgba(255,255,255,0.45); text-transform:uppercase; letter-spacing:0.1em; }
+
+/* Sidebar brand */
+.sb-brand { display:flex; align-items:center; gap:0.55rem; margin-bottom:2px; }
+.sb-gem   { font-size:1.1rem; color:#bb86fc; }
+.sb-name  { font-size:0.92rem; font-weight:800; color:white; letter-spacing:-0.01em; }
+.sb-tag   { font-size:0.6rem; color:rgba(255,255,255,0.35); letter-spacing:0.12em; text-transform:uppercase; margin-bottom:0.65rem; }
+.sb-section { font-size:0.58rem; font-weight:700; letter-spacing:0.18em; text-transform:uppercase;
+              color:rgba(255,255,255,0.28); margin:0.8rem 0 0.35rem; }
+.sb-row { display:flex; justify-content:space-between; align-items:center;
+          padding:0.28rem 0; border-bottom:1px solid rgba(255,255,255,0.05);
+          font-size:0.74rem; }
+.sb-row:last-child { border-bottom:none; }
+.sb-k { color:rgba(255,255,255,0.4); }
+.sb-v { color:rgba(255,255,255,0.82); font-weight:500; font-size:0.71rem; text-align:right; max-width:60%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.sb-ok   { color:#69f0ae; font-weight:600; font-size:0.78rem; }
+.sb-warn { color:#ffd740; font-weight:600; font-size:0.78rem; }
+
+/* Form card */
+.wne-card {
+    background:white;
+    border-radius:var(--r-lg);
+    border:1px solid var(--border);
+    padding:1.4rem 1.6rem;
+    margin-bottom:1.1rem;
+    box-shadow:var(--shadow-md);
+}
+.wne-field-label {
+    font-size:0.65rem;
+    font-weight:700;
+    letter-spacing:0.13em;
+    text-transform:uppercase;
+    color:var(--brand);
+    margin-bottom:0.4rem;
+    display:block;
+}
+.wne-divider { border:none; border-top:1px solid #f0f0f0; margin:1.1rem 0; }
+.wne-char-ct { font-size:0.7rem; color:var(--text-3); text-align:right; margin-top:-0.3rem; margin-bottom:0.4rem; }
+
+/* Quick-start pills (qs) */
+.wne-qs-wrap { display:flex; align-items:center; gap:0.4rem; flex-wrap:wrap; margin-bottom:0.55rem; }
+.wne-qs-lbl  { font-size:0.68rem; color:var(--text-3); font-weight:500; flex-shrink:0; }
+
+/* Summary */
+.wne-summary {
+    background:linear-gradient(135deg,#f3e5ff 0%,#ede7f6 100%);
+    border-left:4px solid var(--brand);
+    border-radius:0 var(--r-md) var(--r-md) 0;
+    padding:0.85rem 1.1rem;
+    margin-bottom:1rem;
+    font-size:0.9rem;
+    color:#3700b3;
+    font-style:italic;
+    font-weight:500;
+    line-height:1.65;
+    box-shadow:var(--shadow-sm);
+}
+
+/* Confidence row */
+.wne-conf {
+    display:flex;
+    align-items:center;
+    gap:0.7rem;
+    background:white;
+    border:1px solid var(--border);
+    border-radius:var(--r-sm);
+    padding:0.55rem 0.9rem;
+    margin-bottom:1rem;
+    box-shadow:var(--shadow-sm);
+}
+.wne-conf-lbl   { font-size:0.72rem; font-weight:600; color:var(--text-2); white-space:nowrap; }
+.wne-conf-track { flex:1; background:#ede7f6; border-radius:10px; height:6px; overflow:hidden; }
+.wne-conf-fill  { height:100%; border-radius:10px; background:linear-gradient(90deg,var(--brand),var(--brand-light)); }
+.wne-conf-pct   { font-size:0.78rem; font-weight:700; color:var(--brand); min-width:34px; text-align:right; }
+
+/* Act column card */
+.wne-act {
+    background:white;
+    border:1px solid var(--border);
+    border-radius:var(--r-lg);
+    overflow:hidden;
+    box-shadow:var(--shadow-md);
+    height:100%;
+}
+.wne-act-hd { padding:0.8rem 1rem; color:white; }
+.hd1 { background:linear-gradient(135deg,#1a237e 0%,#283593 100%); }
+.hd2 { background:linear-gradient(135deg,#004d40 0%,#00695c 100%); }
+.hd3 { background:linear-gradient(135deg,#4a148c 0%,#6a1b9a 100%); }
+.wne-act-eye   { font-size:0.58rem; font-weight:700; letter-spacing:0.2em; text-transform:uppercase; opacity:0.65; }
+.wne-act-title { font-size:0.92rem; font-weight:700; line-height:1.2; }
+.wne-act-sub   { font-size:0.68rem; opacity:0.7; margin-top:1px; }
+.wne-act-body  { padding:0.8rem 0.85rem; }
+
+/* Narrative items */
+.wne-item {
+    border:1px solid #efefef;
+    border-left:3px solid #ccc;
+    border-radius:var(--r-sm);
+    padding:0.55rem 0.7rem;
+    margin-bottom:0.45rem;
+    font-size:0.81rem;
+    color:var(--text-1);
+    line-height:1.55;
+    background:#fafafa;
+    transition:box-shadow 0.15s;
+}
+.wne-item:hover { box-shadow:var(--shadow-sm); }
+.wne-item.fact  { border-left-color:#1a237e; background:#f8f9ff; border-color:#e8eaf6; }
+.wne-item.sig   { border-left-color:#004d40; background:#f8fffd; border-color:#e0f2f1; }
+.wne-item.inf   { border-left-color:#e65100; background:#fffbf5; border-color:#ffe0cc; }
+.wne-item.rec   { border-left-color:#4a148c; background:#fdf8ff; border-color:#e8d5f7; }
+.wne-tag {
+    display:inline-block;
+    font-size:0.58rem; font-weight:700;
+    letter-spacing:0.1em; text-transform:uppercase;
+    color:white; border-radius:3px;
+    padding:1px 5px; margin-right:5px; vertical-align:middle;
+}
+.t-fact { background:#1a237e; }
+.t-sig  { background:#004d40; }
+.t-inf  { background:#e65100; }
+.t-rec  { background:#4a148c; }
+.wne-prio {
+    float:right; font-size:0.6rem; font-weight:700;
+    background:#4a148c; color:white;
+    border-radius:10px; padding:1px 6px;
+}
+.wne-src {
+    display:block; font-size:0.69rem;
+    color:var(--text-3); margin-top:0.2rem; font-style:italic;
+}
+
+/* Source chips */
+.wne-chip {
+    display:inline-block;
+    background:#ede7f6; color:#4a148c;
+    border:1px solid #d1c4e9;
+    border-radius:20px; font-size:0.69rem;
+    padding:2px 9px; margin:2px 3px; font-weight:500;
+}
+
+/* Meta strip */
+.wne-meta {
+    display:flex; gap:0;
+    background:#f8f9fa;
+    border:1px solid var(--border);
+    border-radius:var(--r-sm);
+    overflow:hidden; margin-top:0.85rem;
+}
+.wne-meta-cell {
+    flex:1; padding:0.4rem 0.75rem;
+    border-right:1px solid var(--border);
+    font-size:0.7rem; color:var(--text-3);
+}
+.wne-meta-cell:last-child { border-right:none; }
+.wne-meta-cell strong { color:var(--text-2); display:block; font-size:0.64rem; margin-bottom:1px; }
+
+/* Backtest panels */
+.wne-bt {
+    background:white;
+    border:1px solid var(--border);
+    border-radius:var(--r-lg);
+    overflow:hidden;
+    box-shadow:var(--shadow-md);
+    height:100%;
+}
+.wne-bt-hd {
+    padding:0.7rem 1rem;
+    color:white; font-size:0.78rem;
+    font-weight:700; letter-spacing:0.06em;
+    text-transform:uppercase;
+}
+.wne-bt-hd-p { background:linear-gradient(135deg,#1a237e,#283593); }
+.wne-bt-hd-a { background:linear-gradient(135deg,#004d40,#00695c); }
+.wne-bt-body { padding:0.7rem; }
+.wne-bt-item {
+    background:#f8f9ff;
+    border:1px solid #e8eaf6;
+    border-radius:var(--r-sm);
+    padding:0.55rem 0.7rem;
+    margin-bottom:0.4rem;
+    font-size:0.81rem;
+    color:var(--text-1);
+    line-height:1.5;
+}
+.wne-bt-item.actual { background:#f8fffd; border-color:#e0f2f1; }
+.wne-bt-item-lbl {
+    font-size:0.6rem; font-weight:700;
+    text-transform:uppercase; color:var(--text-3);
+    letter-spacing:0.08em; display:block; margin-bottom:3px;
+}
+.wne-accuracy {
+    background:linear-gradient(135deg,#fff8e1,#fff3e0);
+    border:1px solid #ffe082;
+    border-left:4px solid #f9a825;
+    border-radius:0 var(--r-sm) var(--r-sm) 0;
+    padding:0.7rem 1rem;
+    margin-top:0.75rem;
+    font-size:0.83rem;
+    color:#5d4037;
+    line-height:1.6;
+}
+.wne-results-q {
+    font-size:0.83rem; color:var(--text-2); margin-bottom:3px;
+    display:flex; align-items:center; gap:0.4rem;
+}
+.wne-results-scen {
+    display:inline-block;
+    background:#ede7f6; color:#4a148c;
+    border-radius:20px; font-size:0.68rem; font-weight:600;
+    padding:2px 9px; margin-left:4px;
+}
 </style>
 """
 st.markdown(_CSS, unsafe_allow_html=True)
@@ -433,118 +554,90 @@ _QUICK_QUESTIONS = [
     ("Charging gaps",      "What charging infrastructure gaps are most critical to close for mainstream EV adoption?"),
 ]
 
-_TAG_CSS = {
-    "FACT":           ("tag-fact",       "FACT"),
-    "SIGNAL":         ("tag-signal",     "SIGNAL"),
-    "INFERENCE":      ("tag-inference",  "INFERENCE"),
-    "RECOMMENDATION": ("tag-rec",        "REC"),
-}
 
-_ITEM_CSS = {
-    "FACT":           "fact",
-    "SIGNAL":         "signal",
-    "INFERENCE":      "inference",
-    "RECOMMENDATION": "rec",
+_ITEM_MAP = {
+    "FACT":           ("t-fact", "FACT",   "fact"),
+    "SIGNAL":         ("t-sig",  "SIGNAL", "sig"),
+    "INFERENCE":      ("t-inf",  "INFER",  "inf"),
+    "RECOMMENDATION": ("t-rec",  "REC",    "rec"),
 }
 
 
 def _render_item(item) -> str:
-    tag_cls, tag_label = _TAG_CSS.get(item.type, ("tag-rec", item.type))
-    item_cls = _ITEM_CSS.get(item.type, "rec")
-    prio_html = (
-        f'<span class="prio-badge">P{item.priority}</span>'
-        if item.priority else ""
-    )
-    src_html = (
-        f'<span class="item-source">Source: {item.source}</span>'
-        if item.source else ""
-    )
+    tag_cls, tag_label, item_cls = _ITEM_MAP.get(item.type, ("t-rec", item.type, "rec"))
+    prio = f'<span class="wne-prio">P{item.priority}</span>' if item.priority else ""
+    src  = f'<span class="wne-src">📎 {item.source}</span>' if item.source else ""
     return (
-        f'<div class="nar-item {item_cls}">'
-        f'{prio_html}'
-        f'<span class="item-tag {tag_cls}">{tag_label}</span>'
-        f'{item.text}'
-        f'{src_html}'
-        f'</div>'
-    )
-
-
-def _render_act_banner(num: str, title: str, subtitle: str, cls: str) -> str:
-    return (
-        f'<div class="act-banner {cls}">'
-        f'<span class="act-num">Act {num}</span>'
-        f'<span class="act-title">{title}</span>'
-        f'<span class="act-sub">{subtitle}</span>'
-        f'</div>'
+        f'<div class="wne-item {item_cls}">'
+        f'{prio}<span class="wne-tag {tag_cls}">{tag_label}</span>'
+        f'{item.text}{src}</div>'
     )
 
 
 def _render_narrative(narrative):
     """Render the full three-act narrative result."""
 
-    # Narrative summary
+    # Summary callout
     if narrative.narrative_summary:
         st.markdown(
-            f'<div class="summary-box">💡 {narrative.narrative_summary}</div>',
+            f'<div class="wne-summary">💡 {narrative.narrative_summary}</div>',
             unsafe_allow_html=True,
         )
 
-    # Confidence
-    conf = getattr(narrative, "confidence", 0.0)
+    # Confidence bar
+    conf     = getattr(narrative, "confidence", 0.0)
     conf_pct = int(conf * 100)
     st.markdown(
-        f'**Evidence confidence:** {conf_pct}%'
-        f'<div class="conf-bar-bg">'
-        f'<div class="conf-bar-fill" style="width:{conf_pct}%"></div>'
+        f'<div class="wne-conf">'
+        f'<span class="wne-conf-lbl">Evidence Confidence</span>'
+        f'<div class="wne-conf-track"><div class="wne-conf-fill" style="width:{conf_pct}%"></div></div>'
+        f'<span class="wne-conf-pct">{conf_pct}%</span>'
         f'</div>',
         unsafe_allow_html=True,
     )
 
-    st.markdown('<hr class="nar-divider">', unsafe_allow_html=True)
+    # Three acts — equal columns
+    col1, col2, col3 = st.columns(3, gap="small")
 
-    # ── Act 1 ─────────────────────────────────────────────────────────────────
-    st.markdown(
-        _render_act_banner("1", "Where They Are", "Grounded Facts", "act1"),
-        unsafe_allow_html=True,
-    )
-    for item in narrative.act1:
-        st.markdown(_render_item(item), unsafe_allow_html=True)
+    _ACTS = [
+        (col1, "1", "Where They Are",       "Grounded Facts",            "hd1", narrative.act1),
+        (col2, "2", "Where They Are Heading","Signals & Inferences",      "hd2", narrative.act2),
+        (col3, "3", "Now What",              "Strategic Recommendations", "hd3",
+         sorted(narrative.act3, key=lambda x: (x.priority or 99))),
+    ]
+    for col, num, title, sub, hd_cls, items in _ACTS:
+        with col:
+            st.markdown(
+                f'<div class="wne-act">'
+                f'<div class="wne-act-hd {hd_cls}">'
+                f'<span class="wne-act-eye">Act {num}</span>'
+                f'<div class="wne-act-title">{title}</div>'
+                f'<div class="wne-act-sub">{sub}</div>'
+                f'</div>'
+                f'<div class="wne-act-body">'
+                + "".join(_render_item(i) for i in items)
+                + "</div></div>",
+                unsafe_allow_html=True,
+            )
 
-    # ── Act 2 ─────────────────────────────────────────────────────────────────
-    st.markdown(
-        _render_act_banner("2", "Where They Are Heading", "Signals & Inferences", "act2"),
-        unsafe_allow_html=True,
-    )
-    for item in narrative.act2:
-        st.markdown(_render_item(item), unsafe_allow_html=True)
-
-    # ── Act 3 ─────────────────────────────────────────────────────────────────
-    st.markdown(
-        _render_act_banner("3", "Now What", "Strategic Recommendations", "act3"),
-        unsafe_allow_html=True,
-    )
-    sorted_act3 = sorted(narrative.act3, key=lambda x: (x.priority or 99))
-    for item in sorted_act3:
-        st.markdown(_render_item(item), unsafe_allow_html=True)
-
-    # ── Sources ────────────────────────────────────────────────────────────────
+    # Sources
     if narrative.sources:
-        st.markdown('<hr class="nar-divider">', unsafe_allow_html=True)
-        with st.expander("📎 Evidence Sources", expanded=False):
+        st.markdown("")
+        with st.expander(f"📎 Evidence Sources ({len(narrative.sources)})", expanded=False):
             chips = "".join(
-                f'<span class="src-chip">📄 {s.title} ({s.year})</span>'
+                f'<span class="wne-chip">{s.title} &middot; {s.year}</span>'
                 for s in narrative.sources
             )
             st.markdown(chips, unsafe_allow_html=True)
 
-    # ── Meta row ───────────────────────────────────────────────────────────────
+    # Meta strip
     m = narrative.meta
     st.markdown(
-        f'<div class="meta-row">'
-        f'<span><strong>Provider:</strong> {m.provider}</span>'
-        f'<span><strong>Model:</strong> {m.model}</span>'
-        f'<span><strong>Latency:</strong> {m.latency_ms:.0f} ms</span>'
-        f'<span><strong>ID:</strong> {m.request_id[:8]}</span>'
+        f'<div class="wne-meta">'
+        f'<div class="wne-meta-cell"><strong>Provider</strong>{m.provider}</div>'
+        f'<div class="wne-meta-cell"><strong>Model</strong>{m.model}</div>'
+        f'<div class="wne-meta-cell"><strong>Latency</strong>{m.latency_ms:.0f} ms</div>'
+        f'<div class="wne-meta-cell"><strong>Request ID</strong>{m.request_id[:8]}</div>'
         f'</div>',
         unsafe_allow_html=True,
     )
@@ -552,46 +645,47 @@ def _render_narrative(narrative):
 
 def _render_backtest(bt):
     """Render the backtest result."""
-    col_l, col_r = st.columns(2)
+    col_l, col_r = st.columns(2, gap="medium")
+
+    def _bt_items(items, css_extra=""):
+        return "".join(
+            f'<div class="wne-bt-item {css_extra}">'
+            f'<span class="wne-bt-item-lbl">{i.label}</span>'
+            f'{i.text}'
+            + (f'<span class="wne-src">📎 {i.source}</span>' if i.source else "")
+            + "</div>"
+            for i in items
+        )
+
     with col_l:
         st.markdown(
-            '<div class="bt-col-header bt-predicted">📊 What Was Predicted</div>',
+            f'<div class="wne-bt">'
+            f'<div class="wne-bt-hd wne-bt-hd-p">📊 What Was Predicted</div>'
+            f'<div class="wne-bt-body">{_bt_items(bt.predicted)}</div>'
+            f'</div>',
             unsafe_allow_html=True,
         )
-        for item in bt.predicted:
-            st.markdown(
-                f'<div class="bt-item">'
-                f'<span class="bt-item-label">{item.label}</span>'
-                f'{item.text}'
-                f'{"<br><small style=color:#888>Source: " + item.source + "</small>" if item.source else ""}'
-                f'</div>',
-                unsafe_allow_html=True,
-            )
-
     with col_r:
         st.markdown(
-            '<div class="bt-col-header bt-actual">✅ What Actually Happened</div>',
+            f'<div class="wne-bt">'
+            f'<div class="wne-bt-hd wne-bt-hd-a">✅ What Actually Happened</div>'
+            f'<div class="wne-bt-body">{_bt_items(bt.actual, "actual")}</div>'
+            f'</div>',
             unsafe_allow_html=True,
         )
-        for item in bt.actual:
-            st.markdown(
-                f'<div class="bt-item actual-item">'
-                f'<span class="bt-item-label">{item.label}</span>'
-                f'{item.text}'
-                f'{"<br><small style=color:#888>Source: " + item.source + "</small>" if item.source else ""}'
-                f'</div>',
-                unsafe_allow_html=True,
-            )
 
     if bt.accuracy_note:
-        st.info(f"**Accuracy Assessment:** {bt.accuracy_note}")
+        st.markdown(
+            f'<div class="wne-accuracy">📊 <strong>Accuracy Assessment</strong><br>{bt.accuracy_note}</div>',
+            unsafe_allow_html=True,
+        )
 
     m = bt.meta
     st.markdown(
-        f'<div class="meta-row">'
-        f'<span><strong>Provider:</strong> {m.provider}</span>'
-        f'<span><strong>Model:</strong> {m.model}</span>'
-        f'<span><strong>Latency:</strong> {m.latency_ms:.0f} ms</span>'
+        f'<div class="wne-meta">'
+        f'<div class="wne-meta-cell"><strong>Provider</strong>{m.provider}</div>'
+        f'<div class="wne-meta-cell"><strong>Model</strong>{m.model}</div>'
+        f'<div class="wne-meta-cell"><strong>Latency</strong>{m.latency_ms:.0f} ms</div>'
         f'</div>',
         unsafe_allow_html=True,
     )
@@ -603,55 +697,66 @@ def _render_backtest(bt):
 
 def _render_sidebar():
     with st.sidebar:
+        # Brand
         st.markdown(
-            '<div class="sidebar-brand">◆ What Next Engine</div>'
-            '<div class="sidebar-version">Escalent EVForward Intelligence Suite</div>',
+            '<div class="sb-brand"><span class="sb-gem">◆</span>'
+            '<span class="sb-name">What Next Engine</span></div>'
+            '<div class="sb-tag">Escalent EVForward Intelligence</div>',
             unsafe_allow_html=True,
         )
         st.divider()
 
-        # Coverage stats
-        st.markdown("**📊 Coverage**")
-        col1, col2 = st.columns(2)
-        col1.metric("Report Years", "7")
-        col2.metric("Data Range", "2020–26")
-        col1.metric("Scenarios", "3")
-        col2.metric("Narrative Acts", "3")
+        # Coverage KPIs
+        st.markdown('<div class="sb-section">Coverage</div>', unsafe_allow_html=True)
+        c1, c2 = st.columns(2)
+        c1.metric("Report Years", "7")
+        c2.metric("Data Range", "2020–26")
+        c1.metric("Scenarios", "3")
+        c2.metric("Acts", "3")
 
         st.divider()
 
-        # System status
-        st.markdown("**⚙️ System**")
+        # System config
+        st.markdown('<div class="sb-section">Configuration</div>', unsafe_allow_html=True)
         cfg = _get_config()
-        st.markdown(f"Provider: **{cfg['provider']}**")
-        st.markdown(f"Model: `{cfg['model']}`")
-        st.markdown(f"Embedding: `{cfg['embedding_model']}`")
-        st.markdown(f"Top-K retrieval: **{cfg['retrieval_top_k']}**")
-        st.markdown(f"Version: **v{cfg['version']}**")
+        rows = [
+            ("Provider",   cfg["provider"]),
+            ("Model",      cfg["model"]),
+            ("Embedding",  cfg["embedding_model"]),
+            ("Top-K",      str(cfg["retrieval_top_k"])),
+            ("Version",    f"v{cfg['version']}"),
+        ]
+        html = "".join(
+            f'<div class="sb-row"><span class="sb-k">{k}</span>'
+            f'<span class="sb-v" title="{v}">{v}</span></div>'
+            for k, v in rows
+        )
+        st.markdown(html, unsafe_allow_html=True)
 
         st.divider()
 
-        # ChromaDB status
+        # Knowledge base status
+        st.markdown('<div class="sb-section">Knowledge Base</div>', unsafe_allow_html=True)
         cols, chroma_err = _init_chroma()
         if cols is not None:
             ev_col, mkt_col = cols
-            ev_count = ev_col.count()
-            mkt_count = mkt_col.count()
-            st.markdown(
-                f'<span class="status-ok">● ChromaDB Ready</span>',
-                unsafe_allow_html=True,
+            ev_n, mkt_n = ev_col.count(), mkt_col.count()
+            st.markdown('<span class="sb-ok">●  Connected</span>', unsafe_allow_html=True)
+            kb_rows = [
+                ("Evidence chunks",  f"{ev_n:,}"),
+                ("Signal chunks",    f"{mkt_n:,}"),
+            ]
+            kb_html = "".join(
+                f'<div class="sb-row"><span class="sb-k">{k}</span><span class="sb-v">{v}</span></div>'
+                for k, v in kb_rows
             )
-            st.caption(f"Evidence chunks: {ev_count:,}")
-            st.caption(f"Market signal chunks: {mkt_count:,}")
+            st.markdown(kb_html, unsafe_allow_html=True)
         else:
-            st.markdown(
-                f'<span class="status-warn">⚠ ChromaDB not ready</span>',
-                unsafe_allow_html=True,
-            )
-            st.caption(f"Run ingestion first: `python run.py --ingest-only`")
+            st.markdown('<span class="sb-warn">⚠  Not ready</span>', unsafe_allow_html=True)
+            st.caption("Run: `python run.py --ingest-only`")
 
         st.divider()
-        st.caption("© 2024 Escalent. All rights reserved.")
+        st.caption("© 2025 Escalent. All rights reserved.")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -753,7 +858,7 @@ def _tab_narrative():
 
 def _run_narrative(question: str, scenario: str):
     from schemas.narrative import NarrativeRequest
-    from services.narrative_engine import generate_narrative
+    from services.narrative_engine import OutOfScopeError, generate_narrative
 
     request = NarrativeRequest(question=question, scenario=scenario)
     with st.spinner("🔍 Retrieving evidence and generating narrative…"):
@@ -761,6 +866,15 @@ def _run_narrative(question: str, scenario: str):
             result = generate_narrative(request)
             st.session_state["narrative"] = result
             st.rerun()
+        except OutOfScopeError as exc:
+            st.warning(
+                f"⚠️ **Question outside EVForward scope**\n\n"
+                f"{exc.reason}\n\n"
+                "This tool is grounded exclusively in Escalent EVForward longitudinal research "
+                "(2020–2026) and covers electric vehicles, EV adoption, charging infrastructure, "
+                "automotive electrification, and related topics. "
+                "Please rephrase your question within that domain."
+            )
         except RuntimeError as exc:
             st.error(f"**LLM service unavailable:** {exc}")
         except Exception as exc:
@@ -773,58 +887,62 @@ def _run_narrative(question: str, scenario: str):
 # ═══════════════════════════════════════════════════════════════════════════════
 
 def _tab_backtest():
-    st.markdown(
-        '<div class="nar-card">'
-        '<p style="margin:0; font-size:0.9rem; color:#555;">'
-        'Select a year to retrospectively compare what prior data would have predicted '
-        'against what actually happened in that year — validating the model\'s foresight.'
-        '</p></div>',
-        unsafe_allow_html=True,
-    )
-
     _YEARS = ["2021", "2022", "2023", "2024", "2025", "2026"]
 
-    col_year, col_q = st.columns([1, 3])
-    with col_year:
-        st.markdown("#### 📅 Year")
-        year = st.selectbox(
-            "Year",
-            _YEARS,
-            index=_YEARS.index(st.session_state["bt_year"]),
-            label_visibility="collapsed",
-        )
-        st.session_state["bt_year"] = year
+    with st.container():
+        st.markdown('<div class="wne-card">', unsafe_allow_html=True)
 
-    with col_q:
-        st.markdown("#### 📝 Analysis Question")
-        bt_q = st.text_area(
-            "Analysis Question",
-            value=st.session_state["bt_question"],
-            height=80,
-            max_chars=500,
-            label_visibility="collapsed",
-        )
-        st.session_state["bt_question"] = bt_q
+        col_year, col_q = st.columns([1, 3], gap="medium")
+        with col_year:
+            st.markdown('<span class="wne-field-label">Analysis Year</span>', unsafe_allow_html=True)
+            year = st.selectbox(
+                "Year",
+                _YEARS,
+                index=_YEARS.index(st.session_state["bt_year"]),
+                label_visibility="collapsed",
+            )
+            st.session_state["bt_year"] = year
+            st.caption("Retrospective window: prior years vs selected year")
 
-    st.markdown("")
-    col_run, col_clear = st.columns([3, 1])
-    run_clicked = col_run.button(
-        f"🔬  Run Backtest for {year}",
-        type="primary",
-        use_container_width=True,
-        disabled=(len(bt_q) < 10),
-    )
-    if col_clear.button("🗑 Clear", key="bt_clear", use_container_width=True):
-        st.session_state["backtest"] = None
-        st.rerun()
+        with col_q:
+            st.markdown('<span class="wne-field-label">Research Question</span>', unsafe_allow_html=True)
+            bt_q = st.text_area(
+                "Analysis Question",
+                value=st.session_state["bt_question"],
+                height=90,
+                max_chars=500,
+                label_visibility="collapsed",
+            )
+            st.session_state["bt_question"] = bt_q
+
+        st.markdown('<hr class="wne-divider">', unsafe_allow_html=True)
+
+        col_run, col_clear, col_spacer = st.columns([3, 1, 2])
+        run_clicked = col_run.button(
+            f"🔬  Run Backtest — {year}",
+            type="primary",
+            use_container_width=True,
+            disabled=(len(bt_q) < 10),
+        )
+        if col_clear.button("↺  Clear", key="bt_clear", use_container_width=True):
+            st.session_state["backtest"] = None
+            st.rerun()
+
+        st.markdown('</div>', unsafe_allow_html=True)
 
     if run_clicked and len(bt_q) >= 10:
         _run_backtest(year, bt_q)
 
     if st.session_state["backtest"] is not None:
         bt = st.session_state["backtest"]
-        st.markdown('<hr class="nar-divider">', unsafe_allow_html=True)
-        st.markdown(f"### 🔍 Backtest Results — {bt.year}")
+        st.divider()
+        st.markdown(
+            f'<div class="wne-results-q">🔍'
+            f' Retrospective analysis for <strong>{bt.year}</strong>'
+            f' &mdash; <em style="font-size:0.8rem">{bt.question[:90]}&hellip;</em>'
+            f'</div>',
+            unsafe_allow_html=True,
+        )
         _render_backtest(bt)
 
 
@@ -993,22 +1111,19 @@ def _tab_system_REMOVED():
 def main():
     _render_sidebar()
 
-    # ── Hero banner ────────────────────────────────────────────────────────────
+    # ── Topbar ────────────────────────────────────────────────────────────────
     st.markdown(
-        '<div class="nar-hero">'
-        '  <div class="nar-hero-eyebrow">Escalent EVForward Intelligence</div>'
-        '  <div class="nar-hero-title">'
-        '    <span class="nar-hero-gem">◆</span> What Next Engine'
+        '<div class="wne-topbar">'
+        '  <div class="wne-logo">'
+        '    <span class="wne-gem">◆</span>'
+        '    <div><div class="wne-app-name">What Next Engine</div>'
+        '    <div class="wne-app-tag">Escalent EVForward Strategic Intelligence</div></div>'
         '  </div>'
-        '  <div class="nar-hero-lead">'
-        '    Transform EVForward longitudinal research and real-world market signals into '
-        '    evidence-grounded, three-act strategic narratives — with full source traceability.'
-        '  </div>'
-        '  <div class="nar-hero-stats">'
-        '    <div class="nar-hero-stat"><span class="stat-n">7</span><span class="stat-l">Report Years</span></div>'
-        '    <div class="nar-hero-stat"><span class="stat-n">2020–2026</span><span class="stat-l">EVForward Data</span></div>'
-        '    <div class="nar-hero-stat"><span class="stat-n">3</span><span class="stat-l">Scenarios</span></div>'
-        '    <div class="nar-hero-stat"><span class="stat-n">3</span><span class="stat-l">Narrative Acts</span></div>'
+        '  <div class="wne-kpis">'
+        '    <div class="wne-kpi"><span class="wne-kpi-v">7</span><span class="wne-kpi-l">Report Years</span></div>'
+        '    <div class="wne-kpi"><span class="wne-kpi-v">2020–2026</span><span class="wne-kpi-l">EVForward Data</span></div>'
+        '    <div class="wne-kpi"><span class="wne-kpi-v">3</span><span class="wne-kpi-l">Scenarios</span></div>'
+        '    <div class="wne-kpi"><span class="wne-kpi-v">3</span><span class="wne-kpi-l">Narrative Acts</span></div>'
         '  </div>'
         '</div>',
         unsafe_allow_html=True,
@@ -1016,8 +1131,8 @@ def main():
 
     # ── Tabs ───────────────────────────────────────────────────────────────────
     tab_narrative, tab_backtest = st.tabs([
-        "⚡ Narrative Generator",
-        "🔬 Backtest Validation",
+        "⚡  Narrative Generator",
+        "🔬  Backtest Validation",
     ])
 
     with tab_narrative:
